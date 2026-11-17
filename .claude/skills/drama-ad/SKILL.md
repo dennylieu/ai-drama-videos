@@ -33,6 +33,11 @@ claim; language/accent; length (10 s hook, 15 s segment, or 30 s = two segments)
 product is revealed; optional reference ad.
 
 ### 2. Pick the engine and write 3+ hooks
+Before the scene, run `creative-strategy` prompt 15 (pain moments: events with who was there and the place) and, if
+research exists, use the purchase trigger (prompt 4) for the stakes and the objection bucket (prompt 5) for who
+delivers the verdict. Every hook must point to the body line that pays it off (prompt 12), and the person in the
+first line is the person who buys.
+
 Verdict engine or Shame engine (`reference/scene-engines.md`). Offer at least 3 hook options, each as: opening
 insert, the lines, the final look. Recommend one and say why. **Wait for approval.**
 

@@ -43,8 +43,8 @@ Then write a **Visual summary** under the table:
 - Product: first appearance time, how it is shown, how long, with what words.
 - Text and captions: how much of the story works on mute.
 
-## 4. Read the copy
-Run the analysis in `copy-analysis-prompt.md` over the transcript + on-screen text + visual summary. Write the answer
+## 4. Winner analysis (skeleton first)
+Run `copy-analysis-prompt.md` (skeleton, element jobs, hook/payoff, drop-off if we have the data) over the transcript + on-screen text + visual summary. Write the answer
 into `ads/<CODE>-<slug>/refs/<ref>/analysis.md`.
 
 ## 5. Swipe brief
