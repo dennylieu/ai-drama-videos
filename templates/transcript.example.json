@@ -1,0 +1,11 @@
+{
+  "_note": "Example of a clip transcript where the model changed one word (bottled -> bottle). Used by the Test it step.",
+  "text": "I stopped buying bottle water.",
+  "words": [
+    { "word": "I", "start": 0.12, "end": 0.2 },
+    { "word": "stopped", "start": 0.2, "end": 0.55 },
+    { "word": "buying", "start": 0.55, "end": 0.9 },
+    { "word": "bottle", "start": 0.9, "end": 1.3 },
+    { "word": "water.", "start": 1.3, "end": 1.75 }
+  ]
+}

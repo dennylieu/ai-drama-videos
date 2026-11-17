@@ -1,0 +1,12 @@
+ads/**/clips/
+ads/**/stills/
+ads/**/final/
+ads/**/plates/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+.env
+__pycache__/

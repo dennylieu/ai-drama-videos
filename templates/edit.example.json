@@ -1,0 +1,11 @@
+{
+  "_note": "Copy to <ad project folder>/edit.json. Paths are relative to this file. One list per hook; only the opening clip differs between hooks.",
+  "code": "LP.1",
+  "loudness": -14,
+  "hooks": {
+    "A": [
+      { "clip": "clips/c1.mp4", "in": 0.0, "out": null, "trim_end": 0.05 },
+      { "clip": "clips/c2.mp4", "trim_end": 0.05 }
+    ]
+  }
+}

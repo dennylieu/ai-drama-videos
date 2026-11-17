@@ -1,0 +1,12 @@
+{
+  "_note": "Copy to <ad project folder>/plates.json. Plates first: every plate approved by the user before any scene still; every still logged with the plates it was made from. Check: python3 -I -B scripts/plate_check.py plates.json --stills-dir stills",
+  "plates": {
+    "woman45": {"kind": "character", "label": "the woman about 45 with a grey bob", "file": "plates/woman45.png", "approved": false},
+    "bottle": {"kind": "product", "label": "the Loopa bottle, 24 cm, cap on", "file": "plates/bottle.png", "real_photos": ["products/bottle_front.jpg"], "approved": false},
+    "kitchen": {"kind": "location", "label": "the small white kitchen", "file": "plates/kitchen.png", "approved": false}
+  },
+  "stills": {
+    "stills/s1_c01.png": ["woman45", "kitchen"],
+    "stills/s1_c02.png": ["woman45", "bottle", "kitchen"]
+  }
+}
