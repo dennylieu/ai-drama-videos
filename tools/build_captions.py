@@ -19,6 +19,7 @@ import math
 import re
 
 END_PUNCT = re.compile(r"[.?!]$")
+ABBREV = re.compile(r"(?i)^(mr|mrs|ms|dr|st|jr|sr|vs)\.$")
 
 
 def ts(t):
@@ -31,6 +32,9 @@ def ts(t):
 def clean(word, fixes):
     w = word.strip()
     for bad, good in fixes:
+        if " " in bad or not re.match(r"^\w", bad):
+            w = w.replace(bad, good)
+            continue
         w = re.sub(rf"(?i)\b{re.escape(bad)}\b", good, w)
     return w
 
@@ -43,13 +47,20 @@ def display(w):
 def split_balanced(chunk, max_words, max_chars):
     """Split one spoken line into near-equal pieces of <= max_words words and <= max_chars chars."""
     n = len(chunk)
-    parts = max(1, math.ceil(n / max_words))
-    while True:
-        size = math.ceil(n / parts)
-        pieces = [chunk[i:i + size] for i in range(0, n, size)]
-        if all(len(" ".join(display(w["word"]) for w in p)) <= max_chars for p in pieces) or size == 1:
-            return pieces
-        parts += 1
+    target = math.ceil(n / max(1, math.ceil(n / max_words)))  # e.g. 5 words -> 3+2, 6 -> 3+3, 7 -> 4+3
+    text = lambda p: " ".join(display(w["word"]) for w in p)
+    pieces, cur = [], []
+    for w in chunk:
+        if cur and (len(cur) >= target or len(text(cur + [w])) > max_chars):
+            pieces.append(cur)
+            cur = []
+        cur.append(w)
+    if cur:
+        pieces.append(cur)
+    # no one-word orphan at the end when the previous caption can lend a word
+    if len(pieces) > 1 and len(pieces[-1]) == 1 and len(pieces[-2]) >= 3:
+        pieces[-1].insert(0, pieces[-2].pop())
+    return pieces
 
 
 def main():
@@ -62,28 +73,49 @@ def main():
     ap.add_argument("--max-words", type=int, default=4)
     ap.add_argument("--max-chars", type=int, default=22)
     ap.add_argument("--gap", type=float, default=0.45, help="pause (s) that starts a new spoken line")
+    ap.add_argument("--cut-pause", type=float, default=0.12, help="min pause (s) for a hard cut to break a line")
     ap.add_argument("--y", type=int, default=1250)
     ap.add_argument("--tail", type=float, default=0.25, help="seconds a caption stays after its last word")
     ap.add_argument("--fix", action="append", default=[], help='"wrong=right", case-insensitive whole word')
     a = ap.parse_args()
 
     fixes = [tuple(f.split("=", 1)) for f in a.fix]
-    words = [dict(w, word=clean(w["word"], fixes)) for w in json.load(open(a.words))["words"] if w["word"].strip()]
+    raw = [dict(w, word=clean(w["word"], fixes)) for w in json.load(open(a.words))["words"] if w["word"].strip()]
+    # glue tokens the speech model splits off ("-up", ".B", "'s") back onto the previous word
+    words = []
+    for w in raw:
+        if words and re.match(r"^[-.'’]", w["word"]):
+            words[-1] = dict(words[-1], word=words[-1]["word"] + w["word"], end=w["end"])
+        else:
+            words.append(w)
+    for w in words:
+        w["word"] = re.sub(r"(?<=\w)\.(?=\w)", ".", w["word"]).replace(" ", "")
     cuts = sorted(float(x) for x in open(a.cuts).read().split()) if a.cuts else []
 
     def cut_between(t0, t1):
         i = bisect.bisect_right(cuts, t0)
         return i < len(cuts) and cuts[i] <= t1
 
-    # 1. spoken lines: break on sentence end, a pause, or a hard cut between two words
+    # 1. spoken lines: break on sentence end, a pause, or a hard cut that falls in a real pause between two words
+    #    (a voice running over fast cuts stays one line). "Mr." / "Mrs." / "Dr." never end a line.
     lines, cur = [], []
     for i, w in enumerate(words):
         cur.append(w)
         nxt = words[i + 1] if i + 1 < len(words) else None
-        if (nxt is None or END_PUNCT.search(w["word"]) or nxt["start"] - w["end"] > a.gap
-                or cut_between(w["end"] - 0.05, nxt["start"] + 0.05)):
+        sentence_end = END_PUNCT.search(w["word"]) and not ABBREV.match(w["word"])
+        pause = nxt["start"] - w["end"] if nxt else 0
+        if (nxt is None or sentence_end or pause > a.gap
+                or (pause > a.cut_pause and cut_between(w["end"] - 0.05, nxt["start"] + 0.05))):
             lines.append(cur)
             cur = []
+    # a one-word line next to a line from the same breath (no real pause) joins it
+    merged = []
+    for ln in lines:
+        if merged and len(ln) == 1 and ln[0]["start"] - merged[-1][-1]["end"] < a.cut_pause and len(merged[-1]) < a.max_words:
+            merged[-1] = merged[-1] + ln
+        else:
+            merged.append(ln)
+    lines = merged
 
     # 2. each line into 3-4 word captions
     caps = []
