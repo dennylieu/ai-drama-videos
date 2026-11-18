@@ -4,6 +4,10 @@ Source: Ori Silver, "Inside Ryze's $22M Song Ads: The Blueprint Behind Their Win
 2026-09-25 (https://x.com/OriSilver/status/2103566774687969435). Summarised and rewritten for this repo; Ryze
 sells powdered wellness drink blends and its best ads are 7-10 minute songs, reported at over $22M revenue a month.
 
+This is the story layer. Where it differs from `foundation.md` (the direct-response layer), foundation wins: the
+mechanism gets real airtime (~22 % selling, not "very little"), the chorus carries the mechanism, the "mentor" is the
+messenger and sits where the viewer would believe they'd meet them, and the drama must be caused by the problem.
+
 ## Everything starts with the sub-avatar
 The hero's age, the betrayal, the setting, the mentor and the pain point are all picked to fit one specific person
 and the fear they keep to themselves.
