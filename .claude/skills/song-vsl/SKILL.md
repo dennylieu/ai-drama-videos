@@ -14,6 +14,8 @@ Built from three articles, used in this order (full notes in `reference/`):
 3. **The story on top** - Ori Silver, "Inside Ryze's $22M Song Ads" (X, Sep 2026): sub-avatar, hero's-journey fall
    and rise, closest-person betrayal, mentor before product, vindication. `reference/blueprint.md`
 Fill-in templates for every step: `reference/templates.md`.
+Worked teardown of a live winner (Lymphoria, 8:27, night-shift nurse, lymphatic drops) with its block timings:
+`ads/KB1-kolabloom-song/refs/ref1/analysis.md`.
 
 **The song is not what sells.** It holds attention line to line and the visuals change every second; that buys the
 minutes a VSL needs. Before the product the ad makes four sales: **content** (watch to the end), **hope** (it can be
@@ -220,15 +222,21 @@ Write the cast list: one locked sentence per character (`drama-ad` step 3 rules)
    stack, chorus, verse 2 failed solutions, bridge messenger + mechanism + product + doubt, chorus, verse 3 proof,
    final chorus over the payoff, spoken/half-sung close.
 2. **Chorus carries the mechanism** (why nothing worked, what finally did). First chorus hints, later choruses state
-   it in full. By the third time they're singing it back.
+   it in full. By the third time they're singing it back. Alternative seen in a live winner (Lymphoria, see below):
+   no classic chorus but a **motif line** that comes back with a new meaning each time ("she's always on nights"
+   said by the betrayer -> "Relax, I'm on nights" at the payoff -> the final CTA), plus one mechanism restatement
+   near the end ("It was never fat. It was never my age. It was waste.").
 3. Verses keep the script's details and sound like a real person talking. Concrete nouns over feelings.
-4. Line 1 = the hook, sung plainly, intro under 2 s.
+4. Line 1 = the hook, sung plainly, intro under 2 s. Option: a **cold open** on the payoff moment, unresolved
+   ("I slapped my best friend at her own birthday party... let me tell you how I got there"); the loop closes when
+   the story catches up to it.
 5. Close (last ~60 s, to camera): "So if you're the one who..." with 2-3 VOC details; not your fault; mechanism in one
    line; price per day vs the cost of the problem; the offer; the guarantee with its reason; gain now; lose by
    waiting (if true); CTA.
 6. Claims: what another person could see, plus the brand-approved mechanism. No disease words, no "cured", no
    numbers the brand can't back.
-7. Length: ~130-150 sung words per minute. Count and write the total and the estimated runtime.
+7. Length: plan at ~190-200 words per minute (the Lymphoria winner ran 197 wpm with music under it; a slower
+   ballad is ~130-150). Count and write the total and the estimated runtime.
 8. Save the lyrics with section tags to `ads/<code>/lyrics.txt` (one line per sung line).
 
 ### Step 12. Self-review (never ask a model "is this good?")

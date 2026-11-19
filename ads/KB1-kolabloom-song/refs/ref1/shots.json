@@ -1,0 +1,2810 @@
+[
+ {
+  "shot": 1,
+  "start": 0.0,
+  "end": 2.5,
+  "dur": 2.5,
+  "frames": [
+   "frames/s01_a.jpg",
+   "frames/s01_m.jpg",
+   "frames/s01_z.jpg"
+  ],
+  "words": "I slept the shit out of my best friend In 19"
+ },
+ {
+  "shot": 2,
+  "start": 2.5,
+  "end": 3.57,
+  "dur": 1.07,
+  "frames": [
+   "frames/s02_a.jpg",
+   "frames/s02_m.jpg",
+   "frames/s02_z.jpg"
+  ],
+  "words": "years at her own"
+ },
+ {
+  "shot": 3,
+  "start": 3.57,
+  "end": 10.43,
+  "dur": 6.87,
+  "frames": [
+   "frames/s03_a.jpg",
+   "frames/s03_m.jpg",
+   "frames/s03_z.jpg"
+  ],
+  "words": "birthday party She was out cold before she hit the floor And when she woke up I said one sentence to the room that ended the marriage"
+ },
+ {
+  "shot": 4,
+  "start": 10.43,
+  "end": 12.83,
+  "dur": 2.4,
+  "frames": [
+   "frames/s04_a.jpg",
+   "frames/s04_m.jpg",
+   "frames/s04_z.jpg"
+  ],
+  "words": "Let me tell you how I got there Six"
+ },
+ {
+  "shot": 5,
+  "start": 12.83,
+  "end": 14.9,
+  "dur": 2.07,
+  "frames": [
+   "frames/s05_a.jpg",
+   "frames/s05_m.jpg",
+   "frames/s05_z.jpg"
+  ],
+  "words": "weeks before that party I was"
+ },
+ {
+  "shot": 6,
+  "start": 14.9,
+  "end": 16.37,
+  "dur": 1.47,
+  "frames": [
+   "frames/s06_a.jpg",
+   "frames/s06_m.jpg",
+   "frames/s06_z.jpg"
+  ],
+  "words": "four hours"
+ },
+ {
+  "shot": 7,
+  "start": 16.37,
+  "end": 18.37,
+  "dur": 2.0,
+  "frames": [
+   "frames/s07_a.jpg",
+   "frames/s07_m.jpg",
+   "frames/s07_z.jpg"
+  ],
+  "words": "into a 12 hour night shift My ankles"
+ },
+ {
+  "shot": 8,
+  "start": 18.37,
+  "end": 20.2,
+  "dur": 1.83,
+  "frames": [
+   "frames/s08_a.jpg",
+   "frames/s08_m.jpg",
+   "frames/s08_z.jpg"
+  ],
+  "words": "were so swollen I couldn't get my shoes"
+ },
+ {
+  "shot": 9,
+  "start": 20.2,
+  "end": 22.13,
+  "dur": 1.93,
+  "frames": [
+   "frames/s09_a.jpg",
+   "frames/s09_m.jpg",
+   "frames/s09_z.jpg"
+  ],
+  "words": "back on My charged nurse looked at my"
+ },
+ {
+  "shot": 10,
+  "start": 22.13,
+  "end": 23.53,
+  "dur": 1.4,
+  "frames": [
+   "frames/s10_a.jpg",
+   "frames/s10_m.jpg",
+   "frames/s10_z.jpg"
+  ],
+  "words": "feet and said Go home,"
+ },
+ {
+  "shot": 11,
+  "start": 23.53,
+  "end": 25.47,
+  "dur": 1.93,
+  "frames": [
+   "frames/s11_a.jpg",
+   "frames/s11_m.jpg",
+   "frames/s11_z.jpg"
+  ],
+  "words": "you're no good to me like this So I drove home"
+ },
+ {
+  "shot": 12,
+  "start": 25.47,
+  "end": 31.13,
+  "dur": 5.67,
+  "frames": [
+   "frames/s12_a.jpg",
+   "frames/s12_m.jpg",
+   "frames/s12_z.jpg"
+  ],
+  "words": "and my socks 1 .40 in the morning Turned on to my street and Renee's white jeep Was sitting in my driveway,"
+ },
+ {
+  "shot": 13,
+  "start": 31.13,
+  "end": 43.8,
+  "dur": 12.67,
+  "frames": [
+   "frames/s13_a.jpg",
+   "frames/s13_m.jpg",
+   "frames/s13_z.jpg"
+  ],
+  "words": "Renee works day She should've been asleep hours ago I figured she dropped off my casserole dish And they lost track of time I came in through the garage, house was dark The TV glowing in the living room, Netflix asking I used to watchin',"
+ },
+ {
+  "shot": 14,
+  "start": 43.8,
+  "end": 45.6,
+  "dur": 1.8,
+  "frames": [
+   "frames/s14_a.jpg",
+   "frames/s14_m.jpg",
+   "frames/s14_z.jpg"
+  ],
+  "words": "her shoes were by the door Next to his and"
+ },
+ {
+  "shot": 15,
+  "start": 45.6,
+  "end": 49.0,
+  "dur": 3.4,
+  "frames": [
+   "frames/s15_a.jpg",
+   "frames/s15_m.jpg",
+   "frames/s15_z.jpg"
+  ],
+  "words": "then I heard it Now talkin' I'm laughing, her moanin' is name I stepped"
+ },
+ {
+  "shot": 16,
+  "start": 49.0,
+  "end": 50.63,
+  "dur": 1.63,
+  "frames": [
+   "frames/s16_a.jpg",
+   "frames/s16_m.jpg",
+   "frames/s16_z.jpg"
+  ],
+  "words": "into the doorway, her sweater"
+ },
+ {
+  "shot": 17,
+  "start": 50.63,
+  "end": 51.9,
+  "dur": 1.27,
+  "frames": [
+   "frames/s17_a.jpg",
+   "frames/s17_m.jpg",
+   "frames/s17_z.jpg"
+  ],
+  "words": "on the floor Her bra hanging"
+ },
+ {
+  "shot": 18,
+  "start": 51.9,
+  "end": 53.5,
+  "dur": 1.6,
+  "frames": [
+   "frames/s18_a.jpg",
+   "frames/s18_m.jpg",
+   "frames/s18_z.jpg"
+  ],
+  "words": "off the arm on my couch"
+ },
+ {
+  "shot": 19,
+  "start": 53.5,
+  "end": 55.0,
+  "dur": 1.5,
+  "frames": [
+   "frames/s19_a.jpg",
+   "frames/s19_m.jpg",
+   "frames/s19_z.jpg"
+  ],
+  "words": "The one I paid for with my"
+ },
+ {
+  "shot": 20,
+  "start": 55.0,
+  "end": 55.83,
+  "dur": 0.83,
+  "frames": [
+   "frames/s20_a.jpg",
+   "frames/s20_m.jpg",
+   "frames/s20_z.jpg"
+  ],
+  "words": "overtime"
+ },
+ {
+  "shot": 21,
+  "start": 55.83,
+  "end": 56.47,
+  "dur": 0.63,
+  "frames": [
+   "frames/s21_a.jpg",
+   "frames/s21_m.jpg",
+   "frames/s21_z.jpg"
+  ],
+  "words": "She"
+ },
+ {
+  "shot": 22,
+  "start": 56.47,
+  "end": 57.93,
+  "dur": 1.47,
+  "frames": [
+   "frames/s22_a.jpg",
+   "frames/s22_m.jpg",
+   "frames/s22_z.jpg"
+  ],
+  "words": "was on top of him, his hands on"
+ },
+ {
+  "shot": 23,
+  "start": 57.93,
+  "end": 59.57,
+  "dur": 1.63,
+  "frames": [
+   "frames/s23_a.jpg",
+   "frames/s23_m.jpg",
+   "frames/s23_z.jpg"
+  ],
+  "words": "the hips My husband and Renee,"
+ },
+ {
+  "shot": 24,
+  "start": 59.57,
+  "end": 60.63,
+  "dur": 1.07,
+  "frames": [
+   "frames/s24_a.jpg",
+   "frames/s24_m.jpg",
+   "frames/s24_z.jpg"
+  ],
+  "words": "my best friend"
+ },
+ {
+  "shot": 25,
+  "start": 60.63,
+  "end": 61.7,
+  "dur": 1.07,
+  "frames": [
+   "frames/s25_a.jpg",
+   "frames/s25_m.jpg",
+   "frames/s25_z.jpg"
+  ],
+  "words": "in 19 years"
+ },
+ {
+  "shot": 26,
+  "start": 61.7,
+  "end": 63.27,
+  "dur": 1.57,
+  "frames": [
+   "frames/s26_a.jpg",
+   "frames/s26_m.jpg",
+   "frames/s26_z.jpg"
+  ],
+  "words": "My maid of honor,"
+ },
+ {
+  "shot": 27,
+  "start": 63.27,
+  "end": 65.7,
+  "dur": 2.43,
+  "frames": [
+   "frames/s27_a.jpg",
+   "frames/s27_m.jpg",
+   "frames/s27_z.jpg"
+  ],
+  "words": "we started on the same floor She went to"
+ },
+ {
+  "shot": 28,
+  "start": 65.7,
+  "end": 66.73,
+  "dur": 1.03,
+  "frames": [
+   "frames/s28_a.jpg",
+   "frames/s28_m.jpg",
+   "frames/s28_z.jpg"
+  ],
+  "words": "days, I stayed on nights"
+ },
+ {
+  "shot": 29,
+  "start": 66.73,
+  "end": 69.0,
+  "dur": 2.27,
+  "frames": [
+   "frames/s29_a.jpg",
+   "frames/s29_m.jpg",
+   "frames/s29_z.jpg"
+  ],
+  "words": "She held my hand when I gave birth"
+ },
+ {
+  "shot": 30,
+  "start": 69.0,
+  "end": 70.67,
+  "dur": 1.67,
+  "frames": [
+   "frames/s30_a.jpg",
+   "frames/s30_m.jpg",
+   "frames/s30_z.jpg"
+  ],
+  "words": "They didn't even make it"
+ },
+ {
+  "shot": 31,
+  "start": 70.67,
+  "end": 76.03,
+  "dur": 5.37,
+  "frames": [
+   "frames/s31_a.jpg",
+   "frames/s31_m.jpg",
+   "frames/s31_z.jpg"
+  ],
+  "words": "upstairs He said, what if she comes home and she laughs Relax, she's on nights She's"
+ },
+ {
+  "shot": 32,
+  "start": 76.03,
+  "end": 78.03,
+  "dur": 2.0,
+  "frames": [
+   "frames/s32_a.jpg",
+   "frames/s32_m.jpg",
+   "frames/s32_z.jpg"
+  ],
+  "words": "always on nights I stood in that"
+ },
+ {
+  "shot": 33,
+  "start": 78.03,
+  "end": 79.6,
+  "dur": 1.57,
+  "frames": [
+   "frames/s33_a.jpg",
+   "frames/s33_m.jpg",
+   "frames/s33_z.jpg"
+  ],
+  "words": "doorway, holding my shoes"
+ },
+ {
+  "shot": 34,
+  "start": 79.6,
+  "end": 82.17,
+  "dur": 2.57,
+  "frames": [
+   "frames/s34_a.jpg",
+   "frames/s34_m.jpg",
+   "frames/s34_z.jpg"
+  ],
+  "words": "I saw nothing ever looked up"
+ },
+ {
+  "shot": 35,
+  "start": 82.17,
+  "end": 85.27,
+  "dur": 3.1,
+  "frames": [
+   "frames/s35_a.jpg",
+   "frames/s35_m.jpg",
+   "frames/s35_z.jpg"
+  ],
+  "words": "I backed out through the garage Settin' my car down the"
+ },
+ {
+  "shot": 36,
+  "start": 85.27,
+  "end": 87.27,
+  "dur": 2.0,
+  "frames": [
+   "frames/s36_a.jpg",
+   "frames/s36_m.jpg",
+   "frames/s36_z.jpg"
+  ],
+  "words": "street Washed her jeep, pulled out at 5 AM"
+ },
+ {
+  "shot": 37,
+  "start": 87.27,
+  "end": 90.1,
+  "dur": 2.83,
+  "frames": [
+   "frames/s37_a.jpg",
+   "frames/s37_m.jpg",
+   "frames/s37_z.jpg"
+  ],
+  "words": "Then I drove home and said I walked in"
+ },
+ {
+  "shot": 38,
+  "start": 90.1,
+  "end": 92.97,
+  "dur": 2.87,
+  "frames": [
+   "frames/s38_a.jpg",
+   "frames/s38_m.jpg",
+   "frames/s38_z.jpg"
+  ],
+  "words": "Like my shift just ended, he kissed me on the cheek And asked how my"
+ },
+ {
+  "shot": 39,
+  "start": 92.97,
+  "end": 94.93,
+  "dur": 1.97,
+  "frames": [
+   "frames/s39_a.jpg",
+   "frames/s39_m.jpg",
+   "frames/s39_z.jpg"
+  ],
+  "words": "night was Two days later, I went"
+ },
+ {
+  "shot": 40,
+  "start": 94.93,
+  "end": 96.23,
+  "dur": 1.3,
+  "frames": [
+   "frames/s40_a.jpg",
+   "frames/s40_m.jpg",
+   "frames/s40_z.jpg"
+  ],
+  "words": "to Monica's house The only"
+ },
+ {
+  "shot": 41,
+  "start": 96.23,
+  "end": 97.93,
+  "dur": 1.7,
+  "frames": [
+   "frames/s41_a.jpg",
+   "frames/s41_m.jpg",
+   "frames/s41_z.jpg"
+  ],
+  "words": "person I trusted more than Renee"
+ },
+ {
+  "shot": 42,
+  "start": 97.93,
+  "end": 100.27,
+  "dur": 2.33,
+  "frames": [
+   "frames/s42_a.jpg",
+   "frames/s42_m.jpg",
+   "frames/s42_z.jpg"
+  ],
+  "words": "I needed one person on my side She"
+ },
+ {
+  "shot": 43,
+  "start": 100.27,
+  "end": 102.77,
+  "dur": 2.5,
+  "frames": [
+   "frames/s43_a.jpg",
+   "frames/s43_m.jpg",
+   "frames/s43_z.jpg"
+  ],
+  "words": "went quiet, then she said Honey, we all know"
+ },
+ {
+  "shot": 44,
+  "start": 102.77,
+  "end": 104.47,
+  "dur": 1.7,
+  "frames": [
+   "frames/s44_a.jpg",
+   "frames/s44_m.jpg",
+   "frames/s44_z.jpg"
+  ],
+  "words": "it's been two years She sat"
+ },
+ {
+  "shot": 45,
+  "start": 104.47,
+  "end": 108.37,
+  "dur": 3.9,
+  "frames": [
+   "frames/s45_a.jpg",
+   "frames/s45_m.jpg",
+   "frames/s45_z.jpg"
+  ],
+  "words": "next to you with your dad's funeral We all did, we knew"
+ },
+ {
+  "shot": 46,
+  "start": 108.37,
+  "end": 109.0,
+  "dur": 0.63,
+  "frames": [
+   "frames/s46_a.jpg",
+   "frames/s46_m.jpg",
+   "frames/s46_z.jpg"
+  ],
+  "words": "then I"
+ },
+ {
+  "shot": 47,
+  "start": 109.0,
+  "end": 110.83,
+  "dur": 1.83,
+  "frames": [
+   "frames/s47_a.jpg",
+   "frames/s47_m.jpg",
+   "frames/s47_z.jpg"
+  ],
+  "words": "asked her why nobody told me"
+ },
+ {
+  "shot": 48,
+  "start": 110.83,
+  "end": 112.93,
+  "dur": 2.1,
+  "frames": [
+   "frames/s48_a.jpg",
+   "frames/s48_m.jpg",
+   "frames/s48_z.jpg"
+  ],
+  "words": "She looked me up and down and said Honestly,"
+ },
+ {
+  "shot": 49,
+  "start": 112.93,
+  "end": 115.73,
+  "dur": 2.8,
+  "frames": [
+   "frames/s49_a.jpg",
+   "frames/s49_m.jpg",
+   "frames/s49_z.jpg"
+  ],
+  "words": "look at you We figured if you found out you'd fall apart"
+ },
+ {
+  "shot": 50,
+  "start": 115.73,
+  "end": 117.4,
+  "dur": 1.67,
+  "frames": [
+   "frames/s50_a.jpg",
+   "frames/s50_m.jpg",
+   "frames/s50_z.jpg"
+  ],
+  "words": "And then what he leaves And"
+ },
+ {
+  "shot": 51,
+  "start": 117.4,
+  "end": 119.57,
+  "dur": 2.17,
+  "frames": [
+   "frames/s51_a.jpg",
+   "frames/s51_m.jpg",
+   "frames/s51_z.jpg"
+  ],
+  "words": "who's gonna want you like this"
+ },
+ {
+  "shot": 52,
+  "start": 119.57,
+  "end": 122.03,
+  "dur": 2.47,
+  "frames": [
+   "frames/s52_a.jpg",
+   "frames/s52_m.jpg",
+   "frames/s52_z.jpg"
+  ],
+  "words": "I couldn't get that out of my head So I"
+ },
+ {
+  "shot": 53,
+  "start": 122.03,
+  "end": 124.1,
+  "dur": 2.07,
+  "frames": [
+   "frames/s53_a.jpg",
+   "frames/s53_m.jpg",
+   "frames/s53_z.jpg"
+  ],
+  "words": "went to my doctor She didn't even look"
+ },
+ {
+  "shot": 54,
+  "start": 124.1,
+  "end": 126.13,
+  "dur": 2.03,
+  "frames": [
+   "frames/s54_a.jpg",
+   "frames/s54_m.jpg",
+   "frames/s54_z.jpg"
+  ],
+  "words": "up her screen It's hormones are 44"
+ },
+ {
+  "shot": 55,
+  "start": 126.13,
+  "end": 128.43,
+  "dur": 2.3,
+  "frames": [
+   "frames/s55_a.jpg",
+   "frames/s55_m.jpg",
+   "frames/s55_z.jpg"
+  ],
+  "words": "Welcome to it That week I was back on"
+ },
+ {
+  "shot": 56,
+  "start": 128.43,
+  "end": 129.73,
+  "dur": 1.3,
+  "frames": [
+   "frames/s56_a.jpg",
+   "frames/s56_m.jpg",
+   "frames/s56_z.jpg"
+  ],
+  "words": "nights Hadn't slept in"
+ },
+ {
+  "shot": 57,
+  "start": 129.73,
+  "end": 132.2,
+  "dur": 2.47,
+  "frames": [
+   "frames/s57_a.jpg",
+   "frames/s57_m.jpg",
+   "frames/s57_z.jpg"
+  ],
+  "words": "three days 3 AM, hiding in the med room"
+ },
+ {
+  "shot": 58,
+  "start": 132.2,
+  "end": 133.87,
+  "dur": 1.67,
+  "frames": [
+   "frames/s58_a.jpg",
+   "frames/s58_m.jpg",
+   "frames/s58_z.jpg"
+  ],
+  "words": "Crying into a pack of gauze"
+ },
+ {
+  "shot": 59,
+  "start": 133.87,
+  "end": 135.93,
+  "dur": 2.07,
+  "frames": [
+   "frames/s59_a.jpg",
+   "frames/s59_m.jpg",
+   "frames/s59_z.jpg"
+  ],
+  "words": "My scarer everywhere They so"
+ },
+ {
+  "shot": 60,
+  "start": 135.93,
+  "end": 137.77,
+  "dur": 1.83,
+  "frames": [
+   "frames/s60_a.jpg",
+   "frames/s60_m.jpg",
+   "frames/s60_z.jpg"
+  ],
+  "words": "swollen, my eyes are slits My"
+ },
+ {
+  "shot": 61,
+  "start": 137.77,
+  "end": 139.63,
+  "dur": 1.87,
+  "frames": [
+   "frames/s61_a.jpg",
+   "frames/s61_m.jpg",
+   "frames/s61_z.jpg"
+  ],
+  "words": "scrubs pulled across my stomach My wedding"
+ },
+ {
+  "shot": 62,
+  "start": 139.63,
+  "end": 141.5,
+  "dur": 1.87,
+  "frames": [
+   "frames/s62_a.jpg",
+   "frames/s62_m.jpg",
+   "frames/s62_z.jpg"
+  ],
+  "words": "ring Stuck into my finger She's"
+ },
+ {
+  "shot": 63,
+  "start": 141.5,
+  "end": 142.87,
+  "dur": 1.37,
+  "frames": [
+   "frames/s63_a.jpg",
+   "frames/s63_m.jpg",
+   "frames/s63_z.jpg"
+  ],
+  "words": "always on nights"
+ },
+ {
+  "shot": 64,
+  "start": 142.87,
+  "end": 144.73,
+  "dur": 1.87,
+  "frames": [
+   "frames/s64_a.jpg",
+   "frames/s64_m.jpg",
+   "frames/s64_z.jpg"
+  ],
+  "words": "That's what she said I look like"
+ },
+ {
+  "shot": 65,
+  "start": 144.73,
+  "end": 146.63,
+  "dur": 1.9,
+  "frames": [
+   "frames/s65_a.jpg",
+   "frames/s65_m.jpg",
+   "frames/s65_z.jpg"
+  ],
+  "words": "it I look like one of my patients"
+ },
+ {
+  "shot": 66,
+  "start": 146.63,
+  "end": 149.13,
+  "dur": 2.5,
+  "frames": [
+   "frames/s66_a.jpg",
+   "frames/s66_m.jpg",
+   "frames/s66_z.jpg"
+  ],
+  "words": "The door opened Delores, our night"
+ },
+ {
+  "shot": 67,
+  "start": 149.13,
+  "end": 154.67,
+  "dur": 5.53,
+  "frames": [
+   "frames/s67_a.jpg",
+   "frames/s67_m.jpg",
+   "frames/s67_z.jpg"
+  ],
+  "words": "charge nurse 61 years old 30 years and nights I'm still the best looking woman on that floor"
+ },
+ {
+  "shot": 68,
+  "start": 154.67,
+  "end": 155.13,
+  "dur": 0.47,
+  "frames": [
+   "frames/s68_a.jpg",
+   "frames/s68_m.jpg",
+   "frames/s68_z.jpg"
+  ],
+  "words": "She closed"
+ },
+ {
+  "shot": 69,
+  "start": 155.13,
+  "end": 158.4,
+  "dur": 3.27,
+  "frames": [
+   "frames/s69_a.jpg",
+   "frames/s69_m.jpg",
+   "frames/s69_z.jpg"
+  ],
+  "words": "the door behind her I said, who did this to you I"
+ },
+ {
+  "shot": 70,
+  "start": 158.4,
+  "end": 160.37,
+  "dur": 1.97,
+  "frames": [
+   "frames/s70_a.jpg",
+   "frames/s70_m.jpg",
+   "frames/s70_z.jpg"
+  ],
+  "words": "told her everything to couch Renee Two"
+ },
+ {
+  "shot": 71,
+  "start": 160.37,
+  "end": 162.97,
+  "dur": 2.6,
+  "frames": [
+   "frames/s71_a.jpg",
+   "frames/s71_m.jpg",
+   "frames/s71_z.jpg"
+  ],
+  "words": "years, everybody know When looking me"
+ },
+ {
+  "shot": 72,
+  "start": 162.97,
+  "end": 164.73,
+  "dur": 1.77,
+  "frames": [
+   "frames/s72_a.jpg",
+   "frames/s72_m.jpg",
+   "frames/s72_z.jpg"
+  ],
+  "words": "Delores They're right I did this"
+ },
+ {
+  "shot": 73,
+  "start": 164.73,
+  "end": 165.6,
+  "dur": 0.87,
+  "frames": [
+   "frames/s73_a.jpg",
+   "frames/s73_m.jpg",
+   "frames/s73_z.jpg"
+  ],
+  "words": "to myself She"
+ },
+ {
+  "shot": 74,
+  "start": 165.6,
+  "end": 167.57,
+  "dur": 1.97,
+  "frames": [
+   "frames/s74_a.jpg",
+   "frames/s74_m.jpg",
+   "frames/s74_z.jpg"
+  ],
+  "words": "grabbed my hand Pressed on my swollen fingers"
+ },
+ {
+  "shot": 75,
+  "start": 167.57,
+  "end": 169.43,
+  "dur": 1.87,
+  "frames": [
+   "frames/s75_a.jpg",
+   "frames/s75_m.jpg",
+   "frames/s75_z.jpg"
+  ],
+  "words": "Looked in my rings Sunk in my skin and"
+ },
+ {
+  "shot": 76,
+  "start": 169.43,
+  "end": 173.07,
+  "dur": 3.63,
+  "frames": [
+   "frames/s76_a.jpg",
+   "frames/s76_m.jpg",
+   "frames/s76_z.jpg"
+  ],
+  "words": "said Sweetheart, it's not you Half of this isn't even fat"
+ },
+ {
+  "shot": 77,
+  "start": 173.07,
+  "end": 174.77,
+  "dur": 1.7,
+  "frames": [
+   "frames/s77_a.jpg",
+   "frames/s77_m.jpg",
+   "frames/s77_z.jpg"
+  ],
+  "words": "It's waste Your body makes it every"
+ },
+ {
+  "shot": 78,
+  "start": 174.77,
+  "end": 175.93,
+  "dur": 1.17,
+  "frames": [
+   "frames/s78_a.jpg",
+   "frames/s78_m.jpg",
+   "frames/s78_z.jpg"
+  ],
+  "words": "single day Dead"
+ },
+ {
+  "shot": 79,
+  "start": 175.93,
+  "end": 177.97,
+  "dur": 2.03,
+  "frames": [
+   "frames/s79_a.jpg",
+   "frames/s79_m.jpg",
+   "frames/s79_z.jpg"
+  ],
+  "words": "cells, old hormones Toxins,"
+ },
+ {
+  "shot": 80,
+  "start": 177.97,
+  "end": 180.83,
+  "dur": 2.87,
+  "frames": [
+   "frames/s80_a.jpg",
+   "frames/s80_m.jpg",
+   "frames/s80_z.jpg"
+  ],
+  "words": "your lymphatic system Is the drain that carries it out"
+ },
+ {
+  "shot": 81,
+  "start": 180.83,
+  "end": 182.43,
+  "dur": 1.6,
+  "frames": [
+   "frames/s81_a.jpg",
+   "frames/s81_m.jpg",
+   "frames/s81_z.jpg"
+  ],
+  "words": "And it doesn't have a pump Your"
+ },
+ {
+  "shot": 82,
+  "start": 182.43,
+  "end": 183.97,
+  "dur": 1.53,
+  "frames": [
+   "frames/s82_a.jpg",
+   "frames/s82_m.jpg",
+   "frames/s82_z.jpg"
+  ],
+  "words": "heart pumps your blood Nothing"
+ },
+ {
+  "shot": 83,
+  "start": 183.97,
+  "end": 185.3,
+  "dur": 1.33,
+  "frames": [
+   "frames/s83_a.jpg",
+   "frames/s83_m.jpg",
+   "frames/s83_z.jpg"
+  ],
+  "words": "pumps your lymph Now look at"
+ },
+ {
+  "shot": 84,
+  "start": 185.3,
+  "end": 187.33,
+  "dur": 2.03,
+  "frames": [
+   "frames/s84_a.jpg",
+   "frames/s84_m.jpg",
+   "frames/s84_z.jpg"
+  ],
+  "words": "your light 19 years and nights Sleeping"
+ },
+ {
+  "shot": 85,
+  "start": 187.33,
+  "end": 188.43,
+  "dur": 1.1,
+  "frames": [
+   "frames/s85_a.jpg",
+   "frames/s85_m.jpg",
+   "frames/s85_z.jpg"
+  ],
+  "words": "in the daytime Cold"
+ },
+ {
+  "shot": 86,
+  "start": 188.43,
+  "end": 190.1,
+  "dur": 1.67,
+  "frames": [
+   "frames/s86_a.jpg",
+   "frames/s86_m.jpg",
+   "frames/s86_z.jpg"
+  ],
+  "words": "after cold Patient"
+ },
+ {
+  "shot": 87,
+  "start": 190.1,
+  "end": 191.3,
+  "dur": 1.2,
+  "frames": [
+   "frames/s87_a.jpg",
+   "frames/s87_m.jpg",
+   "frames/s87_z.jpg"
+  ],
+  "words": "screaming at you Coffee"
+ },
+ {
+  "shot": 88,
+  "start": 191.3,
+  "end": 192.33,
+  "dur": 1.03,
+  "frames": [
+   "frames/s88_a.jpg",
+   "frames/s88_m.jpg",
+   "frames/s88_z.jpg"
+  ],
+  "words": "for dinner Bending"
+ },
+ {
+  "shot": 89,
+  "start": 192.33,
+  "end": 193.6,
+  "dur": 1.27,
+  "frames": [
+   "frames/s89_a.jpg",
+   "frames/s89_m.jpg",
+   "frames/s89_z.jpg"
+  ],
+  "words": "machine for breakfast"
+ },
+ {
+  "shot": 90,
+  "start": 193.6,
+  "end": 195.97,
+  "dur": 2.37,
+  "frames": [
+   "frames/s90_a.jpg",
+   "frames/s90_m.jpg",
+   "frames/s90_z.jpg"
+  ],
+  "words": "Running on stress Every night for 19 years"
+ },
+ {
+  "shot": 91,
+  "start": 195.97,
+  "end": 197.4,
+  "dur": 1.43,
+  "frames": [
+   "frames/s91_a.jpg",
+   "frames/s91_m.jpg",
+   "frames/s91_z.jpg"
+  ],
+  "words": "Making more waste And"
+ },
+ {
+  "shot": 92,
+  "start": 197.4,
+  "end": 199.53,
+  "dur": 2.13,
+  "frames": [
+   "frames/s92_a.jpg",
+   "frames/s92_m.jpg",
+   "frames/s92_z.jpg"
+  ],
+  "words": "a drink I'd ever carry here Sober"
+ },
+ {
+  "shot": 93,
+  "start": 199.53,
+  "end": 202.9,
+  "dur": 3.37,
+  "frames": [
+   "frames/s93_a.jpg",
+   "frames/s93_m.jpg",
+   "frames/s93_z.jpg"
+  ],
+  "words": "clocks And all that waste Has nowhere to go My"
+ },
+ {
+  "shot": 94,
+  "start": 202.9,
+  "end": 204.87,
+  "dur": 1.97,
+  "frames": [
+   "frames/s94_a.jpg",
+   "frames/s94_m.jpg",
+   "frames/s94_z.jpg"
+  ],
+  "words": "soul extended you Like a sponge"
+ },
+ {
+  "shot": 95,
+  "start": 204.87,
+  "end": 206.53,
+  "dur": 1.67,
+  "frames": [
+   "frames/s95_a.jpg",
+   "frames/s95_m.jpg",
+   "frames/s95_z.jpg"
+  ],
+  "words": "As well as you up It"
+ },
+ {
+  "shot": 96,
+  "start": 206.53,
+  "end": 207.63,
+  "dur": 1.1,
+  "frames": [
+   "frames/s96_a.jpg",
+   "frames/s96_m.jpg",
+   "frames/s96_z.jpg"
+  ],
+  "words": "goes hard"
+ },
+ {
+  "shot": 97,
+  "start": 207.63,
+  "end": 209.37,
+  "dur": 1.73,
+  "frames": [
+   "frames/s97_a.jpg",
+   "frames/s97_m.jpg",
+   "frames/s97_z.jpg"
+  ],
+  "words": "That's your ankles"
+ },
+ {
+  "shot": 98,
+  "start": 209.37,
+  "end": 211.2,
+  "dur": 1.83,
+  "frames": [
+   "frames/s98_a.jpg",
+   "frames/s98_m.jpg",
+   "frames/s98_z.jpg"
+  ],
+  "words": "That's your stomach That's"
+ },
+ {
+  "shot": 99,
+  "start": 211.2,
+  "end": 213.1,
+  "dur": 1.9,
+  "frames": [
+   "frames/s99_a.jpg",
+   "frames/s99_m.jpg",
+   "frames/s99_z.jpg"
+  ],
+  "words": "that face You're"
+ },
+ {
+  "shot": 100,
+  "start": 213.1,
+  "end": 214.87,
+  "dur": 1.77,
+  "frames": [
+   "frames/s100_a.jpg",
+   "frames/s100_m.jpg",
+   "frames/s100_z.jpg"
+  ],
+  "words": "crying about You've seen"
+ },
+ {
+  "shot": 101,
+  "start": 214.87,
+  "end": 216.6,
+  "dur": 1.73,
+  "frames": [
+   "frames/s101_a.jpg",
+   "frames/s101_m.jpg",
+   "frames/s101_z.jpg"
+  ],
+  "words": "an IV line clock"
+ },
+ {
+  "shot": 102,
+  "start": 216.6,
+  "end": 218.57,
+  "dur": 1.97,
+  "frames": [
+   "frames/s102_a.jpg",
+   "frames/s102_m.jpg",
+   "frames/s102_z.jpg"
+  ],
+  "words": "Everything backs"
+ },
+ {
+  "shot": 103,
+  "start": 218.57,
+  "end": 222.3,
+  "dur": 3.73,
+  "frames": [
+   "frames/s103_a.jpg",
+   "frames/s103_m.jpg",
+   "frames/s103_z.jpg"
+  ],
+  "words": "up behind it That's you That's what happened to you I"
+ },
+ {
+  "shot": 104,
+  "start": 222.3,
+  "end": 224.13,
+  "dur": 1.83,
+  "frames": [
+   "frames/s104_a.jpg",
+   "frames/s104_m.jpg",
+   "frames/s104_z.jpg"
+  ],
+  "words": "said, Delores I work in pressure"
+ },
+ {
+  "shot": 105,
+  "start": 224.13,
+  "end": 226.87,
+  "dur": 2.73,
+  "frames": [
+   "frames/s105_a.jpg",
+   "frames/s105_m.jpg",
+   "frames/s105_z.jpg"
+  ],
+  "words": "socks Every shift I cut carbs Till I was"
+ },
+ {
+  "shot": 106,
+  "start": 226.87,
+  "end": 228.7,
+  "dur": 1.83,
+  "frames": [
+   "frames/s106_a.jpg",
+   "frames/s106_m.jpg",
+   "frames/s106_z.jpg"
+  ],
+  "words": "shaking My doctor says it's hormones"
+ },
+ {
+  "shot": 107,
+  "start": 228.7,
+  "end": 230.07,
+  "dur": 1.37,
+  "frames": [
+   "frames/s107_a.jpg",
+   "frames/s107_m.jpg",
+   "frames/s107_z.jpg"
+  ],
+  "words": "She laughs at size"
+ },
+ {
+  "shot": 108,
+  "start": 230.07,
+  "end": 232.3,
+  "dur": 2.23,
+  "frames": [
+   "frames/s108_a.jpg",
+   "frames/s108_m.jpg",
+   "frames/s108_z.jpg"
+  ],
+  "words": "Squeeze it They don't include it And you"
+ },
+ {
+  "shot": 109,
+  "start": 232.3,
+  "end": 234.57,
+  "dur": 2.27,
+  "frames": [
+   "frames/s109_a.jpg",
+   "frames/s109_m.jpg",
+   "frames/s109_z.jpg"
+  ],
+  "words": "can't starve that Pumping that is a fact That's"
+ },
+ {
+  "shot": 110,
+  "start": 234.57,
+  "end": 236.37,
+  "dur": 1.8,
+  "frames": [
+   "frames/s110_a.jpg",
+   "frames/s110_m.jpg",
+   "frames/s110_z.jpg"
+  ],
+  "words": "why I'm not the mode I said, so"
+ },
+ {
+  "shot": 111,
+  "start": 236.37,
+  "end": 237.57,
+  "dur": 1.2,
+  "frames": [
+   "frames/s111_a.jpg",
+   "frames/s111_m.jpg",
+   "frames/s111_z.jpg"
+  ],
+  "words": "what do I do?"
+ },
+ {
+  "shot": 112,
+  "start": 237.57,
+  "end": 239.03,
+  "dur": 1.47,
+  "frames": [
+   "frames/s112_a.jpg",
+   "frames/s112_m.jpg",
+   "frames/s112_z.jpg"
+  ],
+  "words": "She said you open the drain"
+ },
+ {
+  "shot": 113,
+  "start": 239.03,
+  "end": 243.0,
+  "dur": 3.97,
+  "frames": [
+   "frames/s113_a.jpg",
+   "frames/s113_m.jpg",
+   "frames/s113_z.jpg"
+  ],
+  "words": "She reached in her pocket Said a small glass bottle on the counter"
+ },
+ {
+  "shot": 114,
+  "start": 243.0,
+  "end": 244.3,
+  "dur": 1.3,
+  "frames": [
+   "frames/s114_a.jpg",
+   "frames/s114_m.jpg",
+   "frames/s114_z.jpg"
+  ],
+  "words": "Four herbs she said"
+ },
+ {
+  "shot": 115,
+  "start": 244.3,
+  "end": 247.83,
+  "dur": 3.53,
+  "frames": [
+   "frames/s115_a.jpg",
+   "frames/s115_m.jpg",
+   "frames/s115_z.jpg"
+  ],
+  "words": "Still in your breaks Up with 19 years and nights packed"
+ },
+ {
+  "shot": 116,
+  "start": 247.83,
+  "end": 250.13,
+  "dur": 2.3,
+  "frames": [
+   "frames/s116_a.jpg",
+   "frames/s116_m.jpg",
+   "frames/s116_z.jpg"
+  ],
+  "words": "Clevers moves it out of your legs And your stomach"
+ },
+ {
+  "shot": 117,
+  "start": 250.13,
+  "end": 253.43,
+  "dur": 3.3,
+  "frames": [
+   "frames/s117_a.jpg",
+   "frames/s117_m.jpg",
+   "frames/s117_z.jpg"
+  ],
+  "words": "Prickly ash wakes up Your circulation to carry it out"
+ },
+ {
+  "shot": 118,
+  "start": 253.43,
+  "end": 256.93,
+  "dur": 3.5,
+  "frames": [
+   "frames/s118_a.jpg",
+   "frames/s118_m.jpg",
+   "frames/s118_z.jpg"
+  ],
+  "words": "Red clover comes as well And so it doesn't pack back in Harper"
+ },
+ {
+  "shot": 119,
+  "start": 256.93,
+  "end": 258.13,
+  "dur": 1.2,
+  "frames": [
+   "frames/s119_a.jpg",
+   "frames/s119_m.jpg",
+   "frames/s119_z.jpg"
+  ],
+  "words": "drop her under"
+ },
+ {
+  "shot": 120,
+  "start": 258.13,
+  "end": 259.7,
+  "dur": 1.57,
+  "frames": [
+   "frames/s120_a.jpg",
+   "frames/s120_m.jpg",
+   "frames/s120_z.jpg"
+  ],
+  "words": "your tongue Morning and"
+ },
+ {
+  "shot": 121,
+  "start": 259.7,
+  "end": 261.7,
+  "dur": 2.0,
+  "frames": [
+   "frames/s121_a.jpg",
+   "frames/s121_m.jpg",
+   "frames/s121_z.jpg"
+  ],
+  "words": "night Go straight into your blood"
+ },
+ {
+  "shot": 122,
+  "start": 261.7,
+  "end": 265.27,
+  "dur": 3.57,
+  "frames": [
+   "frames/s122_a.jpg",
+   "frames/s122_m.jpg",
+   "frames/s122_z.jpg"
+  ],
+  "words": "Your stomach never gets a chance To break it down And she wiped the"
+ },
+ {
+  "shot": 123,
+  "start": 265.27,
+  "end": 267.0,
+  "dur": 1.73,
+  "frames": [
+   "frames/s123_a.jpg",
+   "frames/s123_m.jpg",
+   "frames/s123_z.jpg"
+  ],
+  "words": "mascara Off my face"
+ },
+ {
+  "shot": 124,
+  "start": 267.0,
+  "end": 270.1,
+  "dur": 3.1,
+  "frames": [
+   "frames/s124_a.jpg",
+   "frames/s124_m.jpg",
+   "frames/s124_z.jpg"
+  ],
+  "words": "And said, when's that party? Six weeks Then"
+ },
+ {
+  "shot": 125,
+  "start": 270.1,
+  "end": 272.6,
+  "dur": 2.5,
+  "frames": [
+   "frames/s125_a.jpg",
+   "frames/s125_m.jpg",
+   "frames/s125_z.jpg"
+  ],
+  "words": "you're not Hiding in this room anymore She"
+ },
+ {
+  "shot": 126,
+  "start": 272.6,
+  "end": 274.47,
+  "dur": 1.87,
+  "frames": [
+   "frames/s126_a.jpg",
+   "frames/s126_m.jpg",
+   "frames/s126_z.jpg"
+  ],
+  "words": "put the bottle in my hand And"
+ },
+ {
+  "shot": 127,
+  "start": 274.47,
+  "end": 276.63,
+  "dur": 2.17,
+  "frames": [
+   "frames/s127_a.jpg",
+   "frames/s127_m.jpg",
+   "frames/s127_z.jpg"
+  ],
+  "words": "waited So I did it right"
+ },
+ {
+  "shot": 128,
+  "start": 276.63,
+  "end": 277.73,
+  "dur": 1.1,
+  "frames": [
+   "frames/s128_a.jpg",
+   "frames/s128_m.jpg",
+   "frames/s128_z.jpg"
+  ],
+  "words": "there"
+ },
+ {
+  "shot": 129,
+  "start": 277.73,
+  "end": 279.1,
+  "dur": 1.37,
+  "frames": [
+   "frames/s129_a.jpg",
+   "frames/s129_m.jpg",
+   "frames/s129_z.jpg"
+  ],
+  "words": "Harper drop her under my"
+ },
+ {
+  "shot": 130,
+  "start": 279.1,
+  "end": 280.8,
+  "dur": 1.7,
+  "frames": [
+   "frames/s130_a.jpg",
+   "frames/s130_m.jpg",
+   "frames/s130_z.jpg"
+  ],
+  "words": "tongue Sweet like honey"
+ },
+ {
+  "shot": 131,
+  "start": 280.8,
+  "end": 282.47,
+  "dur": 1.67,
+  "frames": [
+   "frames/s131_a.jpg",
+   "frames/s131_m.jpg",
+   "frames/s131_z.jpg"
+  ],
+  "words": "I'll wipe my face Fix"
+ },
+ {
+  "shot": 132,
+  "start": 282.47,
+  "end": 285.7,
+  "dur": 3.23,
+  "frames": [
+   "frames/s132_a.jpg",
+   "frames/s132_m.jpg",
+   "frames/s132_z.jpg"
+  ],
+  "words": "my hair And walk back out to my patients"
+ },
+ {
+  "shot": 133,
+  "start": 285.7,
+  "end": 291.83,
+  "dur": 6.13,
+  "frames": [
+   "frames/s133_a.jpg",
+   "frames/s133_m.jpg",
+   "frames/s133_z.jpg"
+  ],
+  "words": "Next morning I woke up And my eyes weren't slips anymore Six weeks till Renee's party I started counting week"
+ },
+ {
+  "shot": 134,
+  "start": 291.83,
+  "end": 296.73,
+  "dur": 4.9,
+  "frames": [
+   "frames/s134_a.jpg",
+   "frames/s134_m.jpg",
+   "frames/s134_z.jpg"
+  ],
+  "words": "one Running to the bathroom On every single break My ankle bones came back I"
+ },
+ {
+  "shot": 135,
+  "start": 296.73,
+  "end": 298.07,
+  "dur": 1.33,
+  "frames": [
+   "frames/s135_a.jpg",
+   "frames/s135_m.jpg",
+   "frames/s135_z.jpg"
+  ],
+  "words": "didn't tell anyone"
+ },
+ {
+  "shot": 136,
+  "start": 298.07,
+  "end": 299.63,
+  "dur": 1.57,
+  "frames": [
+   "frames/s136_a.jpg",
+   "frames/s136_m.jpg",
+   "frames/s136_z.jpg"
+  ],
+  "words": "Week two My face looked"
+ },
+ {
+  "shot": 137,
+  "start": 299.63,
+  "end": 301.6,
+  "dur": 1.97,
+  "frames": [
+   "frames/s137_a.jpg",
+   "frames/s137_m.jpg",
+   "frames/s137_z.jpg"
+  ],
+  "words": "like my face in the morning My"
+ },
+ {
+  "shot": 138,
+  "start": 301.6,
+  "end": 303.23,
+  "dur": 1.63,
+  "frames": [
+   "frames/s138_a.jpg",
+   "frames/s138_m.jpg",
+   "frames/s138_z.jpg"
+  ],
+  "words": "wedding ring spun on my finger"
+ },
+ {
+  "shot": 139,
+  "start": 303.23,
+  "end": 304.5,
+  "dur": 1.27,
+  "frames": [
+   "frames/s139_a.jpg",
+   "frames/s139_m.jpg",
+   "frames/s139_z.jpg"
+  ],
+  "words": "First time in years"
+ },
+ {
+  "shot": 140,
+  "start": 304.5,
+  "end": 307.3,
+  "dur": 2.8,
+  "frames": [
+   "frames/s140_a.jpg",
+   "frames/s140_m.jpg",
+   "frames/s140_z.jpg"
+  ],
+  "words": "Week three A whole ship Without compression"
+ },
+ {
+  "shot": 141,
+  "start": 307.3,
+  "end": 309.13,
+  "dur": 1.83,
+  "frames": [
+   "frames/s141_a.jpg",
+   "frames/s141_m.jpg",
+   "frames/s141_z.jpg"
+  ],
+  "words": "Size got home And my shoes still"
+ },
+ {
+  "shot": 142,
+  "start": 309.13,
+  "end": 310.63,
+  "dur": 1.5,
+  "frames": [
+   "frames/s142_a.jpg",
+   "frames/s142_m.jpg",
+   "frames/s142_z.jpg"
+  ],
+  "words": "fit The paramedics started"
+ },
+ {
+  "shot": 143,
+  "start": 310.63,
+  "end": 313.17,
+  "dur": 2.53,
+  "frames": [
+   "frames/s143_a.jpg",
+   "frames/s143_m.jpg",
+   "frames/s143_z.jpg"
+  ],
+  "words": "finding reasons To hang around my station Week"
+ },
+ {
+  "shot": 144,
+  "start": 313.17,
+  "end": 316.03,
+  "dur": 2.87,
+  "frames": [
+   "frames/s144_a.jpg",
+   "frames/s144_m.jpg",
+   "frames/s144_z.jpg"
+  ],
+  "words": "four My scrubs were loose I went down the size"
+ },
+ {
+  "shot": 145,
+  "start": 316.03,
+  "end": 317.43,
+  "dur": 1.4,
+  "frames": [
+   "frames/s145_a.jpg",
+   "frames/s145_m.jpg",
+   "frames/s145_z.jpg"
+  ],
+  "words": "He started waiting up for"
+ },
+ {
+  "shot": 146,
+  "start": 317.43,
+  "end": 319.23,
+  "dur": 1.8,
+  "frames": [
+   "frames/s146_a.jpg",
+   "frames/s146_m.jpg",
+   "frames/s146_z.jpg"
+  ],
+  "words": "me Texting me on my breaks One"
+ },
+ {
+  "shot": 147,
+  "start": 319.23,
+  "end": 320.87,
+  "dur": 1.63,
+  "frames": [
+   "frames/s147_a.jpg",
+   "frames/s147_m.jpg",
+   "frames/s147_z.jpg"
+  ],
+  "words": "morning It's all lit up"
+ },
+ {
+  "shot": 148,
+  "start": 320.87,
+  "end": 322.47,
+  "dur": 1.6,
+  "frames": [
+   "frames/s148_a.jpg",
+   "frames/s148_m.jpg",
+   "frames/s148_z.jpg"
+  ],
+  "words": "on the counter Renee Four"
+ },
+ {
+  "shot": 149,
+  "start": 322.47,
+  "end": 324.3,
+  "dur": 1.83,
+  "frames": [
+   "frames/s149_a.jpg",
+   "frames/s149_m.jpg",
+   "frames/s149_z.jpg"
+  ],
+  "words": "missed calls I turned her face down"
+ },
+ {
+  "shot": 150,
+  "start": 324.3,
+  "end": 325.87,
+  "dur": 1.57,
+  "frames": [
+   "frames/s150_a.jpg",
+   "frames/s150_m.jpg",
+   "frames/s150_z.jpg"
+  ],
+  "words": "Week five A patient's"
+ },
+ {
+  "shot": 151,
+  "start": 325.87,
+  "end": 327.63,
+  "dur": 1.77,
+  "frames": [
+   "frames/s151_a.jpg",
+   "frames/s151_m.jpg",
+   "frames/s151_z.jpg"
+  ],
+  "words": "wife stopped me in the hallway Asked"
+ },
+ {
+  "shot": 152,
+  "start": 327.63,
+  "end": 329.67,
+  "dur": 2.03,
+  "frames": [
+   "frames/s152_a.jpg",
+   "frames/s152_m.jpg",
+   "frames/s152_z.jpg"
+  ],
+  "words": "if I was new I've been on that floor 11"
+ },
+ {
+  "shot": 153,
+  "start": 329.67,
+  "end": 331.37,
+  "dur": 1.7,
+  "frames": [
+   "frames/s153_a.jpg",
+   "frames/s153_m.jpg",
+   "frames/s153_z.jpg"
+  ],
+  "words": "years Doctor Patel started"
+ },
+ {
+  "shot": 154,
+  "start": 331.37,
+  "end": 333.4,
+  "dur": 2.03,
+  "frames": [
+   "frames/s154_a.jpg",
+   "frames/s154_m.jpg",
+   "frames/s154_z.jpg"
+  ],
+  "words": "bringing me coffee At 3 a .m. Two"
+ },
+ {
+  "shot": 155,
+  "start": 333.4,
+  "end": 335.8,
+  "dur": 2.4,
+  "frames": [
+   "frames/s155_a.jpg",
+   "frames/s155_m.jpg",
+   "frames/s155_z.jpg"
+  ],
+  "words": "sugars I never told him How I take"
+ },
+ {
+  "shot": 156,
+  "start": 335.8,
+  "end": 337.4,
+  "dur": 1.6,
+  "frames": [
+   "frames/s156_a.jpg",
+   "frames/s156_m.jpg",
+   "frames/s156_z.jpg"
+  ],
+  "words": "week six I bought a dress At"
+ },
+ {
+  "shot": 157,
+  "start": 337.4,
+  "end": 339.53,
+  "dur": 2.13,
+  "frames": [
+   "frames/s157_a.jpg",
+   "frames/s157_m.jpg",
+   "frames/s157_z.jpg"
+  ],
+  "words": "first dress I bought in five years"
+ },
+ {
+  "shot": 158,
+  "start": 339.53,
+  "end": 343.37,
+  "dur": 3.83,
+  "frames": [
+   "frames/s158_a.jpg",
+   "frames/s158_m.jpg",
+   "frames/s158_z.jpg"
+  ],
+  "words": "Renee's 40 Roof top Downtown 60 people He went early"
+ },
+ {
+  "shot": 159,
+  "start": 343.37,
+  "end": 344.57,
+  "dur": 1.2,
+  "frames": [
+   "frames/s159_a.jpg",
+   "frames/s159_m.jpg",
+   "frames/s159_z.jpg"
+  ],
+  "words": "to help her set up"
+ },
+ {
+  "shot": 160,
+  "start": 344.57,
+  "end": 346.27,
+  "dur": 1.7,
+  "frames": [
+   "frames/s160_a.jpg",
+   "frames/s160_m.jpg",
+   "frames/s160_z.jpg"
+  ],
+  "words": "I came alone Renee was"
+ },
+ {
+  "shot": 161,
+  "start": 346.27,
+  "end": 347.87,
+  "dur": 1.6,
+  "frames": [
+   "frames/s161_a.jpg",
+   "frames/s161_m.jpg",
+   "frames/s161_z.jpg"
+  ],
+  "words": "at the mic Thanking everybody for"
+ },
+ {
+  "shot": 162,
+  "start": 347.87,
+  "end": 350.03,
+  "dur": 2.17,
+  "frames": [
+   "frames/s162_a.jpg",
+   "frames/s162_m.jpg",
+   "frames/s162_z.jpg"
+  ],
+  "words": "coming And she saw me and laughed Into the microphone"
+ },
+ {
+  "shot": 163,
+  "start": 350.03,
+  "end": 352.4,
+  "dur": 2.37,
+  "frames": [
+   "frames/s163_a.jpg",
+   "frames/s163_m.jpg",
+   "frames/s163_z.jpg"
+  ],
+  "words": "Oh my God My cruise awake"
+ },
+ {
+  "shot": 164,
+  "start": 352.4,
+  "end": 355.53,
+  "dur": 3.13,
+  "frames": [
+   "frames/s164_a.jpg",
+   "frames/s164_m.jpg",
+   "frames/s164_z.jpg"
+  ],
+  "words": "The whole rooftop Laughed I walked up and took the mic I'm out of"
+ },
+ {
+  "shot": 165,
+  "start": 355.53,
+  "end": 357.73,
+  "dur": 2.2,
+  "frames": [
+   "frames/s165_a.jpg",
+   "frames/s165_m.jpg",
+   "frames/s165_z.jpg"
+  ],
+  "words": "her hand And said relax I'm"
+ },
+ {
+  "shot": 166,
+  "start": 357.73,
+  "end": 360.87,
+  "dur": 3.13,
+  "frames": [
+   "frames/s166_a.jpg",
+   "frames/s166_m.jpg",
+   "frames/s166_z.jpg"
+  ],
+  "words": "on nights Her glass slipped out of her hand My husband"
+ },
+ {
+  "shot": 167,
+  "start": 360.87,
+  "end": 362.87,
+  "dur": 2.0,
+  "frames": [
+   "frames/s167_a.jpg",
+   "frames/s167_m.jpg",
+   "frames/s167_z.jpg"
+  ],
+  "words": "sat down They were the only"
+ },
+ {
+  "shot": 168,
+  "start": 362.87,
+  "end": 363.97,
+  "dur": 1.1,
+  "frames": [
+   "frames/s168_a.jpg",
+   "frames/s168_m.jpg",
+   "frames/s168_z.jpg"
+  ],
+  "words": "two people On that"
+ },
+ {
+  "shot": 169,
+  "start": 363.97,
+  "end": 365.93,
+  "dur": 1.97,
+  "frames": [
+   "frames/s169_a.jpg",
+   "frames/s169_m.jpg",
+   "frames/s169_z.jpg"
+  ],
+  "words": "roof Who knew what those words meant"
+ },
+ {
+  "shot": 170,
+  "start": 365.93,
+  "end": 372.13,
+  "dur": 6.2,
+  "frames": [
+   "frames/s170_a.jpg",
+   "frames/s170_m.jpg",
+   "frames/s170_z.jpg"
+  ],
+  "words": "So I slapped her She was out called before She hit the floor 19 years ago Yeah I knelt down"
+ },
+ {
+  "shot": 171,
+  "start": 372.13,
+  "end": 373.67,
+  "dur": 1.53,
+  "frames": [
+   "frames/s171_a.jpg",
+   "frames/s171_m.jpg",
+   "frames/s171_z.jpg"
+  ],
+  "words": "Checked the pulse She was"
+ },
+ {
+  "shot": 172,
+  "start": 373.67,
+  "end": 383.3,
+  "dur": 9.63,
+  "frames": [
+   "frames/s172_a.jpg",
+   "frames/s172_m.jpg",
+   "frames/s172_z.jpg"
+  ],
+  "words": "fine She opened her eyes And I lifted the mic She's been fucking my husband For two years Not one of them looked surprised Monica looked at her phone They all"
+ },
+ {
+  "shot": 173,
+  "start": 383.3,
+  "end": 384.97,
+  "dur": 1.67,
+  "frames": [
+   "frames/s173_a.jpg",
+   "frames/s173_m.jpg",
+   "frames/s173_z.jpg"
+  ],
+  "words": "knew Except Mark"
+ },
+ {
+  "shot": 174,
+  "start": 384.97,
+  "end": 386.2,
+  "dur": 1.23,
+  "frames": [
+   "frames/s174_a.jpg",
+   "frames/s174_m.jpg",
+   "frames/s174_z.jpg"
+  ],
+  "words": "Her husband"
+ },
+ {
+  "shot": 175,
+  "start": 386.2,
+  "end": 388.47,
+  "dur": 2.27,
+  "frames": [
+   "frames/s175_a.jpg",
+   "frames/s175_m.jpg",
+   "frames/s175_z.jpg"
+  ],
+  "words": "He didn't know No He was"
+ },
+ {
+  "shot": 176,
+  "start": 388.47,
+  "end": 390.17,
+  "dur": 1.7,
+  "frames": [
+   "frames/s176_a.jpg",
+   "frames/s176_m.jpg",
+   "frames/s176_z.jpg"
+  ],
+  "words": "standing behind her Holding a birthday"
+ },
+ {
+  "shot": 177,
+  "start": 390.17,
+  "end": 390.9,
+  "dur": 0.73,
+  "frames": [
+   "frames/s177_a.jpg",
+   "frames/s177_m.jpg",
+   "frames/s177_z.jpg"
+  ],
+  "words": "cake He"
+ },
+ {
+  "shot": 178,
+  "start": 390.9,
+  "end": 391.47,
+  "dur": 0.57,
+  "frames": [
+   "frames/s178_a.jpg",
+   "frames/s178_m.jpg",
+   "frames/s178_z.jpg"
+  ],
+  "words": "dropped it on"
+ },
+ {
+  "shot": 179,
+  "start": 391.47,
+  "end": 393.37,
+  "dur": 1.9,
+  "frames": [
+   "frames/s179_a.jpg",
+   "frames/s179_m.jpg",
+   "frames/s179_z.jpg"
+  ],
+  "words": "the floor Next to her Ripped off his ring"
+ },
+ {
+  "shot": 180,
+  "start": 393.37,
+  "end": 394.03,
+  "dur": 0.67,
+  "frames": [
+   "frames/s180_a.jpg",
+   "frames/s180_m.jpg",
+   "frames/s180_z.jpg"
+  ],
+  "words": "Threw it out"
+ },
+ {
+  "shot": 181,
+  "start": 394.03,
+  "end": 394.67,
+  "dur": 0.63,
+  "frames": [
+   "frames/s181_a.jpg",
+   "frames/s181_m.jpg",
+   "frames/s181_z.jpg"
+  ],
+  "words": "of face And"
+ },
+ {
+  "shot": 182,
+  "start": 394.67,
+  "end": 400.43,
+  "dur": 5.77,
+  "frames": [
+   "frames/s182_a.jpg",
+   "frames/s182_m.jpg",
+   "frames/s182_z.jpg"
+  ],
+  "words": "said happy birthday Renee My husband grabbed my hand Babe, please It meant nothing"
+ },
+ {
+  "shot": 183,
+  "start": 400.43,
+  "end": 401.8,
+  "dur": 1.37,
+  "frames": [
+   "frames/s183_a.jpg",
+   "frames/s183_m.jpg",
+   "frames/s183_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 184,
+  "start": 401.8,
+  "end": 403.2,
+  "dur": 1.4,
+  "frames": [
+   "frames/s184_a.jpg",
+   "frames/s184_m.jpg",
+   "frames/s184_z.jpg"
+  ],
+  "words": "Renee heard Every"
+ },
+ {
+  "shot": 185,
+  "start": 403.2,
+  "end": 405.7,
+  "dur": 2.5,
+  "frames": [
+   "frames/s185_a.jpg",
+   "frames/s185_m.jpg",
+   "frames/s185_z.jpg"
+  ],
+  "words": "word On the floor I took off my wedding"
+ },
+ {
+  "shot": 186,
+  "start": 405.7,
+  "end": 408.67,
+  "dur": 2.97,
+  "frames": [
+   "frames/s186_a.jpg",
+   "frames/s186_m.jpg",
+   "frames/s186_z.jpg"
+  ],
+  "words": "ring And slid right off I dropped it in a champagne"
+ },
+ {
+  "shot": 187,
+  "start": 408.67,
+  "end": 410.4,
+  "dur": 1.73,
+  "frames": [
+   "frames/s187_a.jpg",
+   "frames/s187_m.jpg",
+   "frames/s187_z.jpg"
+  ],
+  "words": "And said it's yours Good"
+ },
+ {
+  "shot": 188,
+  "start": 410.4,
+  "end": 414.73,
+  "dur": 4.33,
+  "frames": [
+   "frames/s188_a.jpg",
+   "frames/s188_m.jpg",
+   "frames/s188_z.jpg"
+  ],
+  "words": "luck He doesn't like Being alone at night Then I handed the mic Back"
+ },
+ {
+  "shot": 189,
+  "start": 414.73,
+  "end": 417.17,
+  "dur": 2.43,
+  "frames": [
+   "frames/s189_a.jpg",
+   "frames/s189_m.jpg",
+   "frames/s189_z.jpg"
+  ],
+  "words": "to the DJ And went to my shift"
+ },
+ {
+  "shot": 190,
+  "start": 417.17,
+  "end": 419.73,
+  "dur": 2.57,
+  "frames": [
+   "frames/s190_a.jpg",
+   "frames/s190_m.jpg",
+   "frames/s190_z.jpg"
+  ],
+  "words": "3 AM Break room My phone"
+ },
+ {
+  "shot": 191,
+  "start": 419.73,
+  "end": 421.17,
+  "dur": 1.43,
+  "frames": [
+   "frames/s191_a.jpg",
+   "frames/s191_m.jpg",
+   "frames/s191_z.jpg"
+  ],
+  "words": "buzzed I'm"
+ },
+ {
+  "shot": 192,
+  "start": 421.17,
+  "end": 422.4,
+  "dur": 1.23,
+  "frames": [
+   "frames/s192_a.jpg",
+   "frames/s192_m.jpg",
+   "frames/s192_z.jpg"
+  ],
+  "words": "sorry Please"
+ },
+ {
+  "shot": 193,
+  "start": 422.4,
+  "end": 424.47,
+  "dur": 2.07,
+  "frames": [
+   "frames/s193_a.jpg",
+   "frames/s193_m.jpg",
+   "frames/s193_z.jpg"
+  ],
+  "words": "What are you using I left her on bread"
+ },
+ {
+  "shot": 194,
+  "start": 424.47,
+  "end": 426.93,
+  "dur": 2.47,
+  "frames": [
+   "frames/s194_a.jpg",
+   "frames/s194_m.jpg",
+   "frames/s194_z.jpg"
+  ],
+  "words": "The lords looked over My shoulder and laugh"
+ },
+ {
+  "shot": 195,
+  "start": 426.93,
+  "end": 428.57,
+  "dur": 1.63,
+  "frames": [
+   "frames/s195_a.jpg",
+   "frames/s195_m.jpg",
+   "frames/s195_z.jpg"
+  ],
+  "words": "Then the new girl Walked in 26"
+ },
+ {
+  "shot": 196,
+  "start": 428.57,
+  "end": 432.93,
+  "dur": 4.37,
+  "frames": [
+   "frames/s196_a.jpg",
+   "frames/s196_m.jpg",
+   "frames/s196_z.jpg"
+  ],
+  "words": "first month On nights Already crying In the bathroom Already"
+ },
+ {
+  "shot": 197,
+  "start": 432.93,
+  "end": 434.57,
+  "dur": 1.63,
+  "frames": [
+   "frames/s197_a.jpg",
+   "frames/s197_m.jpg",
+   "frames/s197_z.jpg"
+  ],
+  "words": "swollen She looked at me"
+ },
+ {
+  "shot": 198,
+  "start": 434.57,
+  "end": 436.23,
+  "dur": 1.67,
+  "frames": [
+   "frames/s198_a.jpg",
+   "frames/s198_m.jpg",
+   "frames/s198_z.jpg"
+  ],
+  "words": "And said How do you look Like"
+ },
+ {
+  "shot": 199,
+  "start": 436.23,
+  "end": 440.63,
+  "dur": 4.4,
+  "frames": [
+   "frames/s199_a.jpg",
+   "frames/s199_m.jpg",
+   "frames/s199_z.jpg"
+  ],
+  "words": "that on nights The lords slid The bottle across the table And said Show her So"
+ },
+ {
+  "shot": 200,
+  "start": 440.63,
+  "end": 446.47,
+  "dur": 5.83,
+  "frames": [
+   "frames/s200_a.jpg",
+   "frames/s200_m.jpg",
+   "frames/s200_z.jpg"
+  ],
+  "words": "I did The same way The lords showed me Then I fixed my hair And went back to work"
+ },
+ {
+  "shot": 201,
+  "start": 446.47,
+  "end": 449.03,
+  "dur": 2.57,
+  "frames": [
+   "frames/s201_a.jpg",
+   "frames/s201_m.jpg",
+   "frames/s201_z.jpg"
+  ],
+  "words": "For two years They all looked at me And saw"
+ },
+ {
+  "shot": 202,
+  "start": 449.03,
+  "end": 451.53,
+  "dur": 2.5,
+  "frames": [
+   "frames/s202_a.jpg",
+   "frames/s202_m.jpg",
+   "frames/s202_z.jpg"
+  ],
+  "words": "a woman Who gave up They were wrong I never"
+ },
+ {
+  "shot": 203,
+  "start": 451.53,
+  "end": 453.03,
+  "dur": 1.5,
+  "frames": [
+   "frames/s203_a.jpg",
+   "frames/s203_m.jpg",
+   "frames/s203_z.jpg"
+  ],
+  "words": "gave up I was clocked"
+ },
+ {
+  "shot": 204,
+  "start": 453.03,
+  "end": 453.73,
+  "dur": 0.7,
+  "frames": [
+   "frames/s204_a.jpg",
+   "frames/s204_m.jpg",
+   "frames/s204_z.jpg"
+  ],
+  "words": "19"
+ },
+ {
+  "shot": 205,
+  "start": 453.73,
+  "end": 457.07,
+  "dur": 3.33,
+  "frames": [
+   "frames/s205_a.jpg",
+   "frames/s205_m.jpg",
+   "frames/s205_z.jpg"
+  ],
+  "words": "years and nights Backed up in my ankles My stomach, my"
+ },
+ {
+  "shot": 206,
+  "start": 457.07,
+  "end": 458.0,
+  "dur": 0.93,
+  "frames": [
+   "frames/s206_a.jpg",
+   "frames/s206_m.jpg",
+   "frames/s206_z.jpg"
+  ],
+  "words": "face It was"
+ },
+ {
+  "shot": 207,
+  "start": 458.0,
+  "end": 459.07,
+  "dur": 1.07,
+  "frames": [
+   "frames/s207_a.jpg",
+   "frames/s207_m.jpg",
+   "frames/s207_z.jpg"
+  ],
+  "words": "never fat It"
+ },
+ {
+  "shot": 208,
+  "start": 459.07,
+  "end": 460.8,
+  "dur": 1.73,
+  "frames": [
+   "frames/s208_a.jpg",
+   "frames/s208_m.jpg",
+   "frames/s208_z.jpg"
+  ],
+  "words": "was never my age It was never"
+ },
+ {
+  "shot": 209,
+  "start": 460.8,
+  "end": 462.53,
+  "dur": 1.73,
+  "frames": [
+   "frames/s209_a.jpg",
+   "frames/s209_m.jpg",
+   "frames/s209_z.jpg"
+  ],
+  "words": "hormones It was waste with nowhere"
+ },
+ {
+  "shot": 210,
+  "start": 462.53,
+  "end": 463.7,
+  "dur": 1.17,
+  "frames": [
+   "frames/s210_a.jpg",
+   "frames/s210_m.jpg",
+   "frames/s210_z.jpg"
+  ],
+  "words": "to go If"
+ },
+ {
+  "shot": 211,
+  "start": 463.7,
+  "end": 465.27,
+  "dur": 1.57,
+  "frames": [
+   "frames/s211_a.jpg",
+   "frames/s211_m.jpg",
+   "frames/s211_z.jpg"
+  ],
+  "words": "you're a nurse"
+ },
+ {
+  "shot": 212,
+  "start": 465.27,
+  "end": 467.5,
+  "dur": 2.23,
+  "frames": [
+   "frames/s212_a.jpg",
+   "frames/s212_m.jpg",
+   "frames/s212_z.jpg"
+  ],
+  "words": "You know exactly What I'm talking about"
+ },
+ {
+  "shot": 213,
+  "start": 467.5,
+  "end": 468.33,
+  "dur": 0.83,
+  "frames": [
+   "frames/s213_a.jpg",
+   "frames/s213_m.jpg",
+   "frames/s213_z.jpg"
+  ],
+  "words": "Your"
+ },
+ {
+  "shot": 214,
+  "start": 468.33,
+  "end": 469.63,
+  "dur": 1.3,
+  "frames": [
+   "frames/s214_a.jpg",
+   "frames/s214_m.jpg",
+   "frames/s214_z.jpg"
+  ],
+  "words": "ankles are gone By"
+ },
+ {
+  "shot": 215,
+  "start": 469.63,
+  "end": 470.43,
+  "dur": 0.8,
+  "frames": [
+   "frames/s215_a.jpg",
+   "frames/s215_m.jpg",
+   "frames/s215_z.jpg"
+  ],
+  "words": "hour 6"
+ },
+ {
+  "shot": 216,
+  "start": 470.43,
+  "end": 472.9,
+  "dur": 2.47,
+  "frames": [
+   "frames/s216_a.jpg",
+   "frames/s216_m.jpg",
+   "frames/s216_z.jpg"
+  ],
+  "words": "Your scrubs Pull across your stomach Your"
+ },
+ {
+  "shot": 217,
+  "start": 472.9,
+  "end": 475.33,
+  "dur": 2.43,
+  "frames": [
+   "frames/s217_a.jpg",
+   "frames/s217_m.jpg",
+   "frames/s217_z.jpg"
+  ],
+  "words": "rings leave dense You've done the socks You've"
+ },
+ {
+  "shot": 218,
+  "start": 475.33,
+  "end": 476.6,
+  "dur": 1.27,
+  "frames": [
+   "frames/s218_a.jpg",
+   "frames/s218_m.jpg",
+   "frames/s218_z.jpg"
+  ],
+  "words": "cut the carbs And somebody"
+ },
+ {
+  "shot": 219,
+  "start": 476.6,
+  "end": 479.5,
+  "dur": 2.9,
+  "frames": [
+   "frames/s219_a.jpg",
+   "frames/s219_m.jpg",
+   "frames/s219_z.jpg"
+  ],
+  "words": "told you It's just your age It's not You spent years"
+ },
+ {
+  "shot": 220,
+  "start": 479.5,
+  "end": 481.47,
+  "dur": 1.97,
+  "frames": [
+   "frames/s220_a.jpg",
+   "frames/s220_m.jpg",
+   "frames/s220_z.jpg"
+  ],
+  "words": "Taking care of everybody else While"
+ },
+ {
+  "shot": 221,
+  "start": 481.47,
+  "end": 483.33,
+  "dur": 1.87,
+  "frames": [
+   "frames/s221_a.jpg",
+   "frames/s221_m.jpg",
+   "frames/s221_z.jpg"
+  ],
+  "words": "your own dream Backed up"
+ },
+ {
+  "shot": 222,
+  "start": 483.33,
+  "end": 484.87,
+  "dur": 1.53,
+  "frames": [
+   "frames/s222_a.jpg",
+   "frames/s222_m.jpg",
+   "frames/s222_z.jpg"
+  ],
+  "words": "for herbs Still"
+ },
+ {
+  "shot": 223,
+  "start": 484.87,
+  "end": 485.73,
+  "dur": 0.87,
+  "frames": [
+   "frames/s223_a.jpg",
+   "frames/s223_m.jpg",
+   "frames/s223_z.jpg"
+  ],
+  "words": "injured"
+ },
+ {
+  "shot": 224,
+  "start": 485.73,
+  "end": 486.43,
+  "dur": 0.7,
+  "frames": [
+   "frames/s224_a.jpg",
+   "frames/s224_m.jpg",
+   "frames/s224_z.jpg"
+  ],
+  "words": "Cleaver"
+ },
+ {
+  "shot": 225,
+  "start": 486.43,
+  "end": 488.9,
+  "dur": 2.47,
+  "frames": [
+   "frames/s225_a.jpg",
+   "frames/s225_m.jpg",
+   "frames/s225_z.jpg"
+  ],
+  "words": "Brickly ash Red clover Red clover"
+ },
+ {
+  "shot": 226,
+  "start": 488.9,
+  "end": 490.57,
+  "dur": 1.67,
+  "frames": [
+   "frames/s226_a.jpg",
+   "frames/s226_m.jpg",
+   "frames/s226_z.jpg"
+  ],
+  "words": "It's called lymphoria"
+ },
+ {
+  "shot": 227,
+  "start": 490.57,
+  "end": 492.63,
+  "dur": 2.07,
+  "frames": [
+   "frames/s227_a.jpg",
+   "frames/s227_m.jpg",
+   "frames/s227_z.jpg"
+  ],
+  "words": "Have to drop a morning and night Taste"
+ },
+ {
+  "shot": 228,
+  "start": 492.63,
+  "end": 494.37,
+  "dur": 1.73,
+  "frames": [
+   "frames/s228_a.jpg",
+   "frames/s228_m.jpg",
+   "frames/s228_z.jpg"
+  ],
+  "words": "like honey Right now it's"
+ },
+ {
+  "shot": 229,
+  "start": 494.37,
+  "end": 495.8,
+  "dur": 1.43,
+  "frames": [
+   "frames/s229_a.jpg",
+   "frames/s229_m.jpg",
+   "frames/s229_z.jpg"
+  ],
+  "words": "70 % off"
+ },
+ {
+  "shot": 230,
+  "start": 495.8,
+  "end": 498.5,
+  "dur": 2.7,
+  "frames": [
+   "frames/s230_a.jpg",
+   "frames/s230_m.jpg",
+   "frames/s230_z.jpg"
+  ],
+  "words": "With a 30 day money back guarantee Tap"
+ },
+ {
+  "shot": 231,
+  "start": 498.5,
+  "end": 500.47,
+  "dur": 1.97,
+  "frames": [
+   "frames/s231_a.jpg",
+   "frames/s231_m.jpg",
+   "frames/s231_z.jpg"
+  ],
+  "words": "the link below And the next"
+ },
+ {
+  "shot": 232,
+  "start": 500.47,
+  "end": 502.97,
+  "dur": 2.5,
+  "frames": [
+   "frames/s232_a.jpg",
+   "frames/s232_m.jpg",
+   "frames/s232_z.jpg"
+  ],
+  "words": "time Somebody says You're always on nights"
+ },
+ {
+  "shot": 233,
+  "start": 502.97,
+  "end": 504.93,
+  "dur": 1.97,
+  "frames": [
+   "frames/s233_a.jpg",
+   "frames/s233_m.jpg",
+   "frames/s233_z.jpg"
+  ],
+  "words": "Let them find out What"
+ },
+ {
+  "shot": 234,
+  "start": 504.93,
+  "end": 507.59,
+  "dur": 2.66,
+  "frames": [
+   "frames/s234_a.jpg",
+   "frames/s234_m.jpg",
+   "frames/s234_z.jpg"
+  ],
+  "words": "you been doing On those nights"
+ }
+]
