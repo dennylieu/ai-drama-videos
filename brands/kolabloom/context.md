@@ -17,6 +17,7 @@ kolabloom.com/leg-adv (not reachable from this environment). **MISSING** = ask t
   rings shallower; week 4 shoes go on; week 5 ankle bone visible by dinner; week 6 stairs, church, grocery store;
   week 8 shin colour; week 12 doctor's follow-up.
 - **Offer:** buy 2, get the 3rd free ("one for your sister too") + extra gifts. **Price: MISSING.**
+- **Research brief (2026-11-19):** `research/mechanism-notes-2026-11-19.md`: Sri Lankan, 60 caps = 30 days, 30-day guarantee in the master research; leg trials used 60-180 mg fractions (don't claim the studied dose).
 - **Guarantee: CONFLICTING:** the cruise native says "30-day money-back guarantee ... use it every day for six
   months ... empty bottles or not"; the crocs native says 180-day. **Confirm which is real.**
 - **Who buys it:** women ~55-75 (winner's narrator 64; crocs native's sister 63), years of "managed" swelling

@@ -15,9 +15,9 @@ Carneiro's rule: keep the proven parts (market, segment, concept, mechanism), be
 | 1 | Brand | Kolabloom |
 | 2 | Product | Pure gotu kola (Centella asiatica) capsules |
 | 3 | Ingredients + dose | 1,000 mg gotu kola per two-capsule serving; one ingredient; concentrated freeze-dried extract |
-| 4 | Attributes | Third-party tested, made in the USA, no fillers; two capsules every morning; first changes ~week 2, full picture by week 8-12 (the winner's timeline) |
+| 4 | Attributes | Sri Lankan gotu kola, 60 capsules = 30 days; third-party tested, made in the USA, no fillers; two capsules every morning; first changes ~week 2, full picture by week 8-12 (the winner's timeline) |
 | 5 | Price / bundles | Buy 2, get the 3rd free + extra gifts. **Price MISSING** |
-| 6 | Guarantee | **Conflict: 30-day ("empty bottles or not") vs 180-day. Confirm.** |
+| 6 | Guarantee | 30 days, empty bottles or not (brand master research). The crocs native's 180 days still to confirm. |
 | 7 | Gain now | 3rd bottle free ("one for your sister"), extra gifts |
 | 8 | Lose by waiting | The winner's own, true urgency: "if you have a doctor's appointment in the next 30-60 days, start now" (no fake stock) |
 
@@ -66,20 +66,22 @@ flip (Dale: "You okay?" Caroline, from the top of the hill: "Better than managed
 |---|---|---|
 | 6 | Identification | Ankles gone by supper; sock rings that won't fade by bedtime; legs like sand by lunch; the grocery-store cart; "it's just my feet"; the shoe strap that won't close. |
 | 7 | Point of contact | "I'm holding water." "It's my age." "It's being on my feet." Her doctor agrees and calls it managed. We build on it: yes, it's fluid. |
-| 8 | Problem mechanism | The fluid is only what you can see. Underneath, years of wear weaken the tiny vessel walls (and the collagen that holds them), so they let fluid seep into the tissue, and the calf pump can't push it all back up. Enemy: the leak underneath, **not her**, and not her age. |
+| 8 | Problem mechanism | (Brand's approved chain.) Your calves are your **second heart**: they pump the blood back up. That pump runs on collagen, in the vessel walls (the pipes) and in the tissue around the calf (the sponge). After 50 that collagen breaks down: the pipes leak, so fluid pools in the ankles; the sponge dries out, so the calves go stiff and squeeze weakly. Enemy: the worn-out walls, **not her**. It's not "just her age": it's what age does to the pipes. |
 | 9 | Function mechanism | You have to support the vessel wall, not just drain the water. Water pills bail it out through the kidneys for a few hours; compression squeezes from outside only while it's on; salt and feet-up help a little; none of them touch the wall. "Eleven years managed" = eleven years of bailing. |
-| 10 | Solution mechanism | Gotu kola, a 2,000-year-old herb, which the brand says supports the vessel walls and helps the body build fresh collagen in them: **strengthen the wall, support the circulation, so the legs feel light**. (Brand's "seal, strengthen, restore" wording to be confirmed by the brand.) |
-| 11 | Conditions | (1) A real, disclosed dose (the research used a measured daily amount); (2) one botanical, not sprinkled into a twelve-herb blend that hides the dose; (3) a concentrated form that keeps its potency; (4) every morning, for weeks: the wall took years. The pharmacy "vein support" bottle fails 1 and 2. |
+| 10 | Solution mechanism | Gotu kola, a 2,000-year-old herb. Its four natural compounds signal the body's "little construction workers" (fibroblasts) to build fresh collagen and slow the enzymes that break it down: the walls firm up, the sponge holds water, the second heart can push again. Human trials on gotu kola extracts recorded lighter, less swollen legs (Pointel 1987, De Sanctis 2001), including on long flights (Cesarone 2001). |
+| 11 | Conditions | (1) You have to know how much you're getting: one herb, the amount on the label (the brand's UMP: "mistaking ingredient count for real exposure"; a twelve-herb blend lists the name and hides the amount); (2) a concentrated form that keeps its potency (freeze-dried); (3) every morning, for weeks: the walls wore out over years. **Not** "the dose the studies used": the leg trials used a 60-180 mg concentrated fraction, and the brand's own research says so. |
 
 **The picture (one image a 10-year-old gets):** **a leaking boat.** "You can bail the water out of a boat all
 night. If the hull still leaks, the boat keeps filling." On a cruise ship, about a blood *vessel*: the 3D
-animation shows a little wooden boat taking on water through hairline cracks, a bucket bailing it (water pills), a
-rope squeezing it (compression), and then the cracks sealing as the hull strengthens. This is the brand's own
-line, and it becomes the chorus.
+animation shows a little wooden boat taking on water between worn planks (the vessel wall), a bucket bailing it
+(water pills), a rope squeezing it (compression), then tiny shipwrights (the brand's "construction workers") laying
+fresh planks until the hull holds. The second-heart line comes in the mechanism verse: a heart can only push
+through pipes that hold. This is the brand's own boat line, and it becomes the chorus.
 
-**Mechanism in 3 plain sentences:** "The swelling isn't the problem; it's the water coming in through tiny walls
-that got weak over the years. Water pills just bail it out and the leak keeps filling it back up. Kolabloom gives
-your vessel walls a real dose of the one herb that helps make them strong again."
+**Mechanism in 3 plain sentences:** "Your calves are your second heart, and after fifty the walls of the pipes
+they push through wear thin and leak, so the water pools in your ankles. Water pills just bail it out, and the leak
+fills it right back up. Kolabloom is one herb, a thousand milligrams you can read on the label, that helps your body
+build those walls back."
 
 **Messenger (changed from the winner, on purpose):** the native uses a Swiss *ship doctor*. Our rule: never present
 an AI character as a doctor making medical claims. So: **Margrit, 74, Swiss, a fellow passenger**, widow, the
@@ -90,14 +92,14 @@ Her own legs were "managed" in her sixties; a doctor friend in Zurich put her on
 ### Value sale
 | # | Element | Ours |
 |---|---|---|
-| 12 | USP | Kolabloom meets every condition: 1,000 mg gotu kola, disclosed on the label; one ingredient, nothing hidden; concentrated freeze-dried extract; third-party tested; made in the USA; two capsules every morning. |
+| 12 | USP | Kolabloom meets every condition: one ingredient, 1,000 mg Sri Lankan gotu kola disclosed on the label, nothing hidden; concentrated freeze-dried extract; third-party tested; made in the USA; two capsules every morning. |
 | 13 | Features (4 levers) | **Odds:** works on the wall itself, not just the water (a different road from everything she tried). **Dream:** the hill, the trips, the grandkids, church without sitting down. **Effort:** two capsules every morning; no bathroom runs like a water pill; nothing new to cook or cut. **Time:** "it isn't a water pill, week one you feel nothing", then week 2 the heaviness eases, week 4 the shoes, week 8 standing through church (the winner's order). |
 | 14 | Anchoring | Price per day MISSING (formula ready). Against: eleven years of stockings and refills; the vein procedure being scheduled; the trips you stop taking; "Mama lost her legs at 71. We have seven years if we do nothing different." |
 
 ### Impulse sale
 | # | Element | Ours |
 |---|---|---|
-| 15 | Risk reversal | Once the guarantee is confirmed: "[N] days, empty bottles or not. You'll know by week four. The only risk is another year of 'managed'." |
+| 15 | Risk reversal | "Thirty days, empty bottles or not. The trials saw legs change around week four. The only risk is another year of 'managed'." (Pointel/De Sanctis: 4-8 weeks.) |
 | 16 | Gain now | Buy 2, the 3rd is free: "one for your sister" (she mails it to her sister in the story) + gifts. |
 | 17 | Lose by waiting | "If you've got a doctor's appointment in the next 30 or 60 days, start now, so you walk in with something to show." (true, from the winner) |
 
@@ -148,13 +150,17 @@ in line with Lymphoria (31 % / 41 %). Product first named at ~2:00 (52 %).
   no diagnosis on screen, no doctor character making claims (Margrit is a passenger), mother's story softened to
   "her legs gave out, she never walked the same", no exam numbers, no "seal" as a medical fact unless the brand
   confirms the claim. The doctor at week 12 only asks "what did you change?".
+- **From the brand's own research brief:** never say the leg studies used Kolabloom's 1,000 mg (they used 60-180 mg
+  concentrated fractions); never call competitors underdosed without a label audit; no lymph-draining, "cleans the
+  blood", nitric-oxide, memory, weight or kidney claims in this ad. Allowed: lighter legs, less evening swelling and
+  sock rings, softer calves, "helps your body build collagen in the vessel walls" (brand wording), the second heart.
 - Keep the brand's disclaimer in the close (heart, kidneys, a clot belong with your doctor; never stop a prescribed
   medication).
 - Claims stay at what people can see and feel: lighter legs, ankles visible by supper, shoes go on, softer calves.
 
 ## Needed from the user
 1. **Price** per bottle and bundle.
-2. **The real guarantee** (30 or 180 days?).
+2. Confirm the guarantee is 30 days (master research) and the crocs native's 180 days is old.
 3. Claims Kolabloom must never make (or "same as the native").
 4. OK to change the messenger from a ship doctor to a Swiss passenger, and to soften the amputation.
 5. The cruise native's real numbers if it's winning outside this account (here: $395.69 spent, 3 purchases).
