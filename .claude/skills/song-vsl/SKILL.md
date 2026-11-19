@@ -13,7 +13,10 @@ Built from three articles, used in this order (full notes in `reference/`):
    `reference/foundation.md`
 3. **The story on top** - Ori Silver, "Inside Ryze's $22M Song Ads" (X, Sep 2026): sub-avatar, hero's-journey fall
    and rise, closest-person betrayal, mentor before product, vindication. `reference/blueprint.md`
-Fill-in templates for every step: `reference/templates.md`.
+Fill-in templates for every step: `reference/templates.md`. **Steps 1-9 are written up as one copy breakdown in
+Derick Carneiro's format: `templates/copy-breakdown.md` -> `ads/<code>/brief.md`** (premises, target, mechanism,
+content, offer, close, each question answered then "It would go like this:", then the mini-blocks). Worked example:
+`ads/KB1-kolabloom-song/brief.md`.
 Worked teardown of a live winner (Lymphoria, 8:27, night-shift nurse, lymphatic drops) with its block timings:
 `ads/KB1-kolabloom-song/refs/ref1/analysis.md`.
 

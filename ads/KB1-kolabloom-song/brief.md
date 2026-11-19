@@ -1,166 +1,305 @@
-# KB1 Kolabloom "Seal the Hull" song VSL - written brief (4 sales / 17 elements)
+# KB1 Kolabloom "Seal the Hull": copy breakdown
 
-Status: **Step 9 draft - waiting for approval + price + guarantee.** Nothing generated, nothing spent.
-Method: Carneiro premises -> target -> brief -> writing (`.claude/skills/song-vsl/reference/four-sales.md`), the
-Resilia mechanism rules, the Ryze story, Lymphoria's timing (`refs/ref1/analysis.md`).
-User decisions: 3D animated (Pixar-like), women 50-75, the song has to be good. Test cut ~3:50 first.
-**Writing reference = the brand's winning cruise native** (`brands/kolabloom/research/winner-cruise-native.txt`).
-Carneiro's rule: keep the proven parts (market, segment, concept, mechanism), bet only on the format (song + 3D).
-
----
-
-## Step 1. Premises (from the brand's own ads; see `brands/kolabloom/context.md`)
-| # | Item | Value |
-|---|---|---|
-| 1 | Brand | Kolabloom |
-| 2 | Product | Pure gotu kola (Centella asiatica) capsules |
-| 3 | Ingredients + dose | 1,000 mg gotu kola per two-capsule serving; one ingredient; concentrated freeze-dried extract |
-| 4 | Attributes | Sri Lankan gotu kola, 60 capsules = 30 days; third-party tested, made in the USA, no fillers; two capsules every morning; first changes ~week 2, full picture by week 8-12 (the winner's timeline) |
-| 5 | Price / bundles | Buy 2, get the 3rd free + extra gifts. **Price MISSING** |
-| 6 | Guarantee | 30 days, empty bottles or not (brand master research). The crocs native's 180 days still to confirm. |
-| 7 | Gain now | 3rd bottle free ("one for your sister"), extra gifts |
-| 8 | Lose by waiting | The winner's own, true urgency: "if you have a doctor's appointment in the next 30-60 days, start now" (no fake stock) |
-
-## Step 2. Target
-- **Market:** swollen, heavy legs and ankles (leg circulation). The brand's ads all run this market.
-- **Segment (copied from the winner):** women 60-70 whose swelling has been **"managed" for years** (water pills,
-  compression, salt, feet up), who watched a mother or sister's legs get worse. Identity: retired or nearly,
-  married a long time, saved for years for the "trip you plan in your forties for your sixties".
-- **Avatar:** Caroline, 64, married 40 years to Dale, two grown kids, a sister she calls every Sunday.
-  - Primary desire: legs she can trust; to walk anywhere without planning around them.
-  - Problem: ankles that disappear by supper, sock rings that won't fade, legs heavy before lunch.
-  - Secondary desires: the trips, the grandkids, standing through church, shoes that go on.
-  - Pain points: sitting on the motorized cart at the grocery store; the stove; the shoe strap; telling Dale
-    "it's just my feet".
-  - Dreams: the cruise they saved for, at the top of the hill with him, not behind him.
-  - Fears: **ending up like her mother** (her legs gave out at 71); **becoming a burden** on Dale and the kids;
-    the trips stopping. Primal fears: health scare + becoming a burden (60+ list) + losing her place in the
-    family's plans.
-  - Perspective: believes "it's my age / being on my feet / I hold water"; trusts her doctor but is tired of
-    "we'll keep an eye on it"; distrusts long-label supplements; respects anything from Europe. Enemy: the
-    "managed" routine. Allies: her sister, women who've been through it.
-  - Language: "managed", "keep an eye on it", "ankles disappear by supper", "legs like sand", "sock rings".
-
-## Step 3. Brief: the 17 elements
-
-### Content sale
-| # | Element | Ours |
-|---|---|---|
-| 1 | Format | 3D animated family story, sung as a warm Southern country-soul ballad by a woman in her 60s. Feels like a movie, not an ad. |
-| 2 | Topic | The trip of a lifetime ruined by "managed" legs; the Caribbean cruise she saved three years for. (The brand's proven topic.) |
-| 3 | Concept (logline) | A 64-year-old's legs give out on a hill in St. Thomas on the cruise she saved three years for; a 74-year-old Swiss woman who dances every night tells her what eleven years of "managed" never did; a year later she's back on the same hill, thirty feet ahead of her husband. |
-| | Angle | "My legs were 'managed' for eleven years. On day four of our dream cruise, they carried me down a hill." |
-| 4 | Visual hook | Cold open, bright Caribbean colour: a woman reaches the top of a cobblestone hill first, turns, laughs at her out-of-breath husband thirty feet behind. Match-cut to the same hill a year earlier: she's sitting on the wall, ankles ballooned over her shoes, tourists stepping over her feet. |
-| 5 | Copy hook | "Last year they carried me down this hill. This year I beat my husband to the top." (cold open) / "Let me tell you how I got here." |
-
-**The problem causes the drama (rule check):** yes. Her legs fail on the hill and end the trip; remove the swelling
-and nothing happens. **Closest person:** Dale's face when he turns around, the daughter who says "maybe no more
-trips, Mom", and the shadow of her own mother.
-
-**Motif line:** *"It's managed."*: the doctor's word at the start ("We've got it managed"), her own lie to Dale on
-the hill ("I'm fine, it's managed"), the Swiss woman's question ("Who told you that was managed?"), and the payoff
-flip (Dale: "You okay?" Caroline, from the top of the hill: "Better than managed.").
-
-### Hope sale
-| # | Element | Ours |
-|---|---|---|
-| 6 | Identification | Ankles gone by supper; sock rings that won't fade by bedtime; legs like sand by lunch; the grocery-store cart; "it's just my feet"; the shoe strap that won't close. |
-| 7 | Point of contact | "I'm holding water." "It's my age." "It's being on my feet." Her doctor agrees and calls it managed. We build on it: yes, it's fluid. |
-| 8 | Problem mechanism | (Brand's approved chain.) Your calves are your **second heart**: they pump the blood back up. That pump runs on collagen, in the vessel walls (the pipes) and in the tissue around the calf (the sponge). After 50 that collagen breaks down: the pipes leak, so fluid pools in the ankles; the sponge dries out, so the calves go stiff and squeeze weakly. Enemy: the worn-out walls, **not her**. It's not "just her age": it's what age does to the pipes. |
-| 9 | Function mechanism | You have to support the vessel wall, not just drain the water. Water pills bail it out through the kidneys for a few hours; compression squeezes from outside only while it's on; salt and feet-up help a little; none of them touch the wall. "Eleven years managed" = eleven years of bailing. |
-| 10 | Solution mechanism | Gotu kola, a 2,000-year-old herb. Its four natural compounds signal the body's "little construction workers" (fibroblasts) to build fresh collagen and slow the enzymes that break it down: the walls firm up, the sponge holds water, the second heart can push again. Human trials on gotu kola extracts recorded lighter, less swollen legs (Pointel 1987, De Sanctis 2001), including on long flights (Cesarone 2001). |
-| 11 | Conditions | (1) You have to know how much you're getting: one herb, the amount on the label (the brand's UMP: "mistaking ingredient count for real exposure"; a twelve-herb blend lists the name and hides the amount); (2) a concentrated form that keeps its potency (freeze-dried); (3) every morning, for weeks: the walls wore out over years. **Not** "the dose the studies used": the leg trials used a 60-180 mg concentrated fraction, and the brand's own research says so. |
-
-**The picture (one image a 10-year-old gets):** **a leaking boat.** "You can bail the water out of a boat all
-night. If the hull still leaks, the boat keeps filling." On a cruise ship, about a blood *vessel*: the 3D
-animation shows a little wooden boat taking on water between worn planks (the vessel wall), a bucket bailing it
-(water pills), a rope squeezing it (compression), then tiny shipwrights (the brand's "construction workers") laying
-fresh planks until the hull holds. The second-heart line comes in the mechanism verse: a heart can only push
-through pipes that hold. This is the brand's own boat line, and it becomes the chorus.
-
-**Mechanism in 3 plain sentences:** "Your calves are your second heart, and after fifty the walls of the pipes
-they push through wear thin and leak, so the water pools in your ankles. Water pills just bail it out, and the leak
-fills it right back up. Kolabloom is one herb, a thousand milligrams you can read on the label, that helps your body
-build those walls back."
-
-**Messenger (changed from the winner, on purpose):** the native uses a Swiss *ship doctor*. Our rule: never present
-an AI character as a doctor making medical claims. So: **Margrit, 74, Swiss, a fellow passenger**, widow, the
-woman who has danced every night of the cruise in heels and walked up that hill ahead of Caroline that morning.
-Her own legs were "managed" in her sixties; a doctor friend in Zurich put her on gotu kola. Same proven Swiss vs
-"managed" contrast, credible through her life, the finished version of Caroline.
-
-### Value sale
-| # | Element | Ours |
-|---|---|---|
-| 12 | USP | Kolabloom meets every condition: one ingredient, 1,000 mg Sri Lankan gotu kola disclosed on the label, nothing hidden; concentrated freeze-dried extract; third-party tested; made in the USA; two capsules every morning. |
-| 13 | Features (4 levers) | **Odds:** works on the wall itself, not just the water (a different road from everything she tried). **Dream:** the hill, the trips, the grandkids, church without sitting down. **Effort:** two capsules every morning; no bathroom runs like a water pill; nothing new to cook or cut. **Time:** "it isn't a water pill, week one you feel nothing", then week 2 the heaviness eases, week 4 the shoes, week 8 standing through church (the winner's order). |
-| 14 | Anchoring | Price per day MISSING (formula ready). Against: eleven years of stockings and refills; the vein procedure being scheduled; the trips you stop taking; "Mama lost her legs at 71. We have seven years if we do nothing different." |
-
-### Impulse sale
-| # | Element | Ours |
-|---|---|---|
-| 15 | Risk reversal | "Thirty days, empty bottles or not. The trials saw legs change around week four. The only risk is another year of 'managed'." (Pointel/De Sanctis: 4-8 weeks.) |
-| 16 | Gain now | Buy 2, the 3rd is free: "one for your sister" (she mails it to her sister in the story) + gifts. |
-| 17 | Lose by waiting | "If you've got a doctor's appointment in the next 30 or 60 days, start now, so you walk in with something to show." (true, from the winner) |
-
-**Bets in this ad:** proven = market, segment, cruise concept, Swiss contrast, mechanism, offer (all from the
-brand's own winner). New = song + 3D format, cold open, the boat chorus, the messenger as a passenger. Risk:
-**conservative-to-moderate**.
+Format: Derick Carneiro's process ("how I write ads that make strangers buy"): Premises -> Target -> Brief
+(Mechanism, Content, Offer, Close) -> Writing. Every answer gives the reasoning, then "It would go like this:".
+Status: **draft for approval.** Nothing generated, nothing spent. Open items are marked **MISSING**.
+User decisions: song VSL, 3D animated (Pixar-like), women 50-75, the song has to be good, test cut ~3:50 first.
+Sources: `brands/kolabloom/research/` (winner-cruise-native.txt, native-swollen-crocs.txt, 9min-cruise-video-copy.txt,
+mechanism-notes-2026-11-19.md + the research PDF); structure reference `refs/ref1/analysis.md` (Lymphoria).
 
 ---
 
-## Step 4. Story beat sheet (test cut ~3:50)
-| Time | Block | Event | Song |
+## Step #1: Premises
+
+1. **Brand name**
+   - Kolabloom
+2. **Product name**
+   - Kolabloom pure gotu kola (Centella asiatica) capsules
+3. **Ingredients**
+   - Gotu kola, 1,000 mg per two-capsule serving. One ingredient. Sri Lankan.
+   - Concentrated freeze-dried extract. Four natural compounds: asiaticoside, madecassoside, asiatic acid, madecassic acid.
+4. **Attributes**
+   - Third-party tested. Made in the USA. No fillers.
+   - Two capsules every morning. 60 capsules = 30 days.
+   - Not a water pill: no bathroom runs.
+   - The brand's winner shows first changes around week 2, the full picture by week 8-12. The human leg trials on
+     gotu kola extracts saw changes at 4-8 weeks.
+5. **Price**
+   - **MISSING** (per bottle and per bundle).
+6. **Guarantee**
+   - 30 days, empty bottles or not (brand master research). The crocs native says 180 days: **confirm**.
+7. **What do they gain by buying now?**
+   - Buy 2, the 3rd bottle is free ("one for your sister too") + extra gifts.
+8. **What do they lose by putting it off?**
+   - No real deadline or stock limit is known, so no fake scarcity.
+   - The winner's own true urgency: if you have a doctor's appointment in the next 30-60 days, start now so you walk
+     in with something to show.
+
+---
+
+## Step #2: Target
+
+**Question 1: Which markets can our product go after?**
+- Swollen, heavy legs and ankles (leg circulation).
+- Others the research touches: memory, calm, metabolism, skin, kidneys.
+- Pick ONE: **swollen, heavy legs.** Every Kolabloom ad that has spent (cruise native, crocs native, 9-min cruise
+  video) runs this market, and it's where the brand's human evidence is. The rest is preclinical or limited.
+
+**Question 2: Which segment of that market?**
+- Way 1 (copy what's working): the cruise native's segment: **women 60-70 whose swelling has been "managed" for
+  years** (water pills, compression, salt, feet up), who watched a mother or a sister's legs get worse.
+- Same segment in the crocs native (a sister, 63). Going with it.
+
+**Question 3: Who is the avatar?**
+
+Layer 1: Psychographics
+- **Primary desire:** legs she can trust; to walk anywhere without planning around them.
+- **Problem:** ankles that disappear by supper, sock rings that won't fade, legs heavy before lunch.
+- **Secondary desires:** the trips she saved for, keeping up with the grandkids, standing through church, shoes that
+  go on without a fight.
+- **Pain points:** the motorized cart at the grocery store; sitting down halfway through cooking; the shoe strap that
+  won't close; telling her husband "it's just my feet".
+- **Dreams:** at the top of the hill with him, not thirty feet behind him.
+- **Fears:** ending up like her mother (her legs gave out at 71); becoming a burden; the trips stopping.
+
+Layer 2: Identity
+- **Demographics:** woman, 60-70, American, Southern/Midwest, English, Christian, married 40 years, mother of two
+  grown kids, grandmother, the one who holds the family together.
+- **Behaviour:** reads long Facebook stories to the end; travels with her husband (cruises, bus tours); church every
+  Sunday; Hallmark movies; Southern gospel and classic country; watches her blood pressure.
+- **Perspective:**
+  - Beliefs: "It's my age." "I'm holding water." "It's being on my feet." "My doctor has it managed."
+  - Biases: trusts women who've been through it; respects anything from Europe; distrusts long-label supplements.
+  - Enemies: the "managed" routine; the twelve-herb bottle; "we'll keep an eye on it".
+  - Allies: her sister, her husband, women older than her who still walk everywhere.
+  - Language: "managed", "ankles gone by supper", "legs like sand", "sock rings", "keep an eye on it".
+
+---
+
+## Step #3: Brief
+
+At this point, I know I'm making an ad for:
+- **Market:** swollen, heavy legs.
+- **Segment:** women 60-70 whose swelling has been "managed" for years.
+- **Avatar:** Caroline, 64, married to Dale for 40 years, two grown kids, a sister she calls every Sunday; saved
+  three years for a Caribbean cruise.
+
+And I know from the premises: Kolabloom, 1,000 mg pure gotu kola, two capsules every morning; buy 2 get the 3rd free;
+30-day guarantee (confirm); price MISSING.
+
+### Mechanism
+
+**1) What point of contact does this avatar want to hear?**
+- She believes it's water ("I'm holding water"), her age, and being on her feet. Her doctor agrees and calls it
+  managed.
+- Every Kolabloom ad starts there: the swelling is real, the water pill is what she's been given.
+- So the point of contact is: **"It's water, and the water pills are handling it."** We agree, and then go under it.
+
+It goes something like this:
+- "Eleven years my ankles disappeared by supper. My doctor said I was holding water. Said we had it managed."
+
+**2) What problem mechanism is the avatar most ready to accept?**
+- She already knows her calves "pump" (she's heard about walking and circulation), that collagen goes after 50
+  (skin, joints), and that water pills only work for a few hours.
+- So we connect dots she already has, with the brand's own chain: the calves are a second heart; that pump runs on
+  collagen in the vessel walls; after 50 the walls wear thin and leak.
+
+It goes something like this:
+- "Your calves are your second heart. Every step, they push the blood back up."
+- "But a heart can only push through pipes that hold."
+- "After fifty, the collagen in those little walls wears thin. They start to leak. The water seeps out and sits in
+  your ankles."
+- "It's not your age, honey. It's what the years did to the walls."
+
+**3) What function mechanism is the avatar most ready to accept?**
+- She has taken the water pill for years. If she's still looking, it didn't fix it.
+- She knows from experience that the swelling is back every evening, and the stockings only work while they're on.
+- So: water pills and stockings work on the **water**; nothing she's been given works on the **wall**. "Bailing
+  vs. fixing the hull" is the brand's own line from the winner.
+
+It would go like this:
+- "A water pill forces the water out through your kidneys. Your ankles look better for a morning."
+- "But it doesn't touch the leak. By supper it's full again."
+- "The stockings squeeze from the outside. The minute they come off, it all comes back."
+- "You can bail water out of a boat all night. If the hull still leaks, the boat keeps filling."
+
+**4) What solution mechanism is the avatar most ready to accept?**
+- A 2,000-year-old herb is easy to believe for this avatar (natural, "they've used it forever").
+- The brand's chain: gotu kola's four natural compounds signal the body's builders (fibroblasts, "little construction
+  workers") to make fresh collagen and slow what breaks it down.
+- Human trials on gotu kola extracts recorded lighter, less swollen legs, including on long flights.
+
+It goes something like this:
+- "There's an herb they've used for two thousand years. Gotu kola."
+- "It tells your body's little builders to lay fresh collagen back into those walls."
+- "The walls firm up. The water stays where it belongs. And your second heart can finally push."
+
+### Content
+
+**1) Topic: what facts, topics or situations grab her interest?**
+- The brand's proven topic: a dream trip ruined by "managed" legs (the Caribbean cruise, the hill in St. Thomas).
+- Plus the fear she already carries: "my mother's legs".
+- Topic of this ad: **"My legs were 'managed' for eleven years. On day four of our dream cruise, they gave out."**
+
+**2) Format**
+
+a) What should the ad look like to spark her interest as easily as possible?
+- 3D animated, Pixar-like characters (proven in long song ads: Lymphoria), warm Caribbean colour, a family-movie
+  feel. It doesn't look like an ad.
+
+b) What narrative style holds her to the end?
+- A sung story (Southern country-soul ballad, a woman in her 60s), told in first person, with a cold open on the
+  ending (Lymphoria) and the brand's cruise story underneath (the winner).
+
+c) Which characters show up, and what roles do they play?
+- **Caroline, 64:** the hero, the viewer's mirror.
+- **Dale, 66:** her husband; his face when he turns around is the stakes.
+- **Her mother (memory):** the future she's afraid of.
+- **Her daughter (phone call):** "Mom, maybe this should be your last trip" (becoming a burden).
+- **Her doctor:** the dismisser: "We've got it managed." At week 12: "What did you change?"
+- **Margrit, 74, Swiss passenger:** the messenger; dances every night; her legs were "managed" too, in her
+  sixties. Not a doctor (no AI doctor making claims).
+- **Her sister:** the convert; gets the free third bottle.
+
+**3) Concept**
+
+a) Logline
+- A 64-year-old's legs give out on a cobblestone hill in St. Thomas on the cruise she saved three years for; a
+  74-year-old Swiss woman who dances every night tells her what eleven years of "managed" never did; a year later
+  she's back on the same hill, thirty feet ahead of her husband.
+
+b) The angle that gives her an uncontrollable urge to hear more
+- "My doctor called my legs 'managed' for eleven years. It took a stranger on a cruise ship twenty minutes to tell
+  me why they kept swelling."
+
+**4) Copy hook: one bullet to open the concept**
+- Structure from the brand's winner: "I almost lost [the thing she loves] to a swelling everyone called '[the
+  dismissal]' on [the dream event]." Proven in this exact market.
+- Plus Lymphoria's cold open: start on the ending, then "let me tell you how I got here."
+
+It would go like this:
+- "Last year, they carried me down this hill. My legs had been 'managed' for eleven years. Let me tell you how I got
+  back up it."
+
+**5) Visual hook: what breaks her expectation and stops the scroll?**
+- Bright Caribbean sunset, cobblestones, red tin roofs: a grey-haired woman reaches the top of the hill first, turns
+  and laughs at her husband puffing thirty feet behind.
+- Match-cut: the same hill a year earlier, the same woman slumped on the wall, ankles ballooned over her shoes,
+  tourists stepping over her feet.
+
+### Offer
+
+**1) Conditions: why can't she get this on her own?**
+- First thing she'll think: "I'll grab a vein pill at Walgreens", or "my pharmacy blend has gotu kola in it."
+- So the problem isn't finding gotu kola, it's **knowing you're actually getting it**: most "vein support" bottles
+  list ten to twenty herbs in one blend and never say how much of each (the brand's UMP: "mistaking ingredient count
+  for real exposure").
+- It also has to keep its potency (concentrated, freeze-dried) and be taken every morning for weeks, because the walls
+  wore out over years.
+- Claim limit from the brand's own research: we do **not** say "the dose the studies used" (the leg trials used a
+  60-180 mg concentrated fraction) and we don't call competitors underdosed by name.
+
+It would go like this:
+- "Every vein pill I'd tried had a dozen herbs on the label and not one number next to them."
+- "You'd never know if you got a pinch or a spoonful."
+- "It has to be the one herb, and you have to know how much."
+
+**2) USP: why is Kolabloom the place to get it under those conditions?**
+- The USP is just the answer to the conditions: one herb, 1,000 mg on the label, concentrated freeze-dried,
+  every morning.
+
+It would go like this:
+- "Kolabloom is one thing. Gotu kola. A thousand milligrams, right there on the label."
+- "Freeze-dried so it keeps its strength. Tested by a lab that isn't theirs."
+- "Two capsules every morning. That's the whole thing."
+
+**3) Features: odds, dream, effort, time**
+- **Odds:** it works on the wall, not just the water: a different road from everything she tried.
+- **Dream:** the hill, the trips, the grandkids, standing through a whole church service.
+- **Effort:** two capsules in the morning; no bathroom runs like a water pill; nothing to cut, nothing to cook;
+  keep whatever your doctor has you on.
+- **Time:** honest: "it isn't a water pill, week one you won't feel a thing." Then the winner's order: week 2 the
+  heaviness, week 4 the shoes, week 5 the ankle bone by supper, week 8 church, week 12 the doctor.
+
+**4) Anchoring: why does not solving it cost more than the price?**
+- Price per day: **MISSING** (best bundle price ÷ 90 days, once we have it).
+- Against: eleven years of stockings and refills that never fixed it; the vein procedure on the calendar; the trips
+  you stop taking; her mother's timeline.
+
+It would go like this:
+- "Less than [MISSING] a day."
+- "Less than a pair of the stockings that never fixed it."
+- "And nothing next to the trips I'd have stopped taking. Mama lost her legs at seventy-one. I'm sixty-four."
+
+### Close
+
+**1) Risk reversal: why is not buying riskier than buying?**
+- The guarantee (30 days, empty bottles or not) against a timeline she can believe (legs changed around week four
+  in the trials).
+
+It would go like this:
+- "You've got thirty days. Empty bottles or not."
+- "That's enough to feel the heaviness lift and see your shoes go back on."
+- "The only risk is another year of 'managed'."
+
+**2) What does she have to gain? Why buy now?**
+- Buy 2, the 3rd is free: in the story she mails it to her sister.
+
+It would go like this:
+- "Take two, and the third one's free. I sent mine to my sister."
+
+**3) What does she have to lose? Why is waiting worse?**
+- No fake stock or deadline. The winner's own true urgency: the next doctor's visit.
+
+It would go like this:
+- "If you've got a check-up in the next month or two, start now."
+- "Walk in with something to show her besides another refill."
+
+Brief done: all 17 elements filled with what she wants to hear, how she wants to hear it, and from whom.
+**Bets in this ad:** proven = market, segment, cruise concept, mechanism, offer (all from the brand's own ads and
+research). New = song + 3D format, cold open, boat chorus, the Swiss passenger. Risk: **moderate**.
+
+---
+
+## Step #4: Writing
+
+The brief decides **what** gets said; the references decide the **order and rhythm**.
+
+**Mini-blocks** (Lymphoria's structure, the cruise native's story), timed for the ~3:50 test cut:
+| Time | Mini-block | What it says (from the brief above) | Song |
 |---|---|---|---|
-| 0:00-0:08 | Cold open | A year later: Caroline reaches the top of the cobblestone hill in Charlotte Amalie first, turns, Dale puffing 30 ft behind. Match-cut: same hill last year, Caroline slumped on the wall. | "Last year they carried me down this hill... let me tell you how I got here." |
-| 0:08-0:20 | Setup, problem shows | Home: three years of saving (the cruise jar on the fridge); at the stove, ankles gone by supper; the doctor: "We've got it managed." | Symptom stack: "Ankles gone by supper, rings that never fade..." |
-| 0:20-0:45 | The drama, caused by the problem | Day four, St. Thomas, the hill at sunset. Dale ahead taking photos. Her legs fill "like sand". She sits on the wall; her voice won't come; tourists step over her feet. | Verse 1 |
-| 0:45-0:58 | Worse | She looks at her ankles and sees her mother's legs (flashback, soft: her mother in a wheelchair at 71). Dale turns around and drops his phone on the cobblestones. His face. | "I'd seen that face once before..." |
-| 0:58-1:08 | Freeze | Carried down on a cart; "I'm fine, it's managed" (she isn't). Next day she watches St. Lucia go by from the railing. Daughter on the phone: "Mom, maybe this should be your last trip." | Pre-chorus |
-| 1:08-1:20 | Tried + dismisser | Montage: water pills, stockings, no salt, feet up, the 12-herb pharmacy bottle; eleven years of "we'll keep an eye on it". | Verse 2, fast list, "eleven years of managed" |
-| 1:20-1:30 | Messenger | Night, pool deck. Margrit, 74, comes off the dance floor, sits beside her, looks at the ankles: "Who told you that was managed?" | |
-| 1:30-2:00 | Mechanism | Margrit: not your age, not your fault; the vessel walls leak; water pills bail; the 3D boat animation. | **Chorus (the boat)** |
-| 2:00-2:20 | Product + conditions | Margrit's story (a doctor friend in Zurich); gotu kola; a real dose, one herb, nothing hidden; Kolabloom, two capsules every morning. | Bridge |
-| 2:20-2:28 | Doubt | "I've bought every vein pill at Walgreens." "Did any of them tell you the dose?" | |
-| 2:28-2:55 | Proof, honest | Week 1 nothing ("it isn't a water pill"); week 2 the stove; week 4 the shoe strap closes; week 5 she sees her ankle bone after dinner, Dale notices; week 8 stands through the whole church service; week 12 her doctor: "Caroline, what did you change?" | Verse 3 |
-| 2:55-3:25 | Payoff | One year later, same ship, same hill. Caroline 30 ft ahead; Dale: "Slow down!" She turns, laughs. Dale: "You okay?" "Better than managed." St. Lucia this time, feet in the water. | Final chorus, motif flipped |
-| 3:25-3:33 | Convert | Back home she mails the free third bottle to her sister: "Don't 'manage' it. Start." | |
-| 3:33-3:55 | Close | To camera, on the deck: "If your ankles disappear by supper and the sock rings won't fade... it was never your age. It was the leak. Water pills bail. Kolabloom works on the wall. Two capsules, every morning. Buy two, the third's for your sister. [Guarantee]. If you've got a doctor's visit coming, start now." Disclaimer card. "Don't just manage it." | Spoken over the outro |
+| 0:00-0:08 | Hook / cold open | Copy hook + visual hook | Talk-sung intro |
+| 0:08-0:20 | Identification | Ankles by supper, sock rings, "we've got it managed" (point of contact) | Verse 1 |
+| 0:20-0:45 | The drama, caused by the problem | Day four, the hill, legs filling like sand, Dale 30 ft ahead, tourists stepping over her feet | Verse 1 |
+| 0:45-0:58 | Worse | Her mother's legs; Dale drops his phone; his face | Verse 1 |
+| 0:58-1:08 | Freeze | Carried down; "I'm fine, it's managed"; St. Lucia from the railing; daughter: "maybe your last trip" | Pre-chorus |
+| 1:08-1:20 | Belief break (everything tried) | Water pills, stockings, salt, feet up, the 12-herb bottle | Verse 2 |
+| 1:20-1:30 | Messenger | Margrit off the dance floor: "Who told you that was managed?" | |
+| 1:30-2:00 | Mechanism reveal | Problem + function mechanism; the boat; the second heart | **Chorus (the boat)** |
+| 2:00-2:20 | Product presentation | Solution mechanism, conditions, USP | Bridge |
+| 2:20-2:28 | Objection | "I've bought every vein pill at Walgreens." "Did any of them tell you how much?" | |
+| 2:28-2:55 | Proof | Week 1 nothing, 2 heaviness, 4 shoes, 5 ankle bone, 8 church, 12 "what did you change?" | Verse 3 |
+| 2:55-3:25 | Payoff | Same hill, a year later, 30 ft ahead; Dale: "You okay?" "Better than managed." | Final chorus |
+| 3:25-3:33 | Convert | Mails the free bottle to her sister | |
+| 3:33-3:55 | Close | Callout, mechanism in one line, USP, risk reversal, gain, lose, disclaimer, "don't just manage it" | Spoken outro |
 
-Selling time ≈ mechanism 30 s + product 20 s + doubt 8 s + close 22 s = 80 s ≈ 34 % (≈ 46 % with the proof weeks),
-in line with Lymphoria (31 % / 41 %). Product first named at ~2:00 (52 %).
+**Motif line:** "managed" (doctor -> her lie to Dale -> Margrit's question -> "better than managed").
+**Chorus (carries the mechanism, draft):** *"You can bail a boat all night long / if the hull's still leakin', it
+keeps fillin' on / eleven years they bailed me out / nobody ever fixed the wall."* After the gift: *"...till I
+fixed the wall."*
+**Song:** warm Southern country-soul ballad, ~88-94 bpm, acoustic guitar, piano, pedal steel; female alto in her
+60s; verses talk-sung, chorus sung big and simple; every word clear on first listen.
+**Split:** selling ≈ 34 % (≈ 46 % with the proof weeks); product named at ~2:00 (52 %).
 
-## Song direction
-- **"Seal the Hull"** (working title). Warm Southern country-soul ballad, ~88-94 bpm, acoustic guitar, piano,
-  pedal steel, light strings; a lived-in female alto, 60s, Southern. Verses talk-sung, chorus sung big and simple.
-- **Chorus carries the mechanism** (draft, to tune once approved):
-  *"You can bail a boat all night long / if the hull's still leakin', it keeps fillin' on /
-  eleven years they bailed me out / nobody ever fixed the wall."*
-  After the gift the last line changes: *"...till I fixed the wall."* Final chorus over the payoff.
-- **Motif:** "managed" (doctor -> her lie -> Margrit's question -> "better than managed").
-- **Clarity first:** every word understood first listen; sparse under the verses; product name and "two capsules
-  every morning" spoken clearly in the close.
-- **Generation:** ElevenLabs Music v2.5 via Higgsfield (custom lyrics, ≤120 s per section): 2-3 sections, 3
-  versions each, same style prompt, judged on clarity and "sounds like a real woman telling you"; joined on bar
-  lines; transcript-checked. User approves by ear before any video.
+## Compliance
+- No diagnosis names on screen, no doctor character making claims, mother's story softened ("her legs gave out, she
+  never walked the same"), no exam numbers.
+- From the brand's research: never claim the leg studies used Kolabloom's 1,000 mg; no "underdosed" competitor
+  claims without a label audit; no lymph-draining, blood-cleaning, nitric-oxide, memory, weight or kidney claims here.
+- Brand disclaimer in the close: some swelling has a medical cause (heart, kidneys, a clot): see your doctor; never
+  stop a prescribed medication.
 
-## Compliance (read before lyrics)
-- The winner uses diagnosis names ("chronic venous insufficiency"), amputation, a fake Swiss doctor, an
-  "American doctors are decades behind" attack and exam numbers. The song keeps the story and the fear but:
-  no diagnosis on screen, no doctor character making claims (Margrit is a passenger), mother's story softened to
-  "her legs gave out, she never walked the same", no exam numbers, no "seal" as a medical fact unless the brand
-  confirms the claim. The doctor at week 12 only asks "what did you change?".
-- **From the brand's own research brief:** never say the leg studies used Kolabloom's 1,000 mg (they used 60-180 mg
-  concentrated fractions); never call competitors underdosed without a label audit; no lymph-draining, "cleans the
-  blood", nitric-oxide, memory, weight or kidney claims in this ad. Allowed: lighter legs, less evening swelling and
-  sock rings, softer calves, "helps your body build collagen in the vessel walls" (brand wording), the second heart.
-- Keep the brand's disclaimer in the close (heart, kidneys, a clot belong with your doctor; never stop a prescribed
-  medication).
-- Claims stay at what people can see and feel: lighter legs, ankles visible by supper, shoes go on, softer calves.
-
-## Needed from the user
-1. **Price** per bottle and bundle.
-2. Confirm the guarantee is 30 days (master research) and the crocs native's 180 days is old.
-3. Claims Kolabloom must never make (or "same as the native").
-4. OK to change the messenger from a ship doctor to a Swiss passenger, and to soften the amputation.
-5. The cruise native's real numbers if it's winning outside this account (here: $395.69 spent, 3 purchases).
+## Needed before lyrics
+1. **Price** per bottle and bundle (anchoring line).
+2. Confirm the **30-day** guarantee (vs 180 in the crocs native).
+3. OK on the Swiss passenger instead of a ship doctor, and the softened mother's story.

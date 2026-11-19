@@ -13,6 +13,9 @@ captions.** Generation and upscaling run on whichever API provider has credits; 
   (audio back onto SeedVR2 output), `tools/wordcheck.py`, `tools/fw_transcribe.py`, `tools/captions.py`,
   `tools/plate_check.py`, `tools/stitch.sh` (quick preview join only).
 - Providers and their settings: `providers/README.md`. API keys are never committed; they live in the environment.
+- **Every new ad (drama, song VSL, native, static, UGC) starts with a copy breakdown in Derick Carneiro's format:**
+  `templates/copy-breakdown.md` -> `ads/<CODE>-<slug>/brief.md` (example: `ads/KB1-kolabloom-song/brief.md`). No script
+  or generation before it is approved.
 - One folder per ad: `ads/<CODE>-<slug>/` with `brief.md`, `script.md`, `prompts/`, `log.md`, `edit.json`,
   `plates.json`. Media (`clips/`, `stills/`, `final/`) is gitignored.
 - Python deps for transcripts/captions: `pip install -r tools/requirements.txt`.

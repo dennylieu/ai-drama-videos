@@ -19,6 +19,9 @@ library: `prompts.md` (numbers match the original article).
 - Web access is limited here (review sites, Reddit and the Meta Ad Library often need a browser or block bots).
   Ask the user for exports, pasted comments or downloaded .mp4s instead of guessing.
 
+- Any new ad idea that gets approved becomes a copy breakdown (`templates/copy-breakdown.md`, Derick Carneiro's
+  format) before a script is written.
+
 ## Where each prompt fits
 
 | Stage | Prompts | Output file |

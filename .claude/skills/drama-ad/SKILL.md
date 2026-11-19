@@ -28,6 +28,9 @@ Prompt templates and proven prompts: `reference/prompts.md`. QC commands: `refer
 ## Workflow
 
 ### 1. Brief (ask in one message)
+Write the brief as a copy breakdown (`templates/copy-breakdown.md` -> `ads/<code>/brief.md`, Derick Carneiro's
+format: premises, target, mechanism, content, offer, close with "It would go like this:" lines, then mini-blocks).
+For a 10-15 s hook, Steps 1-3 are still filled; Step 4 has fewer blocks.
 Product and what it visibly changes; buyer and the ONE problem; offer or "no offer"; 3 things the ad must never
 claim; language/accent; length (10 s hook, 15 s segment, or 30 s = two segments); a real product photo if the
 product is revealed; optional reference ad.
