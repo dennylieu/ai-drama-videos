@@ -7,7 +7,7 @@ captions.** Generation and upscaling run on whichever API provider has credits; 
 - Research, angles, hooks, iterations, weekly learning loop: `.claude/skills/creative-strategy/SKILL.md`.
   Per-brand files live in `brands/<brand>/` (context.md, research/, ideas.md, learnings.md, script-rules.md).
 - Long-form sung story ads (song VSL, 3-10 min: direct-response advertorial told as a hero's-journey song):
-  `.claude/skills/song-vsl/SKILL.md`.
+  `.claude/skills/song-vsl/SKILL.md` (4 sales / 17-element brief, Ryze story, Resilia mechanism).
 - Competitor/winning-ad breakdown -> swipe brief: `.claude/skills/ad-teardown/SKILL.md` (`tools/teardown.py`).
 - Tools (Python 3 + ffmpeg, local and free): `tools/assemble.py` (only joiner we use), `tools/remux_audio.sh`
   (audio back onto SeedVR2 output), `tools/wordcheck.py`, `tools/fw_transcribe.py`, `tools/captions.py`,

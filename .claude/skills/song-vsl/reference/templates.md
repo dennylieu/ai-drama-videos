@@ -1,5 +1,40 @@
 # Song VSL templates
 
+## Premises sheet (top of `ads/<code>/brief.md`; from the product page, facts only)
+```
+Brand / product:      
+Ingredients + doses:  
+Attributes:           <testing, format, routine (e.g. 1 a day with food), time to results the brand states,
+                       side effects and warnings the page states>
+Prices / bundles:     
+Guarantee:            <length, terms; refund rate only if the brand publishes it>
+Gain by buying now:   <bundle extras, shipping>
+Lose by waiting:      <only real deadlines / stock>
+Market -> segment:    <one market; one segment; why (winners, traffic)>
+```
+
+## 17-element brief (after the mechanism; every row gets a beat and a line)
+| Sale | Element | Ours | Beat / lyric line |
+|---|---|---|---|
+| Content | 1 Format | sung drama, <style> | |
+| | 2 Topic | | |
+| | 3 Concept (logline + angle) | | |
+| | 4 Visual hook | | S01 frame |
+| | 5 Copy hook | | line 1 |
+| Hope | 6 Identification | | |
+| | 7 Point of contact | | |
+| | 8 Problem mechanism | | |
+| | 9 Function mechanism (why what they tried can't) | | |
+| | 10 Solution mechanism | | |
+| | 11 Conditions (why not get it elsewhere) | | |
+| Value | 12 USP (meets each condition) | | |
+| | 13 Features (odds / dream / effort / time) | | |
+| | 14 Anchoring (per day vs money, love, time) | | close |
+| Impulse | 15 Risk reversal (with a reason) | | close |
+| | 16 Gain now | | close |
+| | 17 Lose by waiting (true only) | | close |
+Bets in this ad: <what's new vs proven> -> risk: conservative / moderate / aggressive
+
 ## Voice-of-customer doc (`brands/<brand>/research/voc-<topic>.md`)
 Word for word only; every line with its source (link or "review, 2 stars, <site>"). 30+ lines total.
 ```
@@ -56,9 +91,11 @@ Source:            <VOC file + the quotes this is based on>
 ## Mechanism check (fill, then show the user)
 | Check | Our answer |
 |---|---|
-| What they already believe (VOC 4) | |
-| Hidden cause nobody told them | |
-| Why everything they tried failed (VOC 3) | |
+| Point of contact: what they already believe (VOC 4) | |
+| Problem mechanism: hidden cause nobody told them | |
+| Function mechanism: the action needed + why everything they tried failed (VOC 3) | |
+| Solution mechanism: what does that action | |
+| Conditions: why they can't just get it themselves -> USP meets each | |
 | The enemy (never them) | |
 | One visual a 10-year-old gets | |
 | Ingredient -> job, dose, routine (brand-verified) | |

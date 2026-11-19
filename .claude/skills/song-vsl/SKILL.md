@@ -1,17 +1,23 @@
 ---
 name: song-vsl
-description: Long-form drama "song VSL" (3-10 min, 9:16) in the Ryze/Resilia style - a direct-response advertorial (research, fear, drama the problem causes, believable mechanism, proof, close) told as a sung hero's-journey story, the product arriving after the halfway mark through a trusted messenger, the chorus carrying the mechanism. Covers the voice-of-customer doc, fear pick, 10-beat skeleton, story beat sheet, mechanism checklist, lyrics, song generation, one Seedance scene per beat, and assembly with the song as the voice. Use when the user asks for a song ad, sung ad, music VSL, Ryze- or Resilia-style ad, long-form story VSL or advertorial, hero's-journey ad, revenge/betrayal transformation story, or a 3+ minute drama ad.
+description: Long-form drama "song VSL" (3-10 min, 9:16) in the Ryze/Resilia style - a direct-response advertorial (premises, market/segment/avatar, the 4 sales and 17-element brief, fear, drama the problem causes, three-part mechanism with conditions and USP, proof, anchored close) told as a sung hero's-journey story, the product arriving after the halfway mark through a trusted messenger, the chorus carrying the mechanism. Covers the voice-of-customer doc, fear pick, 10-beat skeleton, story beat sheet, mechanism checklist, lyrics, song generation, one Seedance scene per beat, and assembly with the song as the voice. Use when the user asks for a song ad, sung ad, music VSL, Ryze- or Resilia-style ad, long-form story VSL or advertorial, hero's-journey ad, revenge/betrayal transformation story, or a 3+ minute drama ad.
 ---
 
 # Song VSL
 
-Two layers, built in this order:
+Three layers, built in this order:
+0. **The brief** (what to say and why): Derick Carneiro, "how I write ads that make strangers buy" (X article,
+   Nov 2026): 4 sales, 17 elements, premises -> target -> brief -> writing. Full notes: `reference/four-sales.md`.
 1. **The ad underneath** (direct response): Zakaria, "Song Ads Are The New Trend. Most Of You Will Fail At Them,
    Because You Think The Song Is What Sells" (X article, Nov 2026), a breakdown of an 8:30 Resilia song ad.
    Full notes: `reference/foundation.md`.
 2. **The story on top** (the drama): Ori Silver, "Inside Ryze's $22M Song Ads" (X article, Sep 2026).
    Full notes: `reference/blueprint.md`.
 Templates for every step: `reference/templates.md`.
+
+Before the product, the ad makes four sales: **content** (watch to the end), **hope** (it can be solved, here's
+why it wasn't), **value** (this product is the place to get it), **impulse** (now is safer than later). The song
+handles retention; the drama and the 17 elements do the selling.
 
 **The song is not what sells.** It holds attention line to line (rhythm), the visuals change every second, and that
 buys the time a VSL or advertorial needs. The selling is the same as always: drama that stops the scroll, a mechanism
@@ -30,6 +36,8 @@ Miss the story, nobody finishes. A great song on a weak ad gets a great hook rat
 6. **A believable messenger before the product.** Close family for a common problem; where they'd naturally meet
    someone with it (support group, clinic waiting room, salon chair) for a rare one.
 7. **The mechanism passes the believability checklist** and is simple enough to explain back after one listen.
+   Built in three parts from what they already suspect: problem -> function (why what they tried can't) -> solution,
+   then **conditions** (why they can't just get it themselves) answered by the product, point by point.
 8. **~78 % emotion, ~22 % selling** (mechanism, product, proof, offer). Emotion makes them want it; the mechanism
    makes them believe it. Both, or nothing.
 9. **Proof in the mechanism's order, and honest** ("week one, nothing. I almost quit.").
@@ -50,12 +58,19 @@ Same production stack (Seedance 2.5 at 480p -> SeedVR2 -> `tools/assemble.py`), 
 
 ## Workflow
 
-### 1. Brief (one message)
+### 1. Brief and premises (one message)
 Product, what it visibly changes, offer and guarantee, 3 things it must never claim, the true mechanism the brand
 can back, language/accent, target length (short test 3-4 min or full 7-10 min), real product photos. Read
-`brands/<brand>/context.md` and research first.
+`brands/<brand>/context.md` and research first. Fill the **premises sheet** (`templates.md`) from the product page:
+ingredients and doses, routine, time to results, warnings, bundles, guarantee, what they gain now / lose by waiting
+(only true deadlines and stock).
 
-### 2. Voice-of-customer doc (`brands/<brand>/research/voc-<topic>.md`)
+### 2. Target and voice-of-customer doc (`brands/<brand>/research/voc-<topic>.md`)
+First **market -> segment -> avatar** (`four-sales.md`): one market (where the brand's or competitors' winners and
+traffic are), one segment (a cluster winners already target, or an unserved one from Reddit), then the avatar card.
+Reuse what's proven here; the bet goes on the story and song. Mine winning ads, advertorials and old VSLs in the
+segment for psychographics; spend your own time on behaviour: news, trends, searches and videos the avatar is into
+now (that's where topics and hooks come from).
 Where the avatar vents: Reddit, Facebook groups, competitors' 1-3 star reviews, TikTok/YouTube comments, surveys.
 Read for **words, not ideas**; copy word for word into the six buckets (`templates.md`): problem in their words,
 fears, what they tried and why they think it failed, what they believe causes it, the life they want, what stops
@@ -73,7 +88,9 @@ Optional but strong: map one winning long ad in the niche (running 30+ days) to 
 **a. 10 beats in 10 lines** (`templates.md`): hook, avatar, problem, everything tried, messenger, mechanism,
 product, proof, payoff, close. One or two lines each. If it doesn't work in 10 lines, it won't work in 10 minutes.
 
-**b. Mechanism** (`foundation.md` checklist): start from what they already believe ("it's stress", "it's my age"),
+**b. Mechanism** (`foundation.md` checklist + `four-sales.md` three parts): point of contact -> problem mechanism
+-> function mechanism -> solution mechanism -> conditions -> USP, each the version the avatar is most ready to
+accept. Start from what they already believe ("it's stress", "it's my age"),
 name the hidden cause, explain why everything they tried failed, name an enemy that is never them, one visual
 metaphor, one ingredient one job with real doses and routine, proof in the same order, explained by a believable
 person. Write it out in plain words and say "read this to someone who doesn't know the product; can they explain it
@@ -89,17 +106,21 @@ concrete event per beat. Checks:
 - Proof: 3-4 small results week by week, in the mechanism's order, noticed by others, one honest setback.
 - Payoff is the longest part, closes the opening loop, flips the opening insults, same place and people.
 - Selling (mechanism + product + proof + offer) is ~20-25 % of the runtime; time the beats to check.
-Show skeleton + mechanism + beat sheet + cast. **Wait for approval.**
+- Fill the **17-element brief** (`templates.md`); every element has a beat and a line. Features only if they raise
+  the odds, make the dream tangible, cut effort or explain the timeline. Mark the ad's bets (what's new vs proven).
+Show skeleton + mechanism + 17-element brief + beat sheet + cast. **Wait for approval.**
 
 ### 5. Script, then lyrics (`ads/<code>/script.md`)
-Write the full script as prose first (it would work as a native ad). Then adapt, don't cut, into lyrics:
+Write the full script as prose first (it would work as a native ad): the brief decides what gets said; a proven
+reference (a teardown split into mini-blocks) decides order and rhythm. Then adapt, don't cut, into lyrics:
 - Verses tell the story; **the chorus carries the mechanism** (why nothing worked, what finally did). It repeats,
   so by the third time they're singing it back. A chorus about how sad she was is wasted.
 - Keep the details; they make it real. Verses should sound like a real person talking.
 - Line 1 is the hook, sung plainly, no intro longer than 2 s. Insults are quoted from other characters.
 - Close (last ~60 s, spoken or half-sung to camera): call out the viewer with 2-3 details from the research
-  ("so if you're the one who..."), not your fault, the mechanism in one line, the offer, the guarantee as the answer
-  to the top objection.
+  ("so if you're the one who..."), not your fault, the mechanism in one line, anchoring (price per day vs what the
+  problem costs in money, love and time), the offer, the guarantee with a reason (time to results vs guarantee
+  length) as the answer to the top objection, what they gain now and lose by waiting.
 - Claims: what another person could see, plus the brand-approved mechanism; no disease words, no "cured", no
   numbers the brand can't back. Check `context.md`.
 - Pick the style for the avatar (age, culture, region, the emotion of each part), not for taste.
@@ -149,6 +170,8 @@ The same script also works as a native ad or a UGC talking-head ad; offer those 
 - The messenger gets credibility from visible life and experience. Never present an AI character as a real, named
   doctor or professional, and don't put medical claims in a white coat; check the ad platform's rules on health
   claims and AI people.
+- No borrowed IP looks or characters (games, films), no sexualised presenters, no hooks about mixing products with
+  medication, no scarcity or stats the brand can't prove (see the end of `four-sales.md`).
 - Copy structure only: never Ryze's or Resilia's lyrics, songs, melodies, characters, mechanism or brand.
 - Infidelity and humiliation are fine; keep it non-sexual, no nudity, no real people.
 - Wins, losses and which fear/mechanism worked go to `brands/<brand>/learnings.md` (creative-strategy weekly loop).
