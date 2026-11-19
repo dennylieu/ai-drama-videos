@@ -13,6 +13,31 @@ Lose by waiting:      <only real deadlines / stock>
 Market -> segment:    <one market; one segment; why (winners, traffic)>
 ```
 
+## Avatar card (step 2, in `ads/<code>/brief.md`)
+```
+Market:            <one shared desire>            Why: <winners / landers / traffic growth>
+Segment:           <desire + condition/identity/behaviour>   Why: <winners target it / unserved on Reddit>
+-- Psychographics --
+Primary desire:    
+Problem:           
+Secondary desires: <what they imagine comes after>
+Pain points:       <how it shows up in daily life: situations, symptoms, consequences>
+Dreams:            <life without the problem>
+Fears:             <if it's never solved>
+-- Identity --
+Demographics:      sex / age range / nationality / language / ethnicity / religion / marital status / family role
+Behaviour:         competitor ads that grab them / videos they watch / trends / hobbies / news / shows /
+                   other health conditions
+Perspective:       beliefs / biases / enemies / allies / language (their words)
+```
+
+## Anchoring maths (step 7)
+```
+Best bundle: $<price> / <units> = $<per unit>; <servings per unit> servings -> $<per day> a day
+Cost of the problem: money <what they keep buying> / emotion <partner, shame> / time <worse every year>
+Guarantee <N> days vs results in <M> weeks (brand's words) -> "<N/(M*7)>x the time your body needs"
+```
+
 ## 17-element brief (after the mechanism; every row gets a beat and a line)
 | Sale | Element | Ours | Beat / lyric line |
 |---|---|---|---|
