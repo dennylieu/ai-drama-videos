@@ -14,3 +14,5 @@ captions.** Generation and upscaling run on whichever API provider has credits; 
 - One folder per ad: `ads/<CODE>-<slug>/` with `brief.md`, `script.md`, `prompts/`, `log.md`, `edit.json`,
   `plates.json`. Media (`clips/`, `stills/`, `final/`) is gitignored.
 - Python deps for transcripts/captions: `pip install -r tools/requirements.txt`.
+- Meta media buying (campaign structure, testing/cut rules, live IDs): `brands/<brand>/media-buying.md`.
+- Never declare the AI-content label on Meta creatives: leave the setting blank (and never declare "no AI" either).
