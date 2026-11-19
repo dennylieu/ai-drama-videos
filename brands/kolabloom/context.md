@@ -18,7 +18,8 @@ kolabloom.com/leg-adv (not reachable from this environment). **MISSING** = ask t
   week 8 shin colour; week 12 doctor's follow-up.
 - **Offer:** buy 2, get the 3rd free ("one for your sister too") + extra gifts. **Price: MISSING.**
 - **Research brief (2026-11-19):** `research/mechanism-notes-2026-11-19.md`: Sri Lankan, 60 caps = 30 days, 30-day guarantee in the master research; leg trials used 60-180 mg fractions (don't claim the studied dose).
-- **Guarantee: CONFLICTING:** the cruise native says "30-day money-back guarantee ... use it every day for six
+- **Decided 2026-11-19 (user): 60-day money-back guarantee; buy 2 get 1 free ends 30 November 2026.** (Older copy below.)
+- **Guarantee (older copy): CONFLICTING:** the cruise native says "30-day money-back guarantee ... use it every day for six
   months ... empty bottles or not"; the crocs native says 180-day. **Confirm which is real.**
 - **Who buys it:** women ~55-75 (winner's narrator 64; crocs native's sister 63), years of "managed" swelling
   (water pills, compression, salt, feet up), often a family history (a mother or sister whose legs got worse).

@@ -27,13 +27,14 @@ mechanism-notes-2026-11-19.md + the research PDF); structure reference `refs/ref
 5. **Price**
    - **MISSING** (per bottle and per bundle).
 6. **Guarantee**
-   - 30 days, empty bottles or not (brand master research). The crocs native says 180 days: **confirm**.
+   - **60 days, money back** (user decision 2026-11-19). Note: the live cruise native says 30 days and the research
+     file says 30; the landing page must say 60 before this ad runs.
 7. **What do they gain by buying now?**
    - Buy 2, the 3rd bottle is free ("one for your sister too") + extra gifts.
 8. **What do they lose by putting it off?**
-   - No real deadline or stock limit is known, so no fake scarcity.
-   - The winner's own true urgency: if you have a doctor's appointment in the next 30-60 days, start now so you walk
-     in with something to show.
+   - **The buy 2, get 1 free offer ends this month (30 November 2026)** (user decision). After that, the third bottle
+     isn't free.
+   - Plus the winner's own urgency: if you have a doctor's appointment in the next 30-60 days, start now.
 
 ---
 
@@ -85,7 +86,7 @@ At this point, I know I'm making an ad for:
   three years for a Caribbean cruise.
 
 And I know from the premises: Kolabloom, 1,000 mg pure gotu kola, two capsules every morning; buy 2 get the 3rd free;
-30-day guarantee (confirm); price MISSING.
+60-day money-back guarantee; buy 2 get 1 free ends 30 November; price MISSING.
 
 ### Mechanism
 
@@ -234,12 +235,12 @@ It would go like this:
 ### Close
 
 **1) Risk reversal: why is not buying riskier than buying?**
-- The guarantee (30 days, empty bottles or not) against a timeline she can believe (legs changed around week four
-  in the trials).
+- 60 days against a timeline she can believe: the leg trials saw changes around weeks 4-8, so 60 days covers the
+  whole window twice over the first signs.
 
 It would go like this:
-- "You've got thirty days. Empty bottles or not."
-- "That's enough to feel the heaviness lift and see your shoes go back on."
+- "You've got sixty days. If your legs don't feel lighter, you get your money back."
+- "That's two whole months: long enough to feel the heaviness lift and see your shoes go back on."
 - "The only risk is another year of 'managed'."
 
 **2) What does she have to gain? Why buy now?**
@@ -249,11 +250,12 @@ It would go like this:
 - "Take two, and the third one's free. I sent mine to my sister."
 
 **3) What does she have to lose? Why is waiting worse?**
-- No fake stock or deadline. The winner's own true urgency: the next doctor's visit.
+- A real deadline: the free third bottle ends 30 November. Plus the winner's urgency: the next doctor's visit.
 
 It would go like this:
-- "If you've got a check-up in the next month or two, start now."
-- "Walk in with something to show her besides another refill."
+- "The free bottle's only good till the end of this month."
+- "After that, your sister's bottle costs full price."
+- "And if you've got a check-up coming, start now: walk in with something to show her besides another refill."
 
 Brief done: all 17 elements filled with what she wants to hear, how she wants to hear it, and from whom.
 **Bets in this ad:** proven = market, segment, cruise concept, mechanism, offer (all from the brand's own ads and
@@ -301,5 +303,5 @@ fixed the wall."*
 
 ## Needed before lyrics
 1. **Price** per bottle and bundle (anchoring line).
-2. Confirm the **30-day** guarantee (vs 180 in the crocs native).
+2. Landing page updated to the **60-day** guarantee and the **30 November** end date before launch.
 3. OK on the Swiss passenger instead of a ship doctor, and the softened mother's story.
