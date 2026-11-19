@@ -1,155 +1,160 @@
-# KB1 Kolabloom song VSL - written brief (4 sales / 17 elements)
+# KB1 Kolabloom "Seal the Hull" song VSL - written brief (4 sales / 17 elements)
 
-Status: **Step 9 draft - waiting for the user's product facts and approval.** Nothing generated, nothing spent.
-Method: Carneiro's premises -> target -> brief -> writing (`.claude/skills/song-vsl/reference/four-sales.md`), with
-the Resilia mechanism rules and the Ryze story. Structure reference: Lymphoria "Always on nights"
-(`refs/ref1/analysis.md`).
-Decided by the user: 3D animated style (Pixar-like, as the reference), women 50-75, the song has to be good.
-Length: 3-4 min test cut first (fits current credits), extend to ~8 min if it works.
-
-**Important:** no Kolabloom product page was available (site unreachable, no search results). Every product fact
-below marked **[ASSUMED]** is a placeholder for a collagen supplement and must be replaced with the real page before
-any lyrics are final. **MISSING** = we need it from the user.
+Status: **Step 9 draft - waiting for approval + price + guarantee.** Nothing generated, nothing spent.
+Method: Carneiro premises -> target -> brief -> writing (`.claude/skills/song-vsl/reference/four-sales.md`), the
+Resilia mechanism rules, the Ryze story, Lymphoria's timing (`refs/ref1/analysis.md`).
+User decisions: 3D animated (Pixar-like), women 50-75, the song has to be good. Test cut ~3:50 first.
+**Writing reference = the brand's winning cruise native** (`brands/kolabloom/research/winner-cruise-native.txt`).
+Carneiro's rule: keep the proven parts (market, segment, concept, mechanism), bet only on the format (song + 3D).
 
 ---
 
-## Step 1. Premises
+## Step 1. Premises (from the brand's own ads; see `brands/kolabloom/context.md`)
 | # | Item | Value |
 |---|---|---|
 | 1 | Brand | Kolabloom |
-| 2 | Product | [ASSUMED] daily collagen supplement (format MISSING: powder / drink / capsule) |
-| 3 | Ingredients + doses | [ASSUMED] hydrolysed collagen peptides (small peptides), vitamin C; doses MISSING |
-| 4 | Attributes | MISSING: testing, where made, servings, routine (assumed one serving a day), time to results the brand states (assumed 8-12 weeks), taste |
-| 5 | Price / bundles | MISSING |
-| 6 | Guarantee | MISSING (length + terms) |
-| 7 | Gain by buying now | MISSING (bundle extras, shipping) |
-| 8 | Lose by waiting | MISSING (only if a real deadline/stock exists) |
+| 2 | Product | Pure gotu kola (Centella asiatica) capsules |
+| 3 | Ingredients + dose | 1,000 mg gotu kola per two-capsule serving; one ingredient; concentrated freeze-dried extract |
+| 4 | Attributes | Third-party tested, made in the USA, no fillers; two capsules every morning; first changes ~week 2, full picture by week 8-12 (the winner's timeline) |
+| 5 | Price / bundles | Buy 2, get the 3rd free + extra gifts. **Price MISSING** |
+| 6 | Guarantee | **Conflict: 30-day ("empty bottles or not") vs 180-day. Confirm.** |
+| 7 | Gain now | 3rd bottle free ("one for your sister"), extra gifts |
+| 8 | Lose by waiting | The winner's own, true urgency: "if you have a doctor's appointment in the next 30-60 days, start now" (no fake stock) |
 
 ## Step 2. Target
-**Q1. Market:** skin ageing / "looking older than I feel" in women 50-75 (the collagen market's biggest buyer).
-Alternatives the product could serve: hair thinning, nails, joints. Pick ONE: skin, because it shows on camera and
-in photos, and it's where the emotional drama lives. (To confirm: what Kolabloom's own top ads target.)
-
-**Q2. Segment (recommended):** *women 55-70 whose skin "fell" after menopause*: the mother of the bride, the
-grandmother in the photos. Identity: mother and grandmother, family photographer's least favourite subject, the one
-who offers to take the picture so she isn't in it. (Alternatives if winners point elsewhere: widows/divorcees
-dating again; retired career women; outdoor women whose sun years show.)
-
-**Q3. Avatar:** Carol, 62, American, Southern/Midwest, Christian, divorced three years (husband left for a younger
-woman), two grown daughters, first grandbaby on the way, retired school secretary.
-- Primary desire: to look in the mirror and see herself, not her mother; to be in the photos.
-- Problem: skin went thin, crepey and saggy fast after menopause (neck, jawline, under-eyes, arms, hands).
-- Secondary desires: be photographed with the grandkids; feel attractive again; not be the "old" one next to the
-  ex's new wife.
-- Pain points: the front-camera surprise on a FaceTime; turtlenecks in July; standing at the back of photos;
-  "you look tired"; creams that do nothing; drawer full of serums.
-- Dreams: front-row in the family photo; someone asking "what are you doing different?"
-- Fears: being replaced (the ex's new wife), being edited out of her family, becoming "the old lady" before her
-  time. Primal fears: **rejection by family + losing her place to a younger woman** (both on the 45-59 / 60+ list).
-- Perspective: believes "it's my age / menopause / genetics", distrusts "miracle" creams, trusts women older than
-  her who look great, trusts church friends over brands. Language: "crepey", "turkey neck", "my mother's hands",
-  "I don't recognise myself", "I've wasted so much money on creams". (Verbatim VOC still to collect, step 3.)
+- **Market:** swollen, heavy legs and ankles (leg circulation). The brand's ads all run this market.
+- **Segment (copied from the winner):** women 60-70 whose swelling has been **"managed" for years** (water pills,
+  compression, salt, feet up), who watched a mother or sister's legs get worse. Identity: retired or nearly,
+  married a long time, saved for years for the "trip you plan in your forties for your sixties".
+- **Avatar:** Caroline, 64, married 40 years to Dale, two grown kids, a sister she calls every Sunday.
+  - Primary desire: legs she can trust; to walk anywhere without planning around them.
+  - Problem: ankles that disappear by supper, sock rings that won't fade, legs heavy before lunch.
+  - Secondary desires: the trips, the grandkids, standing through church, shoes that go on.
+  - Pain points: sitting on the motorized cart at the grocery store; the stove; the shoe strap; telling Dale
+    "it's just my feet".
+  - Dreams: the cruise they saved for, at the top of the hill with him, not behind him.
+  - Fears: **ending up like her mother** (her legs gave out at 71); **becoming a burden** on Dale and the kids;
+    the trips stopping. Primal fears: health scare + becoming a burden (60+ list) + losing her place in the
+    family's plans.
+  - Perspective: believes "it's my age / being on my feet / I hold water"; trusts her doctor but is tired of
+    "we'll keep an eye on it"; distrusts long-label supplements; respects anything from Europe. Enemy: the
+    "managed" routine. Allies: her sister, women who've been through it.
+  - Language: "managed", "keep an eye on it", "ankles disappear by supper", "legs like sand", "sock rings".
 
 ## Step 3. Brief: the 17 elements
 
 ### Content sale
 | # | Element | Ours |
 |---|---|---|
-| 1 | Format | 3D animated family drama, sung as a talk-sung country/Southern-soul story song (see Song). Guard down: it's a story, not an ad. |
-| 2 | Topic | Being left out of your own daughter's wedding photos for the ex-husband's younger new wife. Everyone 50+ knows the "photos last forever" fear. |
-| 3 | Concept (logline) | A 62-year-old mother of the bride is asked by her own daughter to let the ex's new wife stand in the family photo because "the photos last forever"; three months later she walks into the wedding and takes her place back. |
-| | Angle | "My own daughter asked me to step out of her wedding photos." |
-| 4 | Visual hook | Wedding day, cold open: the photographer's screen shows the family lined up, and a 3D-animated hand drags Carol's face out of the frame (a crop box). Then the real Carol, glowing, steps back into the front row and the young wife's smile drops. |
-| 5 | Copy hook | "My daughter asked me to stay out of her wedding photos. Three months later, the photographer asked who I was." (cold open) / alt: "My own daughter picked her daddy's new wife to stand next to her in the pictures." |
+| 1 | Format | 3D animated family story, sung as a warm Southern country-soul ballad by a woman in her 60s. Feels like a movie, not an ad. |
+| 2 | Topic | The trip of a lifetime ruined by "managed" legs; the Caribbean cruise she saved three years for. (The brand's proven topic.) |
+| 3 | Concept (logline) | A 64-year-old's legs give out on a hill in St. Thomas on the cruise she saved three years for; a 74-year-old Swiss woman who dances every night tells her what eleven years of "managed" never did; a year later she's back on the same hill, thirty feet ahead of her husband. |
+| | Angle | "My legs were 'managed' for eleven years. On day four of our dream cruise, they carried me down a hill." |
+| 4 | Visual hook | Cold open, bright Caribbean colour: a woman reaches the top of a cobblestone hill first, turns, laughs at her out-of-breath husband thirty feet behind. Match-cut to the same hill a year earlier: she's sitting on the wall, ankles ballooned over her shoes, tourists stepping over her feet. |
+| 5 | Copy hook | "Last year they carried me down this hill. This year I beat my husband to the top." (cold open) / "Let me tell you how I got here." |
 
-**The problem causes the drama (rule check):** yes. Her ageing skin is the reason the daughter asks her to step
-aside ("you know how you photograph, Mama"). Remove the problem and the drama disappears.
+**The problem causes the drama (rule check):** yes. Her legs fail on the hill and end the trip; remove the swelling
+and nothing happens. **Closest person:** Dale's face when he turns around, the daughter who says "maybe no more
+trips, Mom", and the shadow of her own mother.
 
-**Motif line (Lymphoria move):** *"Photos last forever, Mama."*: said by the daughter at the hook; thrown back by
-Carol at the payoff ("You're right, baby. Photos last forever."); last line of the close.
+**Motif line:** *"It's managed."*: the doctor's word at the start ("We've got it managed"), her own lie to Dale on
+the hill ("I'm fine, it's managed"), the Swiss woman's question ("Who told you that was managed?"), and the payoff
+flip (Dale: "You okay?" Caroline, from the top of the hill: "Better than managed.").
 
 ### Hope sale
 | # | Element | Ours |
 |---|---|---|
-| 6 | Identification | Turtleneck in July; offering to take the picture so she isn't in it; FaceTime front camera; "my mother's neck"; a drawer full of creams. (Replace with verbatim VOC.) |
-| 7 | Point of contact | "It's my age. It's the change. Menopause took it." She's right, and we build on it. |
-| 8 | Problem mechanism | When estrogen drops, the skin's collagen-making slows sharply. Studies report women can lose around 30 % of skin collagen in the first five years after menopause [claim to verify + brand-approve]. Collagen is the frame under the skin; with less of it, the skin over it falls. Enemy: the quiet collagen loss after the change, **not her**. |
-| 9 | Function mechanism | The skin has to be told to make collagen again, from inside. Creams can't: collagen is too big to get through the skin, so creams sit on top and smooth for an hour (VOC bucket 3: every cream she tried). Regular collagen/bone broth gets broken down in the stomach like any other protein [ASSUMED positioning; verify]. |
-| 10 | Solution mechanism | Small collagen peptides that arrive as signals, telling the skin cells to start making collagen again [ASSUMED ingredient claim; replace with Kolabloom's real ingredient and study]. One ingredient, one job. |
-| 11 | Conditions | To work it needs: (1) the right size of peptide (small enough to absorb), (2) enough of it every day (a real dose), (3) vitamin C, which the skin needs to build collagen, (4) months of daily use, because the frame took years to thin. Bone broth, gummies and cheap powders miss one or more [verify each against real competitors]. |
+| 6 | Identification | Ankles gone by supper; sock rings that won't fade by bedtime; legs like sand by lunch; the grocery-store cart; "it's just my feet"; the shoe strap that won't close. |
+| 7 | Point of contact | "I'm holding water." "It's my age." "It's being on my feet." Her doctor agrees and calls it managed. We build on it: yes, it's fluid. |
+| 8 | Problem mechanism | The fluid is only what you can see. Underneath, years of wear weaken the tiny vessel walls (and the collagen that holds them), so they let fluid seep into the tissue, and the calf pump can't push it all back up. Enemy: the leak underneath, **not her**, and not her age. |
+| 9 | Function mechanism | You have to support the vessel wall, not just drain the water. Water pills bail it out through the kidneys for a few hours; compression squeezes from outside only while it's on; salt and feet-up help a little; none of them touch the wall. "Eleven years managed" = eleven years of bailing. |
+| 10 | Solution mechanism | Gotu kola, a 2,000-year-old herb, which the brand says supports the vessel walls and helps the body build fresh collagen in them: **strengthen the wall, support the circulation, so the legs feel light**. (Brand's "seal, strengthen, restore" wording to be confirmed by the brand.) |
+| 11 | Conditions | (1) A real, disclosed dose (the research used a measured daily amount); (2) one botanical, not sprinkled into a twelve-herb blend that hides the dose; (3) a concentrated form that keeps its potency; (4) every morning, for weeks: the wall took years. The pharmacy "vein support" bottle fails 1 and 2. |
 
-**Mechanism in 3 plain sentences:** "After the change, your skin stops making the collagen that holds it up, so it
-falls. Creams can't fix that from the outside; your skin has to be told to make it again from the inside. Kolabloom
-gives it the small peptides that send that signal, every day."
-**The picture (a 10-year-old gets it):** an old **quilt losing its stitches**: the fabric (skin) is fine, the
-stitching underneath (collagen) is coming out, so it sags. Creams are an iron: flat for an hour, then it puckers
-again. Kolabloom puts the stitches back, one row at a time. (Fits a 60-year-old's world; 3D animation of stitches
-re-forming under skin.)
-**Messenger:** Aunt Ruth, 74, her late mother's best friend from the church choir: still sings solos, bare arms
-in a sleeveless dress, skin "like a woman of fifty". Same world (common problem: close is fine), the finished
-version of Carol, credible through her life. Never a doctor.
+**The picture (one image a 10-year-old gets):** **a leaking boat.** "You can bail the water out of a boat all
+night. If the hull still leaks, the boat keeps filling." On a cruise ship, about a blood *vessel*: the 3D
+animation shows a little wooden boat taking on water through hairline cracks, a bucket bailing it (water pills), a
+rope squeezing it (compression), and then the cracks sealing as the hull strengthens. This is the brand's own
+line, and it becomes the chorus.
+
+**Mechanism in 3 plain sentences:** "The swelling isn't the problem; it's the water coming in through tiny walls
+that got weak over the years. Water pills just bail it out and the leak keeps filling it back up. Kolabloom gives
+your vessel walls a real dose of the one herb that helps make them strong again."
+
+**Messenger (changed from the winner, on purpose):** the native uses a Swiss *ship doctor*. Our rule: never present
+an AI character as a doctor making medical claims. So: **Margrit, 74, Swiss, a fellow passenger**, widow, the
+woman who has danced every night of the cruise in heels and walked up that hill ahead of Caroline that morning.
+Her own legs were "managed" in her sixties; a doctor friend in Zurich put her on gotu kola. Same proven Swiss vs
+"managed" contrast, credible through her life, the finished version of Caroline.
 
 ### Value sale
 | # | Element | Ours |
 |---|---|---|
-| 12 | USP | Kolabloom meets each condition, point by point from the product page: peptide size, dose, vitamin C, one easy daily serving [all MISSING/ASSUMED until the page is in]. |
-| 13 | Features (4 levers) | Odds: [ASSUMED] targets skin plus hair and nails (more ways to see it work). Dream: front row in the photo, bare arms at the wedding. Effort: one serving a day [ASSUMED format], no new routine, nothing to stop. Time: "it took years to unravel; give it a few months": honest weeks (see Proof). |
-| 14 | Anchoring | Price per day MISSING (formula in templates). Against: the drawer of $60 creams that sat on top; the lifts and fillers she's priced and is scared of; the photos you can't retake. |
+| 12 | USP | Kolabloom meets every condition: 1,000 mg gotu kola, disclosed on the label; one ingredient, nothing hidden; concentrated freeze-dried extract; third-party tested; made in the USA; two capsules every morning. |
+| 13 | Features (4 levers) | **Odds:** works on the wall itself, not just the water (a different road from everything she tried). **Dream:** the hill, the trips, the grandkids, church without sitting down. **Effort:** two capsules every morning; no bathroom runs like a water pill; nothing new to cook or cut. **Time:** "it isn't a water pill, week one you feel nothing", then week 2 the heaviness eases, week 4 the shoes, week 8 standing through church (the winner's order). |
+| 14 | Anchoring | Price per day MISSING (formula ready). Against: eleven years of stockings and refills; the vein procedure being scheduled; the trips you stop taking; "Mama lost her legs at 71. We have seven years if we do nothing different." |
 
 ### Impulse sale
 | # | Element | Ours |
 |---|---|---|
-| 15 | Risk reversal | Guarantee MISSING. Line pattern: "You've got [N] days. Results show in about [M] weeks. That's [N/M]x the time your skin needs. The only risk is another year of turtlenecks." |
-| 16 | Gain now | MISSING (bundle extras, shipping) |
-| 17 | Lose by waiting | MISSING; only if real. |
+| 15 | Risk reversal | Once the guarantee is confirmed: "[N] days, empty bottles or not. You'll know by week four. The only risk is another year of 'managed'." |
+| 16 | Gain now | Buy 2, the 3rd is free: "one for your sister" (she mails it to her sister in the story) + gifts. |
+| 17 | Lose by waiting | "If you've got a doctor's appointment in the next 30 or 60 days, start now, so you walk in with something to show." (true, from the winner) |
 
-**Bets in this ad:** proven = collagen market, menopause point of contact, Lymphoria structure. New = the
-wedding-photo concept, the quilt metaphor, the 3D story-song format for 50-75. Risk: **moderate**.
+**Bets in this ad:** proven = market, segment, cruise concept, Swiss contrast, mechanism, offer (all from the
+brand's own winner). New = song + 3D format, cold open, the boat chorus, the messenger as a passenger. Risk:
+**conservative-to-moderate**.
 
 ---
 
-## Step 4. Story beat sheet (test cut, ~3:50)
-| Time | Block | Event | Lyric idea |
+## Step 4. Story beat sheet (test cut ~3:50)
+| Time | Block | Event | Song |
 |---|---|---|---|
-| 0:00-0:08 | Cold open | Wedding day. Photographer's screen, the crop box over Carol. Cut: Carol steps into the front row, glowing; the new wife's smile drops. | "My daughter asked me to stay out of her wedding photos. Three months later the photographer asked who I was. Let me tell you how I got there." |
-| 0:08-0:18 | Setup (problem shows) | Dress fitting at the bridal shop; Carol in a sleeveless sample, pulls a cardigan over her arms; catches her neck in the three-way mirror. | Symptom stack in her words |
-| 0:18-0:40 | The drama, caused by the problem | Kitchen. Her daughter Ashley, gently: Daddy's new wife Brittany (44) will stand with them in the family pictures. "You know how you photograph, Mama. Photos last forever." | The motif line, said by the daughter |
-| 0:40-0:55 | Worse | She overhears Ashley on the phone with Brittany: "Mama's let herself go since Daddy left." And her ex in the background: "She always did." | Closest people, stacked |
-| 0:55-1:02 | Freeze | Carol smiles, says "Whatever makes you happy, baby," and offers to hold the bouquet. | |
-| 1:02-1:15 | Dismisser + tried | The cream drawer: retinol, "crepe corrector", the $90 jar. The dermatologist's assistant: "That's just sixty, hon." | "Every jar promised me / every jar sat on top" |
-| 1:15-1:25 | Rock bottom | Sunday morning, choir robe, bathroom mirror at church; she pulls her collar up. "I look like my mother at her funeral." | |
-| 1:25-1:35 | Messenger | Aunt Ruth, 74, sleeveless, finds her: "Who told you you were done?" | |
-| 1:35-2:05 | Mechanism | Ruth: not your fault, it's the change; collagen is the stitching; the quilt animation; creams are an iron | **Chorus / motif of the mechanism** |
-| 2:05-2:25 | Product + conditions | Ruth's daily routine; the four conditions; Kolabloom | "Small enough to get in / every single day" |
-| 2:25-2:30 | Clock + doubt | "When's the wedding?" "Twelve weeks." Carol: "Ruth, I've bought every jar in Alabama." Ruth: "This isn't a jar." | |
-| 2:30-2:55 | Proof, honest | Weeks 1-3 nothing ("I almost quit"); week 4 nails, hair; week 6 the FaceTime camera doesn't scare her; week 8 the choir director asks if she's been on vacation; week 12 bare arms in the dress | Each noticed by someone |
-| 2:55-3:30 | Payoff | Wedding. Photographer: "Mother of the bride?" Brittany steps forward; the photographer looks past her to Carol. Ashley, quietly: "Mama, you look..." Carol: "You're right, baby. Photos last forever." Ex can't stop looking. Front row. | Motif flipped |
-| 3:30-3:38 | Convert | At the reception, Brittany: "What are you using?" Carol smiles and walks to the dance floor. Ashley asks later; Carol hands her a pouch: "Start now." | |
-| 3:38-3:55 | Close | "If you're over fifty and you offer to take the picture so you won't be in it… it was never your fault. It was never just your age. It's the stitching." Product, routine, offer, guarantee, CTA. "Photos last forever." | Spoken-sung to camera |
+| 0:00-0:08 | Cold open | A year later: Caroline reaches the top of the cobblestone hill in Charlotte Amalie first, turns, Dale puffing 30 ft behind. Match-cut: same hill last year, Caroline slumped on the wall. | "Last year they carried me down this hill... let me tell you how I got here." |
+| 0:08-0:20 | Setup, problem shows | Home: three years of saving (the cruise jar on the fridge); at the stove, ankles gone by supper; the doctor: "We've got it managed." | Symptom stack: "Ankles gone by supper, rings that never fade..." |
+| 0:20-0:45 | The drama, caused by the problem | Day four, St. Thomas, the hill at sunset. Dale ahead taking photos. Her legs fill "like sand". She sits on the wall; her voice won't come; tourists step over her feet. | Verse 1 |
+| 0:45-0:58 | Worse | She looks at her ankles and sees her mother's legs (flashback, soft: her mother in a wheelchair at 71). Dale turns around and drops his phone on the cobblestones. His face. | "I'd seen that face once before..." |
+| 0:58-1:08 | Freeze | Carried down on a cart; "I'm fine, it's managed" (she isn't). Next day she watches St. Lucia go by from the railing. Daughter on the phone: "Mom, maybe this should be your last trip." | Pre-chorus |
+| 1:08-1:20 | Tried + dismisser | Montage: water pills, stockings, no salt, feet up, the 12-herb pharmacy bottle; eleven years of "we'll keep an eye on it". | Verse 2, fast list, "eleven years of managed" |
+| 1:20-1:30 | Messenger | Night, pool deck. Margrit, 74, comes off the dance floor, sits beside her, looks at the ankles: "Who told you that was managed?" | |
+| 1:30-2:00 | Mechanism | Margrit: not your age, not your fault; the vessel walls leak; water pills bail; the 3D boat animation. | **Chorus (the boat)** |
+| 2:00-2:20 | Product + conditions | Margrit's story (a doctor friend in Zurich); gotu kola; a real dose, one herb, nothing hidden; Kolabloom, two capsules every morning. | Bridge |
+| 2:20-2:28 | Doubt | "I've bought every vein pill at Walgreens." "Did any of them tell you the dose?" | |
+| 2:28-2:55 | Proof, honest | Week 1 nothing ("it isn't a water pill"); week 2 the stove; week 4 the shoe strap closes; week 5 she sees her ankle bone after dinner, Dale notices; week 8 stands through the whole church service; week 12 her doctor: "Caroline, what did you change?" | Verse 3 |
+| 2:55-3:25 | Payoff | One year later, same ship, same hill. Caroline 30 ft ahead; Dale: "Slow down!" She turns, laughs. Dale: "You okay?" "Better than managed." St. Lucia this time, feet in the water. | Final chorus, motif flipped |
+| 3:25-3:33 | Convert | Back home she mails the free third bottle to her sister: "Don't 'manage' it. Start." | |
+| 3:33-3:55 | Close | To camera, on the deck: "If your ankles disappear by supper and the sock rings won't fade... it was never your age. It was the leak. Water pills bail. Kolabloom works on the wall. Two capsules, every morning. Buy two, the third's for your sister. [Guarantee]. If you've got a doctor's visit coming, start now." Disclaimer card. "Don't just manage it." | Spoken over the outro |
 
-Selling time ≈ mechanism 30 s + product 20 s + proof 25 s + close 17 s = ~1:30 of 3:55 (~38 %, ~31 % without proof),
-matching the Lymphoria split. Product first on screen at ~2:05 (53 %).
+Selling time ≈ mechanism 30 s + product 20 s + doubt 8 s + close 22 s = 80 s ≈ 34 % (≈ 46 % with the proof weeks),
+in line with Lymphoria (31 % / 41 %). Product first named at ~2:00 (52 %).
 
-## Song direction ("it has to be good")
-- **Style for 50-75 US women:** warm story-country / Southern soul ballad, mid-tempo (~88-96 bpm), acoustic guitar,
-  piano, light strings; a lived-in female alto, 55-65 years old, Southern lilt. Verses **talk-sung** (sound like a
-  woman telling you over coffee), the motif and mechanism lines **sung** with a melody that sticks.
-- **Clarity over vibe:** every word understood on first listen; sparse mix under the verses; no choir washing the
-  words.
-- **Hook melody:** "Photos last forever" is the sung tag at the end of verse 1, the bridge (mechanism) and the
-  payoff, each time meaning something new.
-- **Generation plan:** ElevenLabs Music v2.5 via Higgsfield (custom lyrics up to 120 s per section): 2-3 sections
-  for the test cut, 3 versions each, same style prompt; judged only on clarity and "sounds like a real woman talking";
-  joined on bar lines; checked by transcript. The user approves by ear before any video is made.
+## Song direction
+- **"Seal the Hull"** (working title). Warm Southern country-soul ballad, ~88-94 bpm, acoustic guitar, piano,
+  pedal steel, light strings; a lived-in female alto, 60s, Southern. Verses talk-sung, chorus sung big and simple.
+- **Chorus carries the mechanism** (draft, to tune once approved):
+  *"You can bail a boat all night long / if the hull's still leakin', it keeps fillin' on /
+  eleven years they bailed me out / nobody ever fixed the wall."*
+  After the gift the last line changes: *"...till I fixed the wall."* Final chorus over the payoff.
+- **Motif:** "managed" (doctor -> her lie -> Margrit's question -> "better than managed").
+- **Clarity first:** every word understood first listen; sparse under the verses; product name and "two capsules
+  every morning" spoken clearly in the close.
+- **Generation:** ElevenLabs Music v2.5 via Higgsfield (custom lyrics, ≤120 s per section): 2-3 sections, 3
+  versions each, same style prompt, judged on clarity and "sounds like a real woman telling you"; joined on bar
+  lines; transcript-checked. User approves by ear before any video.
 
-## Compliance notes (read before lyrics)
-- Collagen claims stay cosmetic and visible: skin looks firmer, smoother, plumper; hair and nails. No "reverses
-  ageing", "cures", "rebuilds", disease words, or before/after promises.
-- The 30 % statistic and every mechanism link must be checked against sources and approved by the brand.
-- Aunt Ruth is a choir friend, not a doctor. Daughter/ex conflict is emotional, non-sexual, no violence.
+## Compliance (read before lyrics)
+- The winner uses diagnosis names ("chronic venous insufficiency"), amputation, a fake Swiss doctor, an
+  "American doctors are decades behind" attack and exam numbers. The song keeps the story and the fear but:
+  no diagnosis on screen, no doctor character making claims (Margrit is a passenger), mother's story softened to
+  "her legs gave out, she never walked the same", no exam numbers, no "seal" as a medical fact unless the brand
+  confirms the claim. The doctor at week 12 only asks "what did you change?".
+- Keep the brand's disclaimer in the close (heart, kidneys, a clot belong with your doctor; never stop a prescribed
+  medication).
+- Claims stay at what people can see and feel: lighter legs, ankles visible by supper, shoes go on, softer calves.
 
-## Needed from the user before writing the full lyrics
-1. Kolabloom product page (fills every [ASSUMED] / MISSING above).
-2. Kolabloom's (or competitors') current winning ads: confirms the market/segment pick.
-3. Any reviews or comments from women 50+ (verbatim VOC for elements 6-7 and the close).
-4. Things Kolabloom must never claim.
+## Needed from the user
+1. **Price** per bottle and bundle.
+2. **The real guarantee** (30 or 180 days?).
+3. Claims Kolabloom must never make (or "same as the native").
+4. OK to change the messenger from a ship doctor to a Swiss passenger, and to soften the amputation.
+5. The cruise native's real numbers if it's winning outside this account (here: $395.69 spent, 3 purchases).
