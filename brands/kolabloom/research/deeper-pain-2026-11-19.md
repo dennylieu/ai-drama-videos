@@ -51,7 +51,7 @@ cruise", "legs embarrassed", "stasis dermatitis", "venous ulcer scared".
 Reddit itself refuses cloud servers (403); the public archive arctic-shift.photon-reddit.com works. Raw data saved
 in `reddit/`: `leg_posts.json` (2,465 leg-related posts from r/AgingParents, CaregiverSupport, Lymphedema, lipedema,
 varicoseveins, AskDocs, AskOldPeople, Cruise, AskWomenOver40, Menopause, HeartFailure, diabetes, nursing) and
-`sentences.json` (843 first-person sentences mentioning legs + an emotion, from posts and ~19k comments).
+`sentences.json` (first-person sentences mentioning legs + an emotion, from all posts and the comment threads of the 250 most-discussed leg posts).
 Caveats: many lipedema/lymphedema posters are younger than our avatar and have a different condition; their
 *language* about shame transfers, their diagnosis does not. Daughters writing about their mothers (60-80) are the
 closest match to our buyer.
