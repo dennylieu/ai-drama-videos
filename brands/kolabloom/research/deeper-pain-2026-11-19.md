@@ -44,3 +44,72 @@ Stack 1 + 2 into the proven cruise story, keep 3 as the shadow:
 r/AgingParents, r/CaregiverSupport, r/lymphedema, r/lipedema, r/AskDocs, r/varicoseveins, r/over60:
 "compression stockings husband", "brown stain ankles", "can't wear shorts", "mom's leg wound", "swollen legs
 cruise", "legs embarrassed", "stasis dermatitis", "venous ulcer scared".
+
+---
+
+## UPDATE 2026-11-20: real Reddit, via the Arctic Shift archive
+Reddit itself refuses cloud servers (403); the public archive arctic-shift.photon-reddit.com works. Raw data saved
+in `reddit/`: `leg_posts.json` (2,465 leg-related posts from r/AgingParents, CaregiverSupport, Lymphedema, lipedema,
+varicoseveins, AskDocs, AskOldPeople, Cruise, AskWomenOver40, Menopause, HeartFailure, diabetes, nursing) and
+`sentences.json` (843 first-person sentences mentioning legs + an emotion, from posts and ~19k comments).
+Caveats: many lipedema/lymphedema posters are younger than our avatar and have a different condition; their
+*language* about shame transfers, their diagnosis does not. Daughters writing about their mothers (60-80) are the
+closest match to our buyer.
+
+### Verbatim lines that go deeper than "water swelling"
+**The closest person's insult (Ryze move, real):**
+- "This past trip (12 hours in the car over 2 days + tons of walking) my dad says she has **elephant feet**."
+  (r/AgingParents, daughter about her mom) <https://reddit.com/r/AgingParents/comments/1d3lond/>
+
+**Someone else has to dress you (burden):**
+- "my husband uses his hand to pull my stockings up over the cuff so I can continue to pull them up my leg."
+  (r/lipedema) <https://reddit.com/r/lipedema/comments/1rl07w4/>
+- "I'm looking for ... some genius hack that doesn't involve me **driving over every morning to help her get
+  dressed**." (r/AgingParents, mom 78) <https://reddit.com/r/AgingParents/comments/1tte21a/>
+- "my mom also cannot fit into her shoes or socks anymore" (r/Lymphedema) <https://reddit.com/r/Lymphedema/comments/1kofeyy/>
+
+**Hiding the legs (shame):**
+- "I've always liked wearing dresses and skirts ... but in the past two years, my legs have changed so much that
+  **I only wear pants now**." (r/lipedema) <https://reddit.com/r/lipedema/comments/1kxdga1/>
+- "I never wear shorts even in the hottest weather because I hate how my legs look." (r/Lymphedema)
+- "And there I was with my long pants, compression stockings and my legs still swollen and hideous." / "I am so
+  jealous of all the women in dresses and high heels" (r/Lymphedema) <https://reddit.com/r/Lymphedema/comments/1lslfcp/>
+- "I feel humiliated whenever i have them on" (stockings) (r/lipedema)
+- "feel like I have the legs of an 80 year old!" (r/lipedema, 42)
+- "I barely took any pictures of myself with my husband on my ... honeymoon because I would **cry every time I
+  looked at a photo**" (r/lipedema) <https://reddit.com/r/lipedema/comments/1w9jnos/>
+- "I really don't want to ... look awful in pictures (going to a wedding afterwards)" (r/lipedema)
+
+**Watching your mother (fear: "I'm next"):**
+- "I'm watching my mom suffer every single day with swollen, heavy legs." (r/Lymphedema, mother 68 who gave up on
+  her compression) <https://reddit.com/r/Lymphedema/comments/1p5ve7z/>
+- "my mom has had an ulcer on her leg ... Then my mom developed another ulcer on her leg from grazing it with her
+  walker." (r/CaregiverSupport) <https://reddit.com/r/CaregiverSupport/comments/15g9r6j/>
+- "I was legitimately afraid she'd finally get a leg infection that would kill her." (r/CaregiverSupport)
+- "My mom had extreme symptoms to the point where she looked like her legs were not even meant to be on her body."
+  / "Unlike my Mom, she had no shame over showing her legs, whereas I have always found ways to hide my legs"
+  (r/lipedema)
+
+**The trip (validates the cruise concept):**
+- "I'm just getting back from a cruise to the Caribbean and I noticed my left foot and lower ankle are pretty
+  swollen." (r/Cruise) <https://reddit.com/r/Cruise/comments/b12o3v/>
+- "after our trip to Bermuda, my ankles were SO swollen." (r/Cruise) <https://reddit.com/r/Cruise/comments/1bgqfc1/>
+
+**Dismissed / water pills:**
+- "despite being on *a lot* of diuretics, her edema is worsening" (r/AgingParents)
+- "My moms ankles were getting swollen and the doctor said to reduce sodium" (r/AgingParents)
+
+**Safety note (keep the disclaimer):** "My mother passed away from a heart attack ... what she thought was heavy legs
+was actually an untreated blood clot" (r/Menopause). Heavy legs can be serious; the close must keep "see your
+doctor: heart, kidneys, a clot".
+
+### What changes in KB1
+1. **The insult is real and from the closest person:** Dale, joking on the cruise: "Look at you, Mama. Elephant
+   feet." He means nothing by it. She never forgets it. (Payoff flips it.)
+2. **Burden:** every morning in the cabin Dale kneels to work her stockings on; "forty years ago he knelt down to ask
+   me to marry him".
+3. **Hiding:** the only woman in long pants on the Caribbean pool deck; she offers to take the photos so she isn't
+   in them; she cries at the vacation pictures.
+4. **The mother:** she watched her mother suffer every day with swollen, heavy legs; the leg that never healed.
+5. **Payoff:** a sundress, bare legs, in every photo, dancing with Dale on the same deck; he reaches for the
+   stockings and she says "I've got it."

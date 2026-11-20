@@ -58,10 +58,14 @@ Layer 1: Psychographics
 - **Problem:** ankles that disappear by supper, sock rings that won't fade, legs heavy before lunch.
 - **Secondary desires:** the trips she saved for, keeping up with the grandkids, standing through church, shoes that
   go on without a fight.
-- **Pain points:** the motorized cart at the grocery store; sitting down halfway through cooking; the shoe strap that
-  won't close; telling her husband "it's just my feet".
+- **Pain points (Reddit, verbatim in `research/deeper-pain-2026-11-19.md`):** her husband has to pull her stockings
+  on ("my husband uses his hand to pull my stockings up"); "I only wear pants now"; "I never wear shorts even in the
+  hottest weather"; crying at vacation photos; the family's joke ("my dad says she has elephant feet"); shoes that
+  don't fit; the motorized cart; "it's just my feet".
 - **Dreams:** at the top of the hill with him, not thirty feet behind him.
-- **Fears:** ending up like her mother (her legs gave out at 71); becoming a burden; the trips stopping.
+- **Fears:** ending up like her mother ("I'm watching my mom suffer every single day with swollen, heavy legs"; the
+  ulcer that never healed); becoming a burden (someone has to dress her); being the one hidden out of the photos;
+  the trips stopping.
 
 Layer 2: Identity
 - **Demographics:** woman, 60-70, American, Southern/Midwest, English, Christian, married 40 years, mother of two
@@ -98,6 +102,10 @@ And I know from the premises: Kolabloom, 1,000 mg pure gotu kola, two capsules e
 
 It goes something like this:
 - "Eleven years my ankles disappeared by supper. My doctor said I was holding water. Said we had it managed."
+- "Every morning on that ship, Dale knelt on the cabin floor and worked my stockings on. Forty years ago he knelt
+  down to ask me to marry him."
+- "I was the only woman on that pool deck in long pants. I offered to take everybody's picture so I wouldn't be in
+  one."
 
 **2) What problem mechanism is the avatar most ready to accept?**
 - She already knows her calves "pump" (she's heard about walking and circulation), that collagen goes after 50
@@ -154,7 +162,9 @@ b) What narrative style holds her to the end?
 
 c) Which characters show up, and what roles do they play?
 - **Caroline, 64:** the hero, the viewer's mirror.
-- **Dale, 66:** her husband; his face when he turns around is the stakes.
+- **Dale, 66:** her husband. Loves her; kneels every morning in the cabin to work her stockings on (the burden she
+  hates being); jokes on the pool deck "Look at you, Mama: elephant feet" (a real line from Reddit) and never knows it
+  stuck. His face when he turns around on the hill is the stakes.
 - **Her mother (memory):** the future she's afraid of.
 - **Her daughter (phone call):** "Mom, maybe this should be your last trip" (becoming a burden).
 - **Her doctor:** the dismisser: "We've got it managed." At week 12: "What did you change?"
@@ -271,9 +281,10 @@ The brief decides **what** gets said; the references decide the **order and rhyt
 | Time | Mini-block | What it says (from the brief above) | Song |
 |---|---|---|---|
 | 0:00-0:08 | Hook / cold open | Copy hook + visual hook | Talk-sung intro |
-| 0:08-0:20 | Identification | Ankles by supper, sock rings, "we've got it managed" (point of contact) | Verse 1 |
+| 0:08-0:20 | Identification | Cabin, first morning: Dale kneeling to work her stockings on; "forty years ago he knelt to propose"; ankles by supper; "we've got it managed" | Verse 1 |
+| (inside) | Shame | Pool deck: the only woman in long pants; she takes everyone's photo so she isn't in one; Dale: "Look at you, Mama: elephant feet." | Verse 1 |
 | 0:20-0:45 | The drama, caused by the problem | Day four, the hill, legs filling like sand, Dale 30 ft ahead, tourists stepping over her feet | Verse 1 |
-| 0:45-0:58 | Worse | Her mother's legs; Dale drops his phone; his face | Verse 1 |
+| 0:45-0:58 | Worse | Her mother: "I watched Mama suffer every single day with those legs"; the leg that never healed; Dale drops his phone; his face | Verse 1 |
 | 0:58-1:08 | Freeze | Carried down; "I'm fine, it's managed"; St. Lucia from the railing; daughter: "maybe your last trip" | Pre-chorus |
 | 1:08-1:20 | Belief break (everything tried) | Water pills, stockings, salt, feet up, the 12-herb bottle | Verse 2 |
 | 1:20-1:30 | Messenger | Margrit off the dance floor: "Who told you that was managed?" | |
@@ -281,7 +292,7 @@ The brief decides **what** gets said; the references decide the **order and rhyt
 | 2:00-2:20 | Product presentation | Solution mechanism, conditions, USP | Bridge |
 | 2:20-2:28 | Objection | "I've bought every vein pill at Walgreens." "Did any of them tell you how much?" | |
 | 2:28-2:55 | Proof | Week 1 nothing, 2 heaviness, 4 shoes, 5 ankle bone, 8 church, 12 "what did you change?" | Verse 3 |
-| 2:55-3:25 | Payoff | Same hill, a year later, 30 ft ahead; Dale: "You okay?" "Better than managed." | Final chorus |
+| 2:55-3:25 | Payoff | A year later: same hill, 30 ft ahead; same pool deck in a sundress, bare legs, in every photo, dancing with Dale; in the cabin he reaches for the stockings and she says "I've got it." Dale: "You okay?" "Better than managed." | Final chorus |
 | 3:25-3:33 | Convert | Mails the free bottle to her sister | |
 | 3:33-3:55 | Close | Callout, mechanism in one line, USP, risk reversal, gain, lose, disclaimer, "don't just manage it" | Spoken outro |
 
