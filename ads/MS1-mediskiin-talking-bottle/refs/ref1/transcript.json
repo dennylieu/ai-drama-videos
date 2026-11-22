@@ -1,0 +1,3916 @@
+{
+ "language": "en",
+ "text": "Every woman in Korea know me, and Sephora refuse to sell me in the West because I'm bad for business. Let me tell you what I am. And more importantly, what I'm not. I'm not a luxury brand. I don't have a celebrity on my label. I'm not wrapped in gold packaging sitting behind a Sephora counter while a commission paid sales associate tells you, I'll change your life. I'm a Korean pharmacy formula. Plain pink bottle. I've been on pharmacy shelves in Seoul for years. Not beauty counters. Pharmacies. The same place as Korean women go to treat their skin. Not decorated. Korean dermatologists didn't recommend me because of marketing. They recommended me because their patients came back and their skin actually looked different. I have over 2 million users in Korea. Here's why. Every foundation you've ever tried has the same fundamental problem. The color is decided in a factory. One fixed shade pressed into a formula, sitting on your skin like a tinted film. It can't adapt. It doesn't move with you. By noon, it's turned a different color on your face. By 3pm, it's in every line. And the older your skin gets, the worse it looks on you. That's not your skin failing. That's the formula failing. I work completely differently. I don't come with a preset shade. I come out white. And the moment you blend me, my micro -encapsulated pigments react to your skin's warmth and undertones and shift to your exact tone in about 30 seconds. Not close to your shade. Not approximately your shade. Yours. And because my pigments are merging with your skin, instead of sitting on top of it, I don't oxidize. I don't crease. I don't give you that mask effect. What you look like at 8am is what you look like at 8pm. Your pH changes throughout the day. Your skin moves, produces oil, reacts to temperature. I move with it. Regular foundations can't do that. They were never designed to. Here's what I carry with me when I go on. Centella Asiatica. Korean pharmacists have used this to calm, heal, and rebuild damaged skin for decades. Not because it smells nice. Because it actually tells your skin cells to repair themselves. Glycerin and hyaluronic acid holding moisture inside your skin, not sitting on top of it all day. No tightness. No dry patches. No foundation clinging to flaky areas. And vitamin E, nourishing your skin while you wear me. Not just covering it. Makeup and skin care. At the same time. Oh, an SPF 15 built in. Because the sun is quietly responsible for most of the dark spots and fine lines you're trying to cover in the first place. One less step. No greasy layer. Just protection. Built into your morning routine without you having to think about it. Here's what happens when you find me. First morning. No mask feeling. Just your skin. She keeps touching her face because it feels like nothing is there. That's always the first sign. By the end of the first week, no orange tint by noon. No creasing by 3 p .m. She checks her mirror at the end of the day expecting to see the usual disappointment. It still looks the same as when she left the house. She doesn't say anything yet. She wants to be sure. Week three. Someone at work asks if she's had a facial. Her husband looks at her getting ready and just says, you look really good. She hasn't changed anything else. Just me. Week six. Someone else notices before she has to say anything. That's my favorite moment. Every single time. She spent years in front of that mirror feeling like she was losing something she couldn't name and couldn't stop. She tried foundation after foundation. Spent hundreds. Nothing worked. Not because she was doing something wrong. Because nothing she was using was designed for skin like hers. Two million tubes sold in Korea. Korean women who never questioned whether something better existed because they already had me. Their mothers had me. Their daughters have me. Not at a beauty counter. Not at Sephora. At a pharmacy. Because in Korea, skin is treated like health, not like decoration. While American brands were busy making prettier packaging and hiring bigger celebrities, Korean pharmacists were quietly making a better formula. That's the difference. And that's why you've been overspending on foundations that were never going to work for you. I'm not cheap, but I'm at 60 % off right now with a 30 -day money -back guarantee. If it doesn't match your skin perfectly, you pay nothing. The link is below. Pick me up.",
+ "words": [
+  {
+   "word": "Every",
+   "start": 0.0,
+   "end": 0.28
+  },
+  {
+   "word": "woman",
+   "start": 0.28,
+   "end": 0.58
+  },
+  {
+   "word": "in",
+   "start": 0.58,
+   "end": 0.76
+  },
+  {
+   "word": "Korea",
+   "start": 0.76,
+   "end": 1.06
+  },
+  {
+   "word": "know",
+   "start": 1.06,
+   "end": 1.38
+  },
+  {
+   "word": "me,",
+   "start": 1.38,
+   "end": 1.58
+  },
+  {
+   "word": "and",
+   "start": 1.82,
+   "end": 1.92
+  },
+  {
+   "word": "Sephora",
+   "start": 1.92,
+   "end": 2.36
+  },
+  {
+   "word": "refuse",
+   "start": 2.36,
+   "end": 2.68
+  },
+  {
+   "word": "to",
+   "start": 2.68,
+   "end": 2.94
+  },
+  {
+   "word": "sell",
+   "start": 2.94,
+   "end": 3.16
+  },
+  {
+   "word": "me",
+   "start": 3.16,
+   "end": 3.3
+  },
+  {
+   "word": "in",
+   "start": 3.3,
+   "end": 3.38
+  },
+  {
+   "word": "the",
+   "start": 3.38,
+   "end": 3.48
+  },
+  {
+   "word": "West",
+   "start": 3.48,
+   "end": 3.72
+  },
+  {
+   "word": "because",
+   "start": 3.72,
+   "end": 3.98
+  },
+  {
+   "word": "I'm",
+   "start": 3.98,
+   "end": 4.16
+  },
+  {
+   "word": "bad",
+   "start": 4.16,
+   "end": 4.34
+  },
+  {
+   "word": "for",
+   "start": 4.34,
+   "end": 4.48
+  },
+  {
+   "word": "business.",
+   "start": 4.48,
+   "end": 4.78
+  },
+  {
+   "word": "Let",
+   "start": 5.18,
+   "end": 5.32
+  },
+  {
+   "word": "me",
+   "start": 5.32,
+   "end": 5.4
+  },
+  {
+   "word": "tell",
+   "start": 5.4,
+   "end": 5.58
+  },
+  {
+   "word": "you",
+   "start": 5.58,
+   "end": 5.7
+  },
+  {
+   "word": "what",
+   "start": 5.7,
+   "end": 5.84
+  },
+  {
+   "word": "I",
+   "start": 5.84,
+   "end": 5.96
+  },
+  {
+   "word": "am.",
+   "start": 5.96,
+   "end": 6.2
+  },
+  {
+   "word": "And",
+   "start": 6.44,
+   "end": 6.52
+  },
+  {
+   "word": "more",
+   "start": 6.52,
+   "end": 6.68
+  },
+  {
+   "word": "importantly,",
+   "start": 6.68,
+   "end": 7.02
+  },
+  {
+   "word": "what",
+   "start": 7.38,
+   "end": 7.46
+  },
+  {
+   "word": "I'm",
+   "start": 7.46,
+   "end": 7.6
+  },
+  {
+   "word": "not.",
+   "start": 7.6,
+   "end": 7.8
+  },
+  {
+   "word": "I'm",
+   "start": 8.1,
+   "end": 8.28
+  },
+  {
+   "word": "not",
+   "start": 8.28,
+   "end": 8.44
+  },
+  {
+   "word": "a",
+   "start": 8.44,
+   "end": 8.56
+  },
+  {
+   "word": "luxury",
+   "start": 8.56,
+   "end": 8.8
+  },
+  {
+   "word": "brand.",
+   "start": 8.8,
+   "end": 9.2
+  },
+  {
+   "word": "I",
+   "start": 9.42,
+   "end": 9.52
+  },
+  {
+   "word": "don't",
+   "start": 9.52,
+   "end": 9.66
+  },
+  {
+   "word": "have",
+   "start": 9.66,
+   "end": 9.8
+  },
+  {
+   "word": "a",
+   "start": 9.8,
+   "end": 9.88
+  },
+  {
+   "word": "celebrity",
+   "start": 9.88,
+   "end": 10.22
+  },
+  {
+   "word": "on",
+   "start": 10.22,
+   "end": 10.44
+  },
+  {
+   "word": "my",
+   "start": 10.44,
+   "end": 10.56
+  },
+  {
+   "word": "label.",
+   "start": 10.56,
+   "end": 10.8
+  },
+  {
+   "word": "I'm",
+   "start": 11.04,
+   "end": 11.16
+  },
+  {
+   "word": "not",
+   "start": 11.16,
+   "end": 11.28
+  },
+  {
+   "word": "wrapped",
+   "start": 11.28,
+   "end": 11.58
+  },
+  {
+   "word": "in",
+   "start": 11.58,
+   "end": 11.76
+  },
+  {
+   "word": "gold",
+   "start": 11.76,
+   "end": 11.96
+  },
+  {
+   "word": "packaging",
+   "start": 11.96,
+   "end": 12.4
+  },
+  {
+   "word": "sitting",
+   "start": 12.4,
+   "end": 12.7
+  },
+  {
+   "word": "behind",
+   "start": 12.7,
+   "end": 13.02
+  },
+  {
+   "word": "a",
+   "start": 13.02,
+   "end": 13.16
+  },
+  {
+   "word": "Sephora",
+   "start": 13.16,
+   "end": 13.54
+  },
+  {
+   "word": "counter",
+   "start": 13.54,
+   "end": 13.84
+  },
+  {
+   "word": "while",
+   "start": 13.84,
+   "end": 14.1
+  },
+  {
+   "word": "a",
+   "start": 14.1,
+   "end": 14.26
+  },
+  {
+   "word": "commission",
+   "start": 14.26,
+   "end": 14.54
+  },
+  {
+   "word": "paid",
+   "start": 14.54,
+   "end": 14.8
+  },
+  {
+   "word": "sales",
+   "start": 14.8,
+   "end": 15.2
+  },
+  {
+   "word": "associate",
+   "start": 15.2,
+   "end": 15.7
+  },
+  {
+   "word": "tells",
+   "start": 15.7,
+   "end": 16.0
+  },
+  {
+   "word": "you,",
+   "start": 16.0,
+   "end": 16.3
+  },
+  {
+   "word": "I'll",
+   "start": 16.54,
+   "end": 16.62
+  },
+  {
+   "word": "change",
+   "start": 16.62,
+   "end": 16.82
+  },
+  {
+   "word": "your",
+   "start": 16.82,
+   "end": 17.02
+  },
+  {
+   "word": "life.",
+   "start": 17.02,
+   "end": 17.28
+  },
+  {
+   "word": "I'm",
+   "start": 17.56,
+   "end": 17.68
+  },
+  {
+   "word": "a",
+   "start": 17.68,
+   "end": 17.76
+  },
+  {
+   "word": "Korean",
+   "start": 17.76,
+   "end": 18.0
+  },
+  {
+   "word": "pharmacy",
+   "start": 18.0,
+   "end": 18.38
+  },
+  {
+   "word": "formula.",
+   "start": 18.38,
+   "end": 18.82
+  },
+  {
+   "word": "Plain",
+   "start": 19.18,
+   "end": 19.38
+  },
+  {
+   "word": "pink",
+   "start": 19.38,
+   "end": 19.6
+  },
+  {
+   "word": "bottle.",
+   "start": 19.6,
+   "end": 19.96
+  },
+  {
+   "word": "I've",
+   "start": 20.2,
+   "end": 20.3
+  },
+  {
+   "word": "been",
+   "start": 20.3,
+   "end": 20.42
+  },
+  {
+   "word": "on",
+   "start": 20.42,
+   "end": 20.54
+  },
+  {
+   "word": "pharmacy",
+   "start": 20.54,
+   "end": 20.86
+  },
+  {
+   "word": "shelves",
+   "start": 20.86,
+   "end": 21.16
+  },
+  {
+   "word": "in",
+   "start": 21.16,
+   "end": 21.38
+  },
+  {
+   "word": "Seoul",
+   "start": 21.38,
+   "end": 21.58
+  },
+  {
+   "word": "for",
+   "start": 21.58,
+   "end": 21.76
+  },
+  {
+   "word": "years.",
+   "start": 21.76,
+   "end": 22.08
+  },
+  {
+   "word": "Not",
+   "start": 22.36,
+   "end": 22.5
+  },
+  {
+   "word": "beauty",
+   "start": 22.5,
+   "end": 22.72
+  },
+  {
+   "word": "counters.",
+   "start": 22.72,
+   "end": 23.02
+  },
+  {
+   "word": "Pharmacies.",
+   "start": 23.44,
+   "end": 23.76
+  },
+  {
+   "word": "The",
+   "start": 24.1,
+   "end": 24.22
+  },
+  {
+   "word": "same",
+   "start": 24.22,
+   "end": 24.42
+  },
+  {
+   "word": "place",
+   "start": 24.42,
+   "end": 24.66
+  },
+  {
+   "word": "as",
+   "start": 24.66,
+   "end": 24.82
+  },
+  {
+   "word": "Korean",
+   "start": 24.82,
+   "end": 25.08
+  },
+  {
+   "word": "women",
+   "start": 25.08,
+   "end": 25.36
+  },
+  {
+   "word": "go",
+   "start": 25.36,
+   "end": 25.58
+  },
+  {
+   "word": "to",
+   "start": 25.58,
+   "end": 25.7
+  },
+  {
+   "word": "treat",
+   "start": 25.7,
+   "end": 25.9
+  },
+  {
+   "word": "their",
+   "start": 25.9,
+   "end": 26.08
+  },
+  {
+   "word": "skin.",
+   "start": 26.08,
+   "end": 26.38
+  },
+  {
+   "word": "Not",
+   "start": 26.72,
+   "end": 26.86
+  },
+  {
+   "word": "decorated.",
+   "start": 26.86,
+   "end": 27.24
+  },
+  {
+   "word": "Korean",
+   "start": 27.24,
+   "end": 27.86
+  },
+  {
+   "word": "dermatologists",
+   "start": 27.86,
+   "end": 28.66
+  },
+  {
+   "word": "didn't",
+   "start": 28.66,
+   "end": 28.98
+  },
+  {
+   "word": "recommend",
+   "start": 28.98,
+   "end": 29.3
+  },
+  {
+   "word": "me",
+   "start": 29.3,
+   "end": 29.56
+  },
+  {
+   "word": "because",
+   "start": 29.56,
+   "end": 29.82
+  },
+  {
+   "word": "of",
+   "start": 29.82,
+   "end": 29.98
+  },
+  {
+   "word": "marketing.",
+   "start": 29.98,
+   "end": 30.34
+  },
+  {
+   "word": "They",
+   "start": 30.6,
+   "end": 30.68
+  },
+  {
+   "word": "recommended",
+   "start": 30.68,
+   "end": 31.14
+  },
+  {
+   "word": "me",
+   "start": 31.14,
+   "end": 31.44
+  },
+  {
+   "word": "because",
+   "start": 31.44,
+   "end": 31.72
+  },
+  {
+   "word": "their",
+   "start": 31.72,
+   "end": 31.94
+  },
+  {
+   "word": "patients",
+   "start": 31.94,
+   "end": 32.36
+  },
+  {
+   "word": "came",
+   "start": 32.36,
+   "end": 32.64
+  },
+  {
+   "word": "back",
+   "start": 32.64,
+   "end": 32.94
+  },
+  {
+   "word": "and",
+   "start": 32.94,
+   "end": 33.14
+  },
+  {
+   "word": "their",
+   "start": 33.14,
+   "end": 33.28
+  },
+  {
+   "word": "skin",
+   "start": 33.28,
+   "end": 33.62
+  },
+  {
+   "word": "actually",
+   "start": 33.62,
+   "end": 34.2
+  },
+  {
+   "word": "looked",
+   "start": 34.2,
+   "end": 34.48
+  },
+  {
+   "word": "different.",
+   "start": 34.48,
+   "end": 34.88
+  },
+  {
+   "word": "I",
+   "start": 35.06,
+   "end": 35.16
+  },
+  {
+   "word": "have",
+   "start": 35.16,
+   "end": 35.28
+  },
+  {
+   "word": "over",
+   "start": 35.28,
+   "end": 35.48
+  },
+  {
+   "word": "2",
+   "start": 35.48,
+   "end": 35.76
+  },
+  {
+   "word": "million",
+   "start": 35.76,
+   "end": 36.02
+  },
+  {
+   "word": "users",
+   "start": 36.02,
+   "end": 36.4
+  },
+  {
+   "word": "in",
+   "start": 36.4,
+   "end": 36.64
+  },
+  {
+   "word": "Korea.",
+   "start": 36.64,
+   "end": 36.92
+  },
+  {
+   "word": "Here's",
+   "start": 37.22,
+   "end": 37.5
+  },
+  {
+   "word": "why.",
+   "start": 37.5,
+   "end": 37.76
+  },
+  {
+   "word": "Every",
+   "start": 37.98,
+   "end": 38.14
+  },
+  {
+   "word": "foundation",
+   "start": 38.14,
+   "end": 38.56
+  },
+  {
+   "word": "you've",
+   "start": 38.56,
+   "end": 39.04
+  },
+  {
+   "word": "ever",
+   "start": 39.04,
+   "end": 39.22
+  },
+  {
+   "word": "tried",
+   "start": 39.22,
+   "end": 39.64
+  },
+  {
+   "word": "has",
+   "start": 39.64,
+   "end": 39.88
+  },
+  {
+   "word": "the",
+   "start": 39.88,
+   "end": 40.06
+  },
+  {
+   "word": "same",
+   "start": 40.06,
+   "end": 40.34
+  },
+  {
+   "word": "fundamental",
+   "start": 40.34,
+   "end": 40.76
+  },
+  {
+   "word": "problem.",
+   "start": 40.76,
+   "end": 41.26
+  },
+  {
+   "word": "The",
+   "start": 41.5,
+   "end": 41.54
+  },
+  {
+   "word": "color",
+   "start": 41.54,
+   "end": 41.82
+  },
+  {
+   "word": "is",
+   "start": 41.82,
+   "end": 42.0
+  },
+  {
+   "word": "decided",
+   "start": 42.0,
+   "end": 42.42
+  },
+  {
+   "word": "in",
+   "start": 42.42,
+   "end": 42.62
+  },
+  {
+   "word": "a",
+   "start": 42.62,
+   "end": 42.7
+  },
+  {
+   "word": "factory.",
+   "start": 42.7,
+   "end": 42.98
+  },
+  {
+   "word": "One",
+   "start": 43.32,
+   "end": 43.48
+  },
+  {
+   "word": "fixed",
+   "start": 43.48,
+   "end": 43.72
+  },
+  {
+   "word": "shade",
+   "start": 43.72,
+   "end": 44.1
+  },
+  {
+   "word": "pressed",
+   "start": 44.1,
+   "end": 44.4
+  },
+  {
+   "word": "into",
+   "start": 44.4,
+   "end": 44.68
+  },
+  {
+   "word": "a",
+   "start": 44.68,
+   "end": 44.88
+  },
+  {
+   "word": "formula,",
+   "start": 44.88,
+   "end": 45.3
+  },
+  {
+   "word": "sitting",
+   "start": 45.5,
+   "end": 45.7
+  },
+  {
+   "word": "on",
+   "start": 45.7,
+   "end": 45.94
+  },
+  {
+   "word": "your",
+   "start": 45.94,
+   "end": 46.06
+  },
+  {
+   "word": "skin",
+   "start": 46.06,
+   "end": 46.34
+  },
+  {
+   "word": "like",
+   "start": 46.34,
+   "end": 46.56
+  },
+  {
+   "word": "a",
+   "start": 46.56,
+   "end": 46.7
+  },
+  {
+   "word": "tinted",
+   "start": 46.7,
+   "end": 47.06
+  },
+  {
+   "word": "film.",
+   "start": 47.06,
+   "end": 47.36
+  },
+  {
+   "word": "It",
+   "start": 47.58,
+   "end": 47.68
+  },
+  {
+   "word": "can't",
+   "start": 47.68,
+   "end": 48.0
+  },
+  {
+   "word": "adapt.",
+   "start": 48.0,
+   "end": 48.3
+  },
+  {
+   "word": "It",
+   "start": 48.6,
+   "end": 48.72
+  },
+  {
+   "word": "doesn't",
+   "start": 48.72,
+   "end": 49.08
+  },
+  {
+   "word": "move",
+   "start": 49.08,
+   "end": 49.32
+  },
+  {
+   "word": "with",
+   "start": 49.32,
+   "end": 49.58
+  },
+  {
+   "word": "you.",
+   "start": 49.58,
+   "end": 49.74
+  },
+  {
+   "word": "By",
+   "start": 49.94,
+   "end": 50.06
+  },
+  {
+   "word": "noon,",
+   "start": 50.06,
+   "end": 50.3
+  },
+  {
+   "word": "it's",
+   "start": 50.44,
+   "end": 50.58
+  },
+  {
+   "word": "turned",
+   "start": 50.58,
+   "end": 50.78
+  },
+  {
+   "word": "a",
+   "start": 50.78,
+   "end": 50.94
+  },
+  {
+   "word": "different",
+   "start": 50.94,
+   "end": 51.16
+  },
+  {
+   "word": "color",
+   "start": 51.16,
+   "end": 51.5
+  },
+  {
+   "word": "on",
+   "start": 51.5,
+   "end": 51.7
+  },
+  {
+   "word": "your",
+   "start": 51.7,
+   "end": 51.82
+  },
+  {
+   "word": "face.",
+   "start": 51.82,
+   "end": 52.1
+  },
+  {
+   "word": "By",
+   "start": 52.38,
+   "end": 52.54
+  },
+  {
+   "word": "3pm,",
+   "start": 52.54,
+   "end": 53.16
+  },
+  {
+   "word": "it's",
+   "start": 53.3,
+   "end": 53.44
+  },
+  {
+   "word": "in",
+   "start": 53.44,
+   "end": 53.56
+  },
+  {
+   "word": "every",
+   "start": 53.56,
+   "end": 53.8
+  },
+  {
+   "word": "line.",
+   "start": 53.8,
+   "end": 54.14
+  },
+  {
+   "word": "And",
+   "start": 54.4,
+   "end": 54.5
+  },
+  {
+   "word": "the",
+   "start": 54.5,
+   "end": 54.6
+  },
+  {
+   "word": "older",
+   "start": 54.6,
+   "end": 54.86
+  },
+  {
+   "word": "your",
+   "start": 54.86,
+   "end": 55.04
+  },
+  {
+   "word": "skin",
+   "start": 55.04,
+   "end": 55.34
+  },
+  {
+   "word": "gets,",
+   "start": 55.34,
+   "end": 55.62
+  },
+  {
+   "word": "the",
+   "start": 55.72,
+   "end": 55.86
+  },
+  {
+   "word": "worse",
+   "start": 55.86,
+   "end": 56.06
+  },
+  {
+   "word": "it",
+   "start": 56.06,
+   "end": 56.24
+  },
+  {
+   "word": "looks",
+   "start": 56.24,
+   "end": 56.42
+  },
+  {
+   "word": "on",
+   "start": 56.42,
+   "end": 56.66
+  },
+  {
+   "word": "you.",
+   "start": 56.66,
+   "end": 56.86
+  },
+  {
+   "word": "That's",
+   "start": 56.86,
+   "end": 57.3
+  },
+  {
+   "word": "not",
+   "start": 57.3,
+   "end": 57.42
+  },
+  {
+   "word": "your",
+   "start": 57.42,
+   "end": 57.58
+  },
+  {
+   "word": "skin",
+   "start": 57.58,
+   "end": 57.84
+  },
+  {
+   "word": "failing.",
+   "start": 57.84,
+   "end": 58.26
+  },
+  {
+   "word": "That's",
+   "start": 58.52,
+   "end": 58.78
+  },
+  {
+   "word": "the",
+   "start": 58.78,
+   "end": 58.9
+  },
+  {
+   "word": "formula",
+   "start": 58.9,
+   "end": 59.24
+  },
+  {
+   "word": "failing.",
+   "start": 59.24,
+   "end": 59.66
+  },
+  {
+   "word": "I",
+   "start": 59.92,
+   "end": 60.08
+  },
+  {
+   "word": "work",
+   "start": 60.08,
+   "end": 60.28
+  },
+  {
+   "word": "completely",
+   "start": 60.28,
+   "end": 60.7
+  },
+  {
+   "word": "differently.",
+   "start": 60.7,
+   "end": 61.06
+  },
+  {
+   "word": "I",
+   "start": 61.44,
+   "end": 61.56
+  },
+  {
+   "word": "don't",
+   "start": 61.56,
+   "end": 61.74
+  },
+  {
+   "word": "come",
+   "start": 61.74,
+   "end": 61.94
+  },
+  {
+   "word": "with",
+   "start": 61.94,
+   "end": 62.08
+  },
+  {
+   "word": "a",
+   "start": 62.08,
+   "end": 62.2
+  },
+  {
+   "word": "preset",
+   "start": 62.2,
+   "end": 62.46
+  },
+  {
+   "word": "shade.",
+   "start": 62.46,
+   "end": 62.84
+  },
+  {
+   "word": "I",
+   "start": 63.06,
+   "end": 63.18
+  },
+  {
+   "word": "come",
+   "start": 63.18,
+   "end": 63.36
+  },
+  {
+   "word": "out",
+   "start": 63.36,
+   "end": 63.48
+  },
+  {
+   "word": "white.",
+   "start": 63.48,
+   "end": 63.74
+  },
+  {
+   "word": "And",
+   "start": 63.98,
+   "end": 64.12
+  },
+  {
+   "word": "the",
+   "start": 64.12,
+   "end": 64.22
+  },
+  {
+   "word": "moment",
+   "start": 64.22,
+   "end": 64.48
+  },
+  {
+   "word": "you",
+   "start": 64.48,
+   "end": 64.68
+  },
+  {
+   "word": "blend",
+   "start": 64.68,
+   "end": 64.94
+  },
+  {
+   "word": "me,",
+   "start": 64.94,
+   "end": 65.16
+  },
+  {
+   "word": "my",
+   "start": 65.38,
+   "end": 65.5
+  },
+  {
+   "word": "micro",
+   "start": 65.5,
+   "end": 65.94
+  },
+  {
+   "word": "-encapsulated",
+   "start": 65.94,
+   "end": 66.66
+  },
+  {
+   "word": "pigments",
+   "start": 66.66,
+   "end": 67.2
+  },
+  {
+   "word": "react",
+   "start": 67.2,
+   "end": 67.64
+  },
+  {
+   "word": "to",
+   "start": 67.64,
+   "end": 67.9
+  },
+  {
+   "word": "your",
+   "start": 67.9,
+   "end": 67.98
+  },
+  {
+   "word": "skin's",
+   "start": 67.98,
+   "end": 68.46
+  },
+  {
+   "word": "warmth",
+   "start": 68.46,
+   "end": 68.72
+  },
+  {
+   "word": "and",
+   "start": 68.72,
+   "end": 68.9
+  },
+  {
+   "word": "undertones",
+   "start": 68.9,
+   "end": 69.4
+  },
+  {
+   "word": "and",
+   "start": 69.4,
+   "end": 69.78
+  },
+  {
+   "word": "shift",
+   "start": 69.78,
+   "end": 70.04
+  },
+  {
+   "word": "to",
+   "start": 70.04,
+   "end": 70.24
+  },
+  {
+   "word": "your",
+   "start": 70.24,
+   "end": 70.36
+  },
+  {
+   "word": "exact",
+   "start": 70.36,
+   "end": 70.68
+  },
+  {
+   "word": "tone",
+   "start": 70.68,
+   "end": 71.14
+  },
+  {
+   "word": "in",
+   "start": 71.14,
+   "end": 71.3
+  },
+  {
+   "word": "about",
+   "start": 71.3,
+   "end": 71.5
+  },
+  {
+   "word": "30",
+   "start": 71.5,
+   "end": 71.8
+  },
+  {
+   "word": "seconds.",
+   "start": 71.8,
+   "end": 72.2
+  },
+  {
+   "word": "Not",
+   "start": 72.5,
+   "end": 72.64
+  },
+  {
+   "word": "close",
+   "start": 72.64,
+   "end": 72.86
+  },
+  {
+   "word": "to",
+   "start": 72.86,
+   "end": 73.06
+  },
+  {
+   "word": "your",
+   "start": 73.06,
+   "end": 73.16
+  },
+  {
+   "word": "shade.",
+   "start": 73.16,
+   "end": 73.46
+  },
+  {
+   "word": "Not",
+   "start": 73.62,
+   "end": 73.74
+  },
+  {
+   "word": "approximately",
+   "start": 73.74,
+   "end": 74.2
+  },
+  {
+   "word": "your",
+   "start": 74.2,
+   "end": 74.54
+  },
+  {
+   "word": "shade.",
+   "start": 74.54,
+   "end": 74.88
+  },
+  {
+   "word": "Yours.",
+   "start": 75.18,
+   "end": 75.32
+  },
+  {
+   "word": "And",
+   "start": 75.64,
+   "end": 75.72
+  },
+  {
+   "word": "because",
+   "start": 75.72,
+   "end": 75.94
+  },
+  {
+   "word": "my",
+   "start": 75.94,
+   "end": 76.16
+  },
+  {
+   "word": "pigments",
+   "start": 76.16,
+   "end": 76.6
+  },
+  {
+   "word": "are",
+   "start": 76.6,
+   "end": 76.78
+  },
+  {
+   "word": "merging",
+   "start": 76.78,
+   "end": 77.14
+  },
+  {
+   "word": "with",
+   "start": 77.14,
+   "end": 77.34
+  },
+  {
+   "word": "your",
+   "start": 77.34,
+   "end": 77.46
+  },
+  {
+   "word": "skin,",
+   "start": 77.46,
+   "end": 77.82
+  },
+  {
+   "word": "instead",
+   "start": 77.94,
+   "end": 78.2
+  },
+  {
+   "word": "of",
+   "start": 78.2,
+   "end": 78.38
+  },
+  {
+   "word": "sitting",
+   "start": 78.38,
+   "end": 78.54
+  },
+  {
+   "word": "on",
+   "start": 78.54,
+   "end": 78.76
+  },
+  {
+   "word": "top",
+   "start": 78.76,
+   "end": 79.0
+  },
+  {
+   "word": "of",
+   "start": 79.0,
+   "end": 79.16
+  },
+  {
+   "word": "it,",
+   "start": 79.16,
+   "end": 79.26
+  },
+  {
+   "word": "I",
+   "start": 79.36,
+   "end": 79.44
+  },
+  {
+   "word": "don't",
+   "start": 79.44,
+   "end": 79.64
+  },
+  {
+   "word": "oxidize.",
+   "start": 79.64,
+   "end": 80.22
+  },
+  {
+   "word": "I",
+   "start": 80.44,
+   "end": 80.54
+  },
+  {
+   "word": "don't",
+   "start": 80.54,
+   "end": 80.72
+  },
+  {
+   "word": "crease.",
+   "start": 80.72,
+   "end": 81.0
+  },
+  {
+   "word": "I",
+   "start": 81.3,
+   "end": 81.44
+  },
+  {
+   "word": "don't",
+   "start": 81.44,
+   "end": 81.6
+  },
+  {
+   "word": "give",
+   "start": 81.6,
+   "end": 81.76
+  },
+  {
+   "word": "you",
+   "start": 81.76,
+   "end": 81.86
+  },
+  {
+   "word": "that",
+   "start": 81.86,
+   "end": 82.02
+  },
+  {
+   "word": "mask",
+   "start": 82.02,
+   "end": 82.38
+  },
+  {
+   "word": "effect.",
+   "start": 82.38,
+   "end": 82.74
+  },
+  {
+   "word": "What",
+   "start": 83.02,
+   "end": 83.16
+  },
+  {
+   "word": "you",
+   "start": 83.16,
+   "end": 83.28
+  },
+  {
+   "word": "look",
+   "start": 83.28,
+   "end": 83.5
+  },
+  {
+   "word": "like",
+   "start": 83.5,
+   "end": 83.7
+  },
+  {
+   "word": "at",
+   "start": 83.7,
+   "end": 83.84
+  },
+  {
+   "word": "8am",
+   "start": 83.84,
+   "end": 84.34
+  },
+  {
+   "word": "is",
+   "start": 84.34,
+   "end": 84.66
+  },
+  {
+   "word": "what",
+   "start": 84.66,
+   "end": 84.8
+  },
+  {
+   "word": "you",
+   "start": 84.8,
+   "end": 84.92
+  },
+  {
+   "word": "look",
+   "start": 84.92,
+   "end": 85.12
+  },
+  {
+   "word": "like",
+   "start": 85.12,
+   "end": 85.3
+  },
+  {
+   "word": "at",
+   "start": 85.3,
+   "end": 85.44
+  },
+  {
+   "word": "8pm.",
+   "start": 85.44,
+   "end": 85.88
+  },
+  {
+   "word": "Your",
+   "start": 85.88,
+   "end": 86.22
+  },
+  {
+   "word": "pH",
+   "start": 86.22,
+   "end": 86.66
+  },
+  {
+   "word": "changes",
+   "start": 86.66,
+   "end": 87.18
+  },
+  {
+   "word": "throughout",
+   "start": 87.18,
+   "end": 87.5
+  },
+  {
+   "word": "the",
+   "start": 87.5,
+   "end": 87.7
+  },
+  {
+   "word": "day.",
+   "start": 87.7,
+   "end": 87.9
+  },
+  {
+   "word": "Your",
+   "start": 88.14,
+   "end": 88.16
+  },
+  {
+   "word": "skin",
+   "start": 88.16,
+   "end": 88.42
+  },
+  {
+   "word": "moves,",
+   "start": 88.42,
+   "end": 88.8
+  },
+  {
+   "word": "produces",
+   "start": 88.98,
+   "end": 89.3
+  },
+  {
+   "word": "oil,",
+   "start": 89.3,
+   "end": 89.62
+  },
+  {
+   "word": "reacts",
+   "start": 89.84,
+   "end": 90.02
+  },
+  {
+   "word": "to",
+   "start": 90.02,
+   "end": 90.26
+  },
+  {
+   "word": "temperature.",
+   "start": 90.26,
+   "end": 90.56
+  },
+  {
+   "word": "I",
+   "start": 90.9,
+   "end": 91.0
+  },
+  {
+   "word": "move",
+   "start": 91.0,
+   "end": 91.18
+  },
+  {
+   "word": "with",
+   "start": 91.18,
+   "end": 91.36
+  },
+  {
+   "word": "it.",
+   "start": 91.36,
+   "end": 91.46
+  },
+  {
+   "word": "Regular",
+   "start": 91.56,
+   "end": 91.82
+  },
+  {
+   "word": "foundations",
+   "start": 91.82,
+   "end": 92.2
+  },
+  {
+   "word": "can't",
+   "start": 92.2,
+   "end": 92.76
+  },
+  {
+   "word": "do",
+   "start": 92.76,
+   "end": 92.9
+  },
+  {
+   "word": "that.",
+   "start": 92.9,
+   "end": 93.1
+  },
+  {
+   "word": "They",
+   "start": 93.22,
+   "end": 93.34
+  },
+  {
+   "word": "were",
+   "start": 93.34,
+   "end": 93.44
+  },
+  {
+   "word": "never",
+   "start": 93.44,
+   "end": 93.66
+  },
+  {
+   "word": "designed",
+   "start": 93.66,
+   "end": 94.04
+  },
+  {
+   "word": "to.",
+   "start": 94.04,
+   "end": 94.24
+  },
+  {
+   "word": "Here's",
+   "start": 94.42,
+   "end": 94.6
+  },
+  {
+   "word": "what",
+   "start": 94.6,
+   "end": 94.72
+  },
+  {
+   "word": "I",
+   "start": 94.72,
+   "end": 94.84
+  },
+  {
+   "word": "carry",
+   "start": 94.84,
+   "end": 95.06
+  },
+  {
+   "word": "with",
+   "start": 95.06,
+   "end": 95.28
+  },
+  {
+   "word": "me",
+   "start": 95.28,
+   "end": 95.42
+  },
+  {
+   "word": "when",
+   "start": 95.42,
+   "end": 95.56
+  },
+  {
+   "word": "I",
+   "start": 95.56,
+   "end": 95.68
+  },
+  {
+   "word": "go",
+   "start": 95.68,
+   "end": 95.78
+  },
+  {
+   "word": "on.",
+   "start": 95.78,
+   "end": 96.04
+  },
+  {
+   "word": "Centella",
+   "start": 96.34,
+   "end": 96.66
+  },
+  {
+   "word": "Asiatica.",
+   "start": 96.66,
+   "end": 97.3
+  },
+  {
+   "word": "Korean",
+   "start": 97.56,
+   "end": 97.8
+  },
+  {
+   "word": "pharmacists",
+   "start": 97.8,
+   "end": 98.42
+  },
+  {
+   "word": "have",
+   "start": 98.42,
+   "end": 98.58
+  },
+  {
+   "word": "used",
+   "start": 98.58,
+   "end": 98.78
+  },
+  {
+   "word": "this",
+   "start": 98.78,
+   "end": 98.96
+  },
+  {
+   "word": "to",
+   "start": 98.96,
+   "end": 99.1
+  },
+  {
+   "word": "calm,",
+   "start": 99.1,
+   "end": 99.48
+  },
+  {
+   "word": "heal,",
+   "start": 99.78,
+   "end": 99.92
+  },
+  {
+   "word": "and",
+   "start": 100.16,
+   "end": 100.2
+  },
+  {
+   "word": "rebuild",
+   "start": 100.2,
+   "end": 100.52
+  },
+  {
+   "word": "damaged",
+   "start": 100.52,
+   "end": 100.94
+  },
+  {
+   "word": "skin",
+   "start": 100.94,
+   "end": 101.28
+  },
+  {
+   "word": "for",
+   "start": 101.28,
+   "end": 101.5
+  },
+  {
+   "word": "decades.",
+   "start": 101.5,
+   "end": 101.94
+  },
+  {
+   "word": "Not",
+   "start": 102.22,
+   "end": 102.32
+  },
+  {
+   "word": "because",
+   "start": 102.32,
+   "end": 102.56
+  },
+  {
+   "word": "it",
+   "start": 102.56,
+   "end": 102.72
+  },
+  {
+   "word": "smells",
+   "start": 102.72,
+   "end": 102.98
+  },
+  {
+   "word": "nice.",
+   "start": 102.98,
+   "end": 103.34
+  },
+  {
+   "word": "Because",
+   "start": 103.6,
+   "end": 103.78
+  },
+  {
+   "word": "it",
+   "start": 103.78,
+   "end": 103.94
+  },
+  {
+   "word": "actually",
+   "start": 103.94,
+   "end": 104.26
+  },
+  {
+   "word": "tells",
+   "start": 104.26,
+   "end": 104.56
+  },
+  {
+   "word": "your",
+   "start": 104.56,
+   "end": 104.76
+  },
+  {
+   "word": "skin",
+   "start": 104.76,
+   "end": 105.02
+  },
+  {
+   "word": "cells",
+   "start": 105.02,
+   "end": 105.34
+  },
+  {
+   "word": "to",
+   "start": 105.34,
+   "end": 105.54
+  },
+  {
+   "word": "repair",
+   "start": 105.54,
+   "end": 105.86
+  },
+  {
+   "word": "themselves.",
+   "start": 105.86,
+   "end": 106.28
+  },
+  {
+   "word": "Glycerin",
+   "start": 106.72,
+   "end": 107.14
+  },
+  {
+   "word": "and",
+   "start": 107.14,
+   "end": 107.28
+  },
+  {
+   "word": "hyaluronic",
+   "start": 107.28,
+   "end": 107.84
+  },
+  {
+   "word": "acid",
+   "start": 107.84,
+   "end": 108.28
+  },
+  {
+   "word": "holding",
+   "start": 108.28,
+   "end": 108.62
+  },
+  {
+   "word": "moisture",
+   "start": 108.62,
+   "end": 109.04
+  },
+  {
+   "word": "inside",
+   "start": 109.04,
+   "end": 109.44
+  },
+  {
+   "word": "your",
+   "start": 109.44,
+   "end": 109.68
+  },
+  {
+   "word": "skin,",
+   "start": 109.68,
+   "end": 110.04
+  },
+  {
+   "word": "not",
+   "start": 110.16,
+   "end": 110.36
+  },
+  {
+   "word": "sitting",
+   "start": 110.36,
+   "end": 110.62
+  },
+  {
+   "word": "on",
+   "start": 110.62,
+   "end": 110.84
+  },
+  {
+   "word": "top",
+   "start": 110.84,
+   "end": 111.06
+  },
+  {
+   "word": "of",
+   "start": 111.06,
+   "end": 111.24
+  },
+  {
+   "word": "it",
+   "start": 111.24,
+   "end": 111.36
+  },
+  {
+   "word": "all",
+   "start": 111.36,
+   "end": 111.64
+  },
+  {
+   "word": "day.",
+   "start": 111.64,
+   "end": 111.86
+  },
+  {
+   "word": "No",
+   "start": 112.04,
+   "end": 112.16
+  },
+  {
+   "word": "tightness.",
+   "start": 112.16,
+   "end": 112.62
+  },
+  {
+   "word": "No",
+   "start": 112.74,
+   "end": 112.82
+  },
+  {
+   "word": "dry",
+   "start": 112.82,
+   "end": 113.04
+  },
+  {
+   "word": "patches.",
+   "start": 113.04,
+   "end": 113.38
+  },
+  {
+   "word": "No",
+   "start": 113.38,
+   "end": 113.68
+  },
+  {
+   "word": "foundation",
+   "start": 113.68,
+   "end": 114.16
+  },
+  {
+   "word": "clinging",
+   "start": 114.16,
+   "end": 114.64
+  },
+  {
+   "word": "to",
+   "start": 114.64,
+   "end": 114.9
+  },
+  {
+   "word": "flaky",
+   "start": 114.9,
+   "end": 115.2
+  },
+  {
+   "word": "areas.",
+   "start": 115.2,
+   "end": 115.7
+  },
+  {
+   "word": "And",
+   "start": 116.02,
+   "end": 116.04
+  },
+  {
+   "word": "vitamin",
+   "start": 116.04,
+   "end": 116.36
+  },
+  {
+   "word": "E,",
+   "start": 116.36,
+   "end": 116.7
+  },
+  {
+   "word": "nourishing",
+   "start": 116.86,
+   "end": 117.16
+  },
+  {
+   "word": "your",
+   "start": 117.16,
+   "end": 117.36
+  },
+  {
+   "word": "skin",
+   "start": 117.36,
+   "end": 117.62
+  },
+  {
+   "word": "while",
+   "start": 117.62,
+   "end": 117.86
+  },
+  {
+   "word": "you",
+   "start": 117.86,
+   "end": 118.04
+  },
+  {
+   "word": "wear",
+   "start": 118.04,
+   "end": 118.24
+  },
+  {
+   "word": "me.",
+   "start": 118.24,
+   "end": 118.48
+  },
+  {
+   "word": "Not",
+   "start": 118.72,
+   "end": 118.82
+  },
+  {
+   "word": "just",
+   "start": 118.82,
+   "end": 119.0
+  },
+  {
+   "word": "covering",
+   "start": 119.0,
+   "end": 119.36
+  },
+  {
+   "word": "it.",
+   "start": 119.36,
+   "end": 119.58
+  },
+  {
+   "word": "Makeup",
+   "start": 119.74,
+   "end": 120.06
+  },
+  {
+   "word": "and",
+   "start": 120.06,
+   "end": 120.3
+  },
+  {
+   "word": "skin",
+   "start": 120.3,
+   "end": 120.52
+  },
+  {
+   "word": "care.",
+   "start": 120.52,
+   "end": 120.84
+  },
+  {
+   "word": "At",
+   "start": 121.12,
+   "end": 121.24
+  },
+  {
+   "word": "the",
+   "start": 121.24,
+   "end": 121.32
+  },
+  {
+   "word": "same",
+   "start": 121.32,
+   "end": 121.52
+  },
+  {
+   "word": "time.",
+   "start": 121.52,
+   "end": 121.82
+  },
+  {
+   "word": "Oh,",
+   "start": 122.1,
+   "end": 122.32
+  },
+  {
+   "word": "an",
+   "start": 122.5,
+   "end": 122.56
+  },
+  {
+   "word": "SPF",
+   "start": 122.56,
+   "end": 123.28
+  },
+  {
+   "word": "15",
+   "start": 123.28,
+   "end": 123.74
+  },
+  {
+   "word": "built",
+   "start": 123.74,
+   "end": 124.1
+  },
+  {
+   "word": "in.",
+   "start": 124.1,
+   "end": 124.38
+  },
+  {
+   "word": "Because",
+   "start": 124.58,
+   "end": 124.76
+  },
+  {
+   "word": "the",
+   "start": 124.76,
+   "end": 124.98
+  },
+  {
+   "word": "sun",
+   "start": 124.98,
+   "end": 125.24
+  },
+  {
+   "word": "is",
+   "start": 125.24,
+   "end": 125.38
+  },
+  {
+   "word": "quietly",
+   "start": 125.38,
+   "end": 125.76
+  },
+  {
+   "word": "responsible",
+   "start": 125.76,
+   "end": 126.3
+  },
+  {
+   "word": "for",
+   "start": 126.3,
+   "end": 126.64
+  },
+  {
+   "word": "most",
+   "start": 126.64,
+   "end": 126.86
+  },
+  {
+   "word": "of",
+   "start": 126.86,
+   "end": 127.02
+  },
+  {
+   "word": "the",
+   "start": 127.02,
+   "end": 127.12
+  },
+  {
+   "word": "dark",
+   "start": 127.12,
+   "end": 127.36
+  },
+  {
+   "word": "spots",
+   "start": 127.36,
+   "end": 127.7
+  },
+  {
+   "word": "and",
+   "start": 127.7,
+   "end": 127.94
+  },
+  {
+   "word": "fine",
+   "start": 127.94,
+   "end": 128.22
+  },
+  {
+   "word": "lines",
+   "start": 128.22,
+   "end": 128.62
+  },
+  {
+   "word": "you're",
+   "start": 128.62,
+   "end": 128.82
+  },
+  {
+   "word": "trying",
+   "start": 128.82,
+   "end": 129.02
+  },
+  {
+   "word": "to",
+   "start": 129.02,
+   "end": 129.14
+  },
+  {
+   "word": "cover",
+   "start": 129.14,
+   "end": 129.34
+  },
+  {
+   "word": "in",
+   "start": 129.34,
+   "end": 129.5
+  },
+  {
+   "word": "the",
+   "start": 129.5,
+   "end": 129.6
+  },
+  {
+   "word": "first",
+   "start": 129.6,
+   "end": 129.78
+  },
+  {
+   "word": "place.",
+   "start": 129.78,
+   "end": 130.16
+  },
+  {
+   "word": "One",
+   "start": 130.44,
+   "end": 130.62
+  },
+  {
+   "word": "less",
+   "start": 130.62,
+   "end": 130.82
+  },
+  {
+   "word": "step.",
+   "start": 130.82,
+   "end": 131.16
+  },
+  {
+   "word": "No",
+   "start": 131.32,
+   "end": 131.44
+  },
+  {
+   "word": "greasy",
+   "start": 131.44,
+   "end": 131.7
+  },
+  {
+   "word": "layer.",
+   "start": 131.7,
+   "end": 132.06
+  },
+  {
+   "word": "Just",
+   "start": 132.4,
+   "end": 132.52
+  },
+  {
+   "word": "protection.",
+   "start": 132.52,
+   "end": 132.98
+  },
+  {
+   "word": "Built",
+   "start": 133.34,
+   "end": 133.44
+  },
+  {
+   "word": "into",
+   "start": 133.44,
+   "end": 133.68
+  },
+  {
+   "word": "your",
+   "start": 133.68,
+   "end": 133.86
+  },
+  {
+   "word": "morning",
+   "start": 133.86,
+   "end": 134.12
+  },
+  {
+   "word": "routine",
+   "start": 134.12,
+   "end": 134.54
+  },
+  {
+   "word": "without",
+   "start": 134.54,
+   "end": 134.82
+  },
+  {
+   "word": "you",
+   "start": 134.82,
+   "end": 135.02
+  },
+  {
+   "word": "having",
+   "start": 135.02,
+   "end": 135.22
+  },
+  {
+   "word": "to",
+   "start": 135.22,
+   "end": 135.38
+  },
+  {
+   "word": "think",
+   "start": 135.38,
+   "end": 135.56
+  },
+  {
+   "word": "about",
+   "start": 135.56,
+   "end": 135.82
+  },
+  {
+   "word": "it.",
+   "start": 135.82,
+   "end": 136.0
+  },
+  {
+   "word": "Here's",
+   "start": 136.1,
+   "end": 136.34
+  },
+  {
+   "word": "what",
+   "start": 136.34,
+   "end": 136.46
+  },
+  {
+   "word": "happens",
+   "start": 136.46,
+   "end": 136.78
+  },
+  {
+   "word": "when",
+   "start": 136.78,
+   "end": 136.96
+  },
+  {
+   "word": "you",
+   "start": 136.96,
+   "end": 137.12
+  },
+  {
+   "word": "find",
+   "start": 137.12,
+   "end": 137.38
+  },
+  {
+   "word": "me.",
+   "start": 137.38,
+   "end": 137.58
+  },
+  {
+   "word": "First",
+   "start": 137.76,
+   "end": 137.92
+  },
+  {
+   "word": "morning.",
+   "start": 137.92,
+   "end": 138.26
+  },
+  {
+   "word": "No",
+   "start": 138.5,
+   "end": 138.6
+  },
+  {
+   "word": "mask",
+   "start": 138.6,
+   "end": 138.92
+  },
+  {
+   "word": "feeling.",
+   "start": 138.92,
+   "end": 139.24
+  },
+  {
+   "word": "Just",
+   "start": 139.48,
+   "end": 139.62
+  },
+  {
+   "word": "your",
+   "start": 139.62,
+   "end": 139.8
+  },
+  {
+   "word": "skin.",
+   "start": 139.8,
+   "end": 140.12
+  },
+  {
+   "word": "She",
+   "start": 140.12,
+   "end": 140.48
+  },
+  {
+   "word": "keeps",
+   "start": 140.48,
+   "end": 140.66
+  },
+  {
+   "word": "touching",
+   "start": 140.66,
+   "end": 140.98
+  },
+  {
+   "word": "her",
+   "start": 140.98,
+   "end": 141.16
+  },
+  {
+   "word": "face",
+   "start": 141.16,
+   "end": 141.44
+  },
+  {
+   "word": "because",
+   "start": 141.44,
+   "end": 141.86
+  },
+  {
+   "word": "it",
+   "start": 141.86,
+   "end": 142.0
+  },
+  {
+   "word": "feels",
+   "start": 142.0,
+   "end": 142.24
+  },
+  {
+   "word": "like",
+   "start": 142.24,
+   "end": 142.48
+  },
+  {
+   "word": "nothing",
+   "start": 142.48,
+   "end": 142.72
+  },
+  {
+   "word": "is",
+   "start": 142.72,
+   "end": 142.94
+  },
+  {
+   "word": "there.",
+   "start": 142.94,
+   "end": 143.18
+  },
+  {
+   "word": "That's",
+   "start": 143.42,
+   "end": 143.62
+  },
+  {
+   "word": "always",
+   "start": 143.62,
+   "end": 143.9
+  },
+  {
+   "word": "the",
+   "start": 143.9,
+   "end": 144.14
+  },
+  {
+   "word": "first",
+   "start": 144.14,
+   "end": 144.32
+  },
+  {
+   "word": "sign.",
+   "start": 144.32,
+   "end": 144.66
+  },
+  {
+   "word": "By",
+   "start": 145.02,
+   "end": 145.02
+  },
+  {
+   "word": "the",
+   "start": 145.02,
+   "end": 145.14
+  },
+  {
+   "word": "end",
+   "start": 145.14,
+   "end": 145.3
+  },
+  {
+   "word": "of",
+   "start": 145.3,
+   "end": 145.38
+  },
+  {
+   "word": "the",
+   "start": 145.38,
+   "end": 145.5
+  },
+  {
+   "word": "first",
+   "start": 145.5,
+   "end": 145.7
+  },
+  {
+   "word": "week,",
+   "start": 145.7,
+   "end": 146.0
+  },
+  {
+   "word": "no",
+   "start": 146.28,
+   "end": 146.42
+  },
+  {
+   "word": "orange",
+   "start": 146.42,
+   "end": 146.86
+  },
+  {
+   "word": "tint",
+   "start": 146.86,
+   "end": 147.18
+  },
+  {
+   "word": "by",
+   "start": 147.18,
+   "end": 147.48
+  },
+  {
+   "word": "noon.",
+   "start": 147.48,
+   "end": 147.76
+  },
+  {
+   "word": "No",
+   "start": 148.0,
+   "end": 148.2
+  },
+  {
+   "word": "creasing",
+   "start": 148.2,
+   "end": 148.66
+  },
+  {
+   "word": "by",
+   "start": 148.66,
+   "end": 148.88
+  },
+  {
+   "word": "3",
+   "start": 148.88,
+   "end": 149.14
+  },
+  {
+   "word": "p",
+   "start": 149.14,
+   "end": 149.34
+  },
+  {
+   "word": ".m.",
+   "start": 149.34,
+   "end": 149.64
+  },
+  {
+   "word": "She",
+   "start": 149.8,
+   "end": 149.94
+  },
+  {
+   "word": "checks",
+   "start": 149.94,
+   "end": 150.18
+  },
+  {
+   "word": "her",
+   "start": 150.18,
+   "end": 150.36
+  },
+  {
+   "word": "mirror",
+   "start": 150.36,
+   "end": 150.58
+  },
+  {
+   "word": "at",
+   "start": 150.58,
+   "end": 150.8
+  },
+  {
+   "word": "the",
+   "start": 150.8,
+   "end": 150.9
+  },
+  {
+   "word": "end",
+   "start": 150.9,
+   "end": 151.06
+  },
+  {
+   "word": "of",
+   "start": 151.06,
+   "end": 151.16
+  },
+  {
+   "word": "the",
+   "start": 151.16,
+   "end": 151.24
+  },
+  {
+   "word": "day",
+   "start": 151.24,
+   "end": 151.52
+  },
+  {
+   "word": "expecting",
+   "start": 151.52,
+   "end": 151.9
+  },
+  {
+   "word": "to",
+   "start": 151.9,
+   "end": 152.2
+  },
+  {
+   "word": "see",
+   "start": 152.2,
+   "end": 152.34
+  },
+  {
+   "word": "the",
+   "start": 152.34,
+   "end": 152.48
+  },
+  {
+   "word": "usual",
+   "start": 152.48,
+   "end": 152.78
+  },
+  {
+   "word": "disappointment.",
+   "start": 152.78,
+   "end": 153.38
+  },
+  {
+   "word": "It",
+   "start": 153.6,
+   "end": 153.68
+  },
+  {
+   "word": "still",
+   "start": 153.68,
+   "end": 153.88
+  },
+  {
+   "word": "looks",
+   "start": 153.88,
+   "end": 154.06
+  },
+  {
+   "word": "the",
+   "start": 154.06,
+   "end": 154.24
+  },
+  {
+   "word": "same",
+   "start": 154.24,
+   "end": 154.52
+  },
+  {
+   "word": "as",
+   "start": 154.52,
+   "end": 154.64
+  },
+  {
+   "word": "when",
+   "start": 154.64,
+   "end": 154.78
+  },
+  {
+   "word": "she",
+   "start": 154.78,
+   "end": 154.94
+  },
+  {
+   "word": "left",
+   "start": 154.94,
+   "end": 155.14
+  },
+  {
+   "word": "the",
+   "start": 155.14,
+   "end": 155.3
+  },
+  {
+   "word": "house.",
+   "start": 155.3,
+   "end": 155.56
+  },
+  {
+   "word": "She",
+   "start": 155.9,
+   "end": 156.02
+  },
+  {
+   "word": "doesn't",
+   "start": 156.02,
+   "end": 156.3
+  },
+  {
+   "word": "say",
+   "start": 156.3,
+   "end": 156.56
+  },
+  {
+   "word": "anything",
+   "start": 156.56,
+   "end": 156.92
+  },
+  {
+   "word": "yet.",
+   "start": 156.92,
+   "end": 157.2
+  },
+  {
+   "word": "She",
+   "start": 157.46,
+   "end": 157.58
+  },
+  {
+   "word": "wants",
+   "start": 157.58,
+   "end": 157.82
+  },
+  {
+   "word": "to",
+   "start": 157.82,
+   "end": 158.04
+  },
+  {
+   "word": "be",
+   "start": 158.04,
+   "end": 158.14
+  },
+  {
+   "word": "sure.",
+   "start": 158.14,
+   "end": 158.44
+  },
+  {
+   "word": "Week",
+   "start": 158.98,
+   "end": 158.98
+  },
+  {
+   "word": "three.",
+   "start": 158.98,
+   "end": 159.32
+  },
+  {
+   "word": "Someone",
+   "start": 159.82,
+   "end": 160.0
+  },
+  {
+   "word": "at",
+   "start": 160.0,
+   "end": 160.22
+  },
+  {
+   "word": "work",
+   "start": 160.22,
+   "end": 160.4
+  },
+  {
+   "word": "asks",
+   "start": 160.4,
+   "end": 160.82
+  },
+  {
+   "word": "if",
+   "start": 160.82,
+   "end": 161.02
+  },
+  {
+   "word": "she's",
+   "start": 161.02,
+   "end": 161.24
+  },
+  {
+   "word": "had",
+   "start": 161.24,
+   "end": 161.36
+  },
+  {
+   "word": "a",
+   "start": 161.36,
+   "end": 161.48
+  },
+  {
+   "word": "facial.",
+   "start": 161.48,
+   "end": 161.78
+  },
+  {
+   "word": "Her",
+   "start": 162.08,
+   "end": 162.18
+  },
+  {
+   "word": "husband",
+   "start": 162.18,
+   "end": 162.46
+  },
+  {
+   "word": "looks",
+   "start": 162.46,
+   "end": 162.7
+  },
+  {
+   "word": "at",
+   "start": 162.7,
+   "end": 162.9
+  },
+  {
+   "word": "her",
+   "start": 162.9,
+   "end": 163.0
+  },
+  {
+   "word": "getting",
+   "start": 163.0,
+   "end": 163.18
+  },
+  {
+   "word": "ready",
+   "start": 163.18,
+   "end": 163.5
+  },
+  {
+   "word": "and",
+   "start": 163.5,
+   "end": 163.94
+  },
+  {
+   "word": "just",
+   "start": 163.94,
+   "end": 164.18
+  },
+  {
+   "word": "says,",
+   "start": 164.18,
+   "end": 164.46
+  },
+  {
+   "word": "you",
+   "start": 164.86,
+   "end": 164.96
+  },
+  {
+   "word": "look",
+   "start": 164.96,
+   "end": 165.16
+  },
+  {
+   "word": "really",
+   "start": 165.16,
+   "end": 165.44
+  },
+  {
+   "word": "good.",
+   "start": 165.44,
+   "end": 165.8
+  },
+  {
+   "word": "She",
+   "start": 166.12,
+   "end": 166.28
+  },
+  {
+   "word": "hasn't",
+   "start": 166.28,
+   "end": 166.58
+  },
+  {
+   "word": "changed",
+   "start": 166.58,
+   "end": 166.92
+  },
+  {
+   "word": "anything",
+   "start": 166.92,
+   "end": 167.22
+  },
+  {
+   "word": "else.",
+   "start": 167.22,
+   "end": 167.6
+  },
+  {
+   "word": "Just",
+   "start": 167.6,
+   "end": 168.06
+  },
+  {
+   "word": "me.",
+   "start": 168.06,
+   "end": 168.34
+  },
+  {
+   "word": "Week",
+   "start": 168.5,
+   "end": 168.68
+  },
+  {
+   "word": "six.",
+   "start": 168.68,
+   "end": 168.98
+  },
+  {
+   "word": "Someone",
+   "start": 169.34,
+   "end": 169.56
+  },
+  {
+   "word": "else",
+   "start": 169.56,
+   "end": 169.76
+  },
+  {
+   "word": "notices",
+   "start": 169.76,
+   "end": 170.26
+  },
+  {
+   "word": "before",
+   "start": 170.26,
+   "end": 170.58
+  },
+  {
+   "word": "she",
+   "start": 170.58,
+   "end": 170.8
+  },
+  {
+   "word": "has",
+   "start": 170.8,
+   "end": 171.0
+  },
+  {
+   "word": "to",
+   "start": 171.0,
+   "end": 171.14
+  },
+  {
+   "word": "say",
+   "start": 171.14,
+   "end": 171.32
+  },
+  {
+   "word": "anything.",
+   "start": 171.32,
+   "end": 171.72
+  },
+  {
+   "word": "That's",
+   "start": 172.04,
+   "end": 172.32
+  },
+  {
+   "word": "my",
+   "start": 172.32,
+   "end": 172.46
+  },
+  {
+   "word": "favorite",
+   "start": 172.46,
+   "end": 172.74
+  },
+  {
+   "word": "moment.",
+   "start": 172.74,
+   "end": 173.12
+  },
+  {
+   "word": "Every",
+   "start": 173.38,
+   "end": 173.74
+  },
+  {
+   "word": "single",
+   "start": 173.74,
+   "end": 174.12
+  },
+  {
+   "word": "time.",
+   "start": 174.12,
+   "end": 174.52
+  },
+  {
+   "word": "She",
+   "start": 174.86,
+   "end": 174.94
+  },
+  {
+   "word": "spent",
+   "start": 174.94,
+   "end": 175.16
+  },
+  {
+   "word": "years",
+   "start": 175.16,
+   "end": 175.48
+  },
+  {
+   "word": "in",
+   "start": 175.48,
+   "end": 175.7
+  },
+  {
+   "word": "front",
+   "start": 175.7,
+   "end": 175.86
+  },
+  {
+   "word": "of",
+   "start": 175.86,
+   "end": 175.94
+  },
+  {
+   "word": "that",
+   "start": 175.94,
+   "end": 176.12
+  },
+  {
+   "word": "mirror",
+   "start": 176.12,
+   "end": 176.36
+  },
+  {
+   "word": "feeling",
+   "start": 176.36,
+   "end": 176.68
+  },
+  {
+   "word": "like",
+   "start": 176.68,
+   "end": 176.92
+  },
+  {
+   "word": "she",
+   "start": 176.92,
+   "end": 177.08
+  },
+  {
+   "word": "was",
+   "start": 177.08,
+   "end": 177.2
+  },
+  {
+   "word": "losing",
+   "start": 177.2,
+   "end": 177.5
+  },
+  {
+   "word": "something",
+   "start": 177.5,
+   "end": 177.86
+  },
+  {
+   "word": "she",
+   "start": 177.86,
+   "end": 178.1
+  },
+  {
+   "word": "couldn't",
+   "start": 178.1,
+   "end": 178.4
+  },
+  {
+   "word": "name",
+   "start": 178.4,
+   "end": 178.72
+  },
+  {
+   "word": "and",
+   "start": 178.72,
+   "end": 178.9
+  },
+  {
+   "word": "couldn't",
+   "start": 178.9,
+   "end": 179.18
+  },
+  {
+   "word": "stop.",
+   "start": 179.18,
+   "end": 179.5
+  },
+  {
+   "word": "She",
+   "start": 179.78,
+   "end": 179.9
+  },
+  {
+   "word": "tried",
+   "start": 179.9,
+   "end": 180.12
+  },
+  {
+   "word": "foundation",
+   "start": 180.12,
+   "end": 180.7
+  },
+  {
+   "word": "after",
+   "start": 180.7,
+   "end": 180.98
+  },
+  {
+   "word": "foundation.",
+   "start": 180.98,
+   "end": 181.52
+  },
+  {
+   "word": "Spent",
+   "start": 181.78,
+   "end": 182.0
+  },
+  {
+   "word": "hundreds.",
+   "start": 182.0,
+   "end": 182.32
+  },
+  {
+   "word": "Nothing",
+   "start": 182.68,
+   "end": 182.88
+  },
+  {
+   "word": "worked.",
+   "start": 182.88,
+   "end": 183.18
+  },
+  {
+   "word": "Not",
+   "start": 183.38,
+   "end": 183.5
+  },
+  {
+   "word": "because",
+   "start": 183.5,
+   "end": 183.72
+  },
+  {
+   "word": "she",
+   "start": 183.72,
+   "end": 183.88
+  },
+  {
+   "word": "was",
+   "start": 183.88,
+   "end": 184.0
+  },
+  {
+   "word": "doing",
+   "start": 184.0,
+   "end": 184.18
+  },
+  {
+   "word": "something",
+   "start": 184.18,
+   "end": 184.48
+  },
+  {
+   "word": "wrong.",
+   "start": 184.48,
+   "end": 184.84
+  },
+  {
+   "word": "Because",
+   "start": 185.06,
+   "end": 185.26
+  },
+  {
+   "word": "nothing",
+   "start": 185.26,
+   "end": 185.5
+  },
+  {
+   "word": "she",
+   "start": 185.5,
+   "end": 185.72
+  },
+  {
+   "word": "was",
+   "start": 185.72,
+   "end": 185.88
+  },
+  {
+   "word": "using",
+   "start": 185.88,
+   "end": 186.2
+  },
+  {
+   "word": "was",
+   "start": 186.2,
+   "end": 186.42
+  },
+  {
+   "word": "designed",
+   "start": 186.42,
+   "end": 186.82
+  },
+  {
+   "word": "for",
+   "start": 186.82,
+   "end": 187.08
+  },
+  {
+   "word": "skin",
+   "start": 187.08,
+   "end": 187.4
+  },
+  {
+   "word": "like",
+   "start": 187.4,
+   "end": 187.66
+  },
+  {
+   "word": "hers.",
+   "start": 187.66,
+   "end": 188.0
+  },
+  {
+   "word": "Two",
+   "start": 188.36,
+   "end": 188.48
+  },
+  {
+   "word": "million",
+   "start": 188.48,
+   "end": 188.76
+  },
+  {
+   "word": "tubes",
+   "start": 188.76,
+   "end": 189.16
+  },
+  {
+   "word": "sold",
+   "start": 189.16,
+   "end": 189.6
+  },
+  {
+   "word": "in",
+   "start": 189.6,
+   "end": 189.82
+  },
+  {
+   "word": "Korea.",
+   "start": 189.82,
+   "end": 190.08
+  },
+  {
+   "word": "Korean",
+   "start": 190.44,
+   "end": 190.7
+  },
+  {
+   "word": "women",
+   "start": 190.7,
+   "end": 191.08
+  },
+  {
+   "word": "who",
+   "start": 191.08,
+   "end": 191.28
+  },
+  {
+   "word": "never",
+   "start": 191.28,
+   "end": 191.48
+  },
+  {
+   "word": "questioned",
+   "start": 191.48,
+   "end": 191.94
+  },
+  {
+   "word": "whether",
+   "start": 191.94,
+   "end": 192.24
+  },
+  {
+   "word": "something",
+   "start": 192.24,
+   "end": 192.54
+  },
+  {
+   "word": "better",
+   "start": 192.54,
+   "end": 192.9
+  },
+  {
+   "word": "existed",
+   "start": 192.9,
+   "end": 193.5
+  },
+  {
+   "word": "because",
+   "start": 193.5,
+   "end": 194.0
+  },
+  {
+   "word": "they",
+   "start": 194.0,
+   "end": 194.24
+  },
+  {
+   "word": "already",
+   "start": 194.24,
+   "end": 194.6
+  },
+  {
+   "word": "had",
+   "start": 194.6,
+   "end": 194.98
+  },
+  {
+   "word": "me.",
+   "start": 194.98,
+   "end": 195.22
+  },
+  {
+   "word": "Their",
+   "start": 195.22,
+   "end": 195.56
+  },
+  {
+   "word": "mothers",
+   "start": 195.56,
+   "end": 195.86
+  },
+  {
+   "word": "had",
+   "start": 195.86,
+   "end": 196.16
+  },
+  {
+   "word": "me.",
+   "start": 196.16,
+   "end": 196.36
+  },
+  {
+   "word": "Their",
+   "start": 196.6,
+   "end": 196.68
+  },
+  {
+   "word": "daughters",
+   "start": 196.68,
+   "end": 197.02
+  },
+  {
+   "word": "have",
+   "start": 197.02,
+   "end": 197.34
+  },
+  {
+   "word": "me.",
+   "start": 197.34,
+   "end": 197.6
+  },
+  {
+   "word": "Not",
+   "start": 197.78,
+   "end": 197.92
+  },
+  {
+   "word": "at",
+   "start": 197.92,
+   "end": 198.06
+  },
+  {
+   "word": "a",
+   "start": 198.06,
+   "end": 198.18
+  },
+  {
+   "word": "beauty",
+   "start": 198.18,
+   "end": 198.36
+  },
+  {
+   "word": "counter.",
+   "start": 198.36,
+   "end": 198.74
+  },
+  {
+   "word": "Not",
+   "start": 199.0,
+   "end": 199.12
+  },
+  {
+   "word": "at",
+   "start": 199.12,
+   "end": 199.24
+  },
+  {
+   "word": "Sephora.",
+   "start": 199.24,
+   "end": 199.74
+  },
+  {
+   "word": "At",
+   "start": 199.98,
+   "end": 200.08
+  },
+  {
+   "word": "a",
+   "start": 200.08,
+   "end": 200.22
+  },
+  {
+   "word": "pharmacy.",
+   "start": 200.22,
+   "end": 200.54
+  },
+  {
+   "word": "Because",
+   "start": 200.88,
+   "end": 201.08
+  },
+  {
+   "word": "in",
+   "start": 201.08,
+   "end": 201.24
+  },
+  {
+   "word": "Korea,",
+   "start": 201.24,
+   "end": 201.58
+  },
+  {
+   "word": "skin",
+   "start": 202.0,
+   "end": 202.16
+  },
+  {
+   "word": "is",
+   "start": 202.16,
+   "end": 202.48
+  },
+  {
+   "word": "treated",
+   "start": 202.48,
+   "end": 202.68
+  },
+  {
+   "word": "like",
+   "start": 202.68,
+   "end": 202.9
+  },
+  {
+   "word": "health,",
+   "start": 202.9,
+   "end": 203.2
+  },
+  {
+   "word": "not",
+   "start": 203.34,
+   "end": 203.46
+  },
+  {
+   "word": "like",
+   "start": 203.46,
+   "end": 203.68
+  },
+  {
+   "word": "decoration.",
+   "start": 203.68,
+   "end": 204.12
+  },
+  {
+   "word": "While",
+   "start": 204.46,
+   "end": 204.58
+  },
+  {
+   "word": "American",
+   "start": 204.58,
+   "end": 204.86
+  },
+  {
+   "word": "brands",
+   "start": 204.86,
+   "end": 205.26
+  },
+  {
+   "word": "were",
+   "start": 205.26,
+   "end": 205.4
+  },
+  {
+   "word": "busy",
+   "start": 205.4,
+   "end": 205.62
+  },
+  {
+   "word": "making",
+   "start": 205.62,
+   "end": 205.94
+  },
+  {
+   "word": "prettier",
+   "start": 205.94,
+   "end": 206.24
+  },
+  {
+   "word": "packaging",
+   "start": 206.24,
+   "end": 206.7
+  },
+  {
+   "word": "and",
+   "start": 206.7,
+   "end": 207.06
+  },
+  {
+   "word": "hiring",
+   "start": 207.06,
+   "end": 207.32
+  },
+  {
+   "word": "bigger",
+   "start": 207.32,
+   "end": 207.64
+  },
+  {
+   "word": "celebrities,",
+   "start": 207.64,
+   "end": 208.24
+  },
+  {
+   "word": "Korean",
+   "start": 208.44,
+   "end": 208.64
+  },
+  {
+   "word": "pharmacists",
+   "start": 208.64,
+   "end": 209.34
+  },
+  {
+   "word": "were",
+   "start": 209.34,
+   "end": 209.52
+  },
+  {
+   "word": "quietly",
+   "start": 209.52,
+   "end": 209.84
+  },
+  {
+   "word": "making",
+   "start": 209.84,
+   "end": 210.12
+  },
+  {
+   "word": "a",
+   "start": 210.12,
+   "end": 210.3
+  },
+  {
+   "word": "better",
+   "start": 210.3,
+   "end": 210.46
+  },
+  {
+   "word": "formula.",
+   "start": 210.46,
+   "end": 210.9
+  },
+  {
+   "word": "That's",
+   "start": 211.16,
+   "end": 211.36
+  },
+  {
+   "word": "the",
+   "start": 211.36,
+   "end": 211.46
+  },
+  {
+   "word": "difference.",
+   "start": 211.46,
+   "end": 211.72
+  },
+  {
+   "word": "And",
+   "start": 212.06,
+   "end": 212.18
+  },
+  {
+   "word": "that's",
+   "start": 212.18,
+   "end": 212.4
+  },
+  {
+   "word": "why",
+   "start": 212.4,
+   "end": 212.54
+  },
+  {
+   "word": "you've",
+   "start": 212.54,
+   "end": 212.72
+  },
+  {
+   "word": "been",
+   "start": 212.72,
+   "end": 212.82
+  },
+  {
+   "word": "overspending",
+   "start": 212.82,
+   "end": 213.32
+  },
+  {
+   "word": "on",
+   "start": 213.32,
+   "end": 213.5
+  },
+  {
+   "word": "foundations",
+   "start": 213.5,
+   "end": 213.94
+  },
+  {
+   "word": "that",
+   "start": 213.94,
+   "end": 214.26
+  },
+  {
+   "word": "were",
+   "start": 214.26,
+   "end": 214.38
+  },
+  {
+   "word": "never",
+   "start": 214.38,
+   "end": 214.66
+  },
+  {
+   "word": "going",
+   "start": 214.66,
+   "end": 214.9
+  },
+  {
+   "word": "to",
+   "start": 214.9,
+   "end": 215.04
+  },
+  {
+   "word": "work",
+   "start": 215.04,
+   "end": 215.2
+  },
+  {
+   "word": "for",
+   "start": 215.2,
+   "end": 215.4
+  },
+  {
+   "word": "you.",
+   "start": 215.4,
+   "end": 215.54
+  },
+  {
+   "word": "I'm",
+   "start": 215.7,
+   "end": 215.88
+  },
+  {
+   "word": "not",
+   "start": 215.88,
+   "end": 216.02
+  },
+  {
+   "word": "cheap,",
+   "start": 216.02,
+   "end": 216.3
+  },
+  {
+   "word": "but",
+   "start": 216.48,
+   "end": 216.64
+  },
+  {
+   "word": "I'm",
+   "start": 216.64,
+   "end": 216.78
+  },
+  {
+   "word": "at",
+   "start": 216.78,
+   "end": 216.84
+  },
+  {
+   "word": "60",
+   "start": 216.84,
+   "end": 217.16
+  },
+  {
+   "word": "%",
+   "start": 217.16,
+   "end": 217.46
+  },
+  {
+   "word": "off",
+   "start": 217.46,
+   "end": 217.68
+  },
+  {
+   "word": "right",
+   "start": 217.68,
+   "end": 217.9
+  },
+  {
+   "word": "now",
+   "start": 217.9,
+   "end": 218.12
+  },
+  {
+   "word": "with",
+   "start": 218.12,
+   "end": 218.26
+  },
+  {
+   "word": "a",
+   "start": 218.26,
+   "end": 218.4
+  },
+  {
+   "word": "30",
+   "start": 218.4,
+   "end": 218.62
+  },
+  {
+   "word": "-day",
+   "start": 218.62,
+   "end": 218.84
+  },
+  {
+   "word": "money",
+   "start": 218.84,
+   "end": 219.1
+  },
+  {
+   "word": "-back",
+   "start": 219.1,
+   "end": 219.3
+  },
+  {
+   "word": "guarantee.",
+   "start": 219.3,
+   "end": 219.8
+  },
+  {
+   "word": "If",
+   "start": 220.08,
+   "end": 220.2
+  },
+  {
+   "word": "it",
+   "start": 220.2,
+   "end": 220.3
+  },
+  {
+   "word": "doesn't",
+   "start": 220.3,
+   "end": 220.54
+  },
+  {
+   "word": "match",
+   "start": 220.54,
+   "end": 220.76
+  },
+  {
+   "word": "your",
+   "start": 220.76,
+   "end": 220.9
+  },
+  {
+   "word": "skin",
+   "start": 220.9,
+   "end": 221.16
+  },
+  {
+   "word": "perfectly,",
+   "start": 221.16,
+   "end": 221.52
+  },
+  {
+   "word": "you",
+   "start": 221.9,
+   "end": 222.02
+  },
+  {
+   "word": "pay",
+   "start": 222.02,
+   "end": 222.18
+  },
+  {
+   "word": "nothing.",
+   "start": 222.18,
+   "end": 222.44
+  },
+  {
+   "word": "The",
+   "start": 222.78,
+   "end": 222.86
+  },
+  {
+   "word": "link",
+   "start": 222.86,
+   "end": 223.02
+  },
+  {
+   "word": "is",
+   "start": 223.02,
+   "end": 223.16
+  },
+  {
+   "word": "below.",
+   "start": 223.16,
+   "end": 223.42
+  },
+  {
+   "word": "Pick",
+   "start": 223.74,
+   "end": 223.82
+  },
+  {
+   "word": "me",
+   "start": 223.82,
+   "end": 223.98
+  },
+  {
+   "word": "up.",
+   "start": 223.98,
+   "end": 224.14
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "shot": 1,
+  "start": 0.0,
+  "end": 5.12,
+  "dur": 5.12,
+  "frames": [
+   "frames/s01_a.jpg",
+   "frames/s01_m.jpg",
+   "frames/s01_z.jpg"
+  ],
+  "words": "Every woman in Korea know me, and Sephora refuse to sell me in the West because I'm bad for business."
+ },
+ {
+  "shot": 2,
+  "start": 5.12,
+  "end": 6.36,
+  "dur": 1.24,
+  "frames": [
+   "frames/s02_a.jpg",
+   "frames/s02_m.jpg",
+   "frames/s02_z.jpg"
+  ],
+  "words": "Let me tell you what I am."
+ },
+ {
+  "shot": 3,
+  "start": 6.36,
+  "end": 7.28,
+  "dur": 0.92,
+  "frames": [
+   "frames/s03_a.jpg",
+   "frames/s03_m.jpg",
+   "frames/s03_z.jpg"
+  ],
+  "words": "And more importantly,"
+ },
+ {
+  "shot": 4,
+  "start": 7.28,
+  "end": 8.08,
+  "dur": 0.8,
+  "frames": [
+   "frames/s04_a.jpg",
+   "frames/s04_m.jpg",
+   "frames/s04_z.jpg"
+  ],
+  "words": "what I'm not."
+ },
+ {
+  "shot": 5,
+  "start": 8.08,
+  "end": 11.0,
+  "dur": 2.92,
+  "frames": [
+   "frames/s05_a.jpg",
+   "frames/s05_m.jpg",
+   "frames/s05_z.jpg"
+  ],
+  "words": "I'm not a luxury brand. I don't have a celebrity on my label."
+ },
+ {
+  "shot": 6,
+  "start": 11.0,
+  "end": 13.96,
+  "dur": 2.96,
+  "frames": [
+   "frames/s06_a.jpg",
+   "frames/s06_m.jpg",
+   "frames/s06_z.jpg"
+  ],
+  "words": "I'm not wrapped in gold packaging sitting behind a Sephora counter"
+ },
+ {
+  "shot": 7,
+  "start": 13.96,
+  "end": 16.48,
+  "dur": 2.52,
+  "frames": [
+   "frames/s07_a.jpg",
+   "frames/s07_m.jpg",
+   "frames/s07_z.jpg"
+  ],
+  "words": "while a commission paid sales associate tells you,"
+ },
+ {
+  "shot": 8,
+  "start": 16.48,
+  "end": 22.36,
+  "dur": 5.88,
+  "frames": [
+   "frames/s08_a.jpg",
+   "frames/s08_m.jpg",
+   "frames/s08_z.jpg"
+  ],
+  "words": "I'll change your life. I'm a Korean pharmacy formula. Plain pink bottle. I've been on pharmacy shelves in Seoul for years."
+ },
+ {
+  "shot": 9,
+  "start": 22.36,
+  "end": 24.16,
+  "dur": 1.8,
+  "frames": [
+   "frames/s09_a.jpg",
+   "frames/s09_m.jpg",
+   "frames/s09_z.jpg"
+  ],
+  "words": "Not beauty counters. Pharmacies."
+ },
+ {
+  "shot": 10,
+  "start": 24.16,
+  "end": 27.64,
+  "dur": 3.48,
+  "frames": [
+   "frames/s10_a.jpg",
+   "frames/s10_m.jpg",
+   "frames/s10_z.jpg"
+  ],
+  "words": "The same place as Korean women go to treat their skin. Not decorated. Korean"
+ },
+ {
+  "shot": 11,
+  "start": 27.64,
+  "end": 29.6,
+  "dur": 1.96,
+  "frames": [
+   "frames/s11_a.jpg",
+   "frames/s11_m.jpg",
+   "frames/s11_z.jpg"
+  ],
+  "words": "dermatologists didn't recommend me"
+ },
+ {
+  "shot": 12,
+  "start": 29.6,
+  "end": 30.56,
+  "dur": 0.96,
+  "frames": [
+   "frames/s12_a.jpg",
+   "frames/s12_m.jpg",
+   "frames/s12_z.jpg"
+  ],
+  "words": "because of marketing."
+ },
+ {
+  "shot": 13,
+  "start": 30.56,
+  "end": 33.04,
+  "dur": 2.48,
+  "frames": [
+   "frames/s13_a.jpg",
+   "frames/s13_m.jpg",
+   "frames/s13_z.jpg"
+  ],
+  "words": "They recommended me because their patients came back"
+ },
+ {
+  "shot": 14,
+  "start": 33.04,
+  "end": 41.44,
+  "dur": 8.4,
+  "frames": [
+   "frames/s14_a.jpg",
+   "frames/s14_m.jpg",
+   "frames/s14_z.jpg"
+  ],
+  "words": "and their skin actually looked different. I have over 2 million users in Korea. Here's why. Every foundation you've ever tried has the same fundamental problem."
+ },
+ {
+  "shot": 15,
+  "start": 41.44,
+  "end": 43.24,
+  "dur": 1.8,
+  "frames": [
+   "frames/s15_a.jpg",
+   "frames/s15_m.jpg",
+   "frames/s15_z.jpg"
+  ],
+  "words": "The color is decided in a factory."
+ },
+ {
+  "shot": 16,
+  "start": 43.24,
+  "end": 45.44,
+  "dur": 2.2,
+  "frames": [
+   "frames/s16_a.jpg",
+   "frames/s16_m.jpg",
+   "frames/s16_z.jpg"
+  ],
+  "words": "One fixed shade pressed into a formula,"
+ },
+ {
+  "shot": 17,
+  "start": 45.44,
+  "end": 48.56,
+  "dur": 3.12,
+  "frames": [
+   "frames/s17_a.jpg",
+   "frames/s17_m.jpg",
+   "frames/s17_z.jpg"
+  ],
+  "words": "sitting on your skin like a tinted film. It can't adapt."
+ },
+ {
+  "shot": 18,
+  "start": 48.56,
+  "end": 49.92,
+  "dur": 1.36,
+  "frames": [
+   "frames/s18_a.jpg",
+   "frames/s18_m.jpg",
+   "frames/s18_z.jpg"
+  ],
+  "words": "It doesn't move with you."
+ },
+ {
+  "shot": 19,
+  "start": 49.92,
+  "end": 52.36,
+  "dur": 2.44,
+  "frames": [
+   "frames/s19_a.jpg",
+   "frames/s19_m.jpg",
+   "frames/s19_z.jpg"
+  ],
+  "words": "By noon, it's turned a different color on your face."
+ },
+ {
+  "shot": 20,
+  "start": 52.36,
+  "end": 55.8,
+  "dur": 3.44,
+  "frames": [
+   "frames/s20_a.jpg",
+   "frames/s20_m.jpg",
+   "frames/s20_z.jpg"
+  ],
+  "words": "By 3pm, it's in every line. And the older your skin gets, the"
+ },
+ {
+  "shot": 21,
+  "start": 55.8,
+  "end": 61.44,
+  "dur": 5.64,
+  "frames": [
+   "frames/s21_a.jpg",
+   "frames/s21_m.jpg",
+   "frames/s21_z.jpg"
+  ],
+  "words": "worse it looks on you. That's not your skin failing. That's the formula failing. I work completely differently."
+ },
+ {
+  "shot": 22,
+  "start": 61.44,
+  "end": 63.04,
+  "dur": 1.6,
+  "frames": [
+   "frames/s22_a.jpg",
+   "frames/s22_m.jpg",
+   "frames/s22_z.jpg"
+  ],
+  "words": "I don't come with a preset shade."
+ },
+ {
+  "shot": 23,
+  "start": 63.04,
+  "end": 67.36,
+  "dur": 4.32,
+  "frames": [
+   "frames/s23_a.jpg",
+   "frames/s23_m.jpg",
+   "frames/s23_z.jpg"
+  ],
+  "words": "I come out white. And the moment you blend me, my micro -encapsulated pigments"
+ },
+ {
+  "shot": 24,
+  "start": 67.36,
+  "end": 69.64,
+  "dur": 2.28,
+  "frames": [
+   "frames/s24_a.jpg",
+   "frames/s24_m.jpg",
+   "frames/s24_z.jpg"
+  ],
+  "words": "react to your skin's warmth and undertones and"
+ },
+ {
+  "shot": 25,
+  "start": 69.64,
+  "end": 72.44,
+  "dur": 2.8,
+  "frames": [
+   "frames/s25_a.jpg",
+   "frames/s25_m.jpg",
+   "frames/s25_z.jpg"
+  ],
+  "words": "shift to your exact tone in about 30 seconds."
+ },
+ {
+  "shot": 26,
+  "start": 72.44,
+  "end": 73.56,
+  "dur": 1.12,
+  "frames": [
+   "frames/s26_a.jpg",
+   "frames/s26_m.jpg",
+   "frames/s26_z.jpg"
+  ],
+  "words": "Not close to your shade."
+ },
+ {
+  "shot": 27,
+  "start": 73.56,
+  "end": 75.04,
+  "dur": 1.48,
+  "frames": [
+   "frames/s27_a.jpg",
+   "frames/s27_m.jpg",
+   "frames/s27_z.jpg"
+  ],
+  "words": "Not approximately your shade."
+ },
+ {
+  "shot": 28,
+  "start": 75.04,
+  "end": 75.6,
+  "dur": 0.56,
+  "frames": [
+   "frames/s28_a.jpg",
+   "frames/s28_m.jpg",
+   "frames/s28_z.jpg"
+  ],
+  "words": "Yours."
+ },
+ {
+  "shot": 29,
+  "start": 75.6,
+  "end": 86.16,
+  "dur": 10.56,
+  "frames": [
+   "frames/s29_a.jpg",
+   "frames/s29_m.jpg",
+   "frames/s29_z.jpg"
+  ],
+  "words": "And because my pigments are merging with your skin, instead of sitting on top of it, I don't oxidize. I don't crease. I don't give you that mask effect. What you look like at 8am is what you look like at 8pm. Your"
+ },
+ {
+  "shot": 30,
+  "start": 86.16,
+  "end": 102.16,
+  "dur": 16.0,
+  "frames": [
+   "frames/s30_a.jpg",
+   "frames/s30_m.jpg",
+   "frames/s30_z.jpg"
+  ],
+  "words": "pH changes throughout the day. Your skin moves, produces oil, reacts to temperature. I move with it. Regular foundations can't do that. They were never designed to. Here's what I carry with me when I go on. Centella Asiatica. Korean pharmacists have used this to calm, heal, and rebuild damaged skin for decades."
+ },
+ {
+  "shot": 31,
+  "start": 102.16,
+  "end": 103.6,
+  "dur": 1.44,
+  "frames": [
+   "frames/s31_a.jpg",
+   "frames/s31_m.jpg",
+   "frames/s31_z.jpg"
+  ],
+  "words": "Not because it smells nice."
+ },
+ {
+  "shot": 32,
+  "start": 103.6,
+  "end": 111.6,
+  "dur": 8.0,
+  "frames": [
+   "frames/s32_a.jpg",
+   "frames/s32_m.jpg",
+   "frames/s32_z.jpg"
+  ],
+  "words": "Because it actually tells your skin cells to repair themselves. Glycerin and hyaluronic acid holding moisture inside your skin, not sitting on top of it all"
+ },
+ {
+  "shot": 33,
+  "start": 111.6,
+  "end": 113.56,
+  "dur": 1.96,
+  "frames": [
+   "frames/s33_a.jpg",
+   "frames/s33_m.jpg",
+   "frames/s33_z.jpg"
+  ],
+  "words": "day. No tightness. No dry patches. No"
+ },
+ {
+  "shot": 34,
+  "start": 113.56,
+  "end": 119.76,
+  "dur": 6.2,
+  "frames": [
+   "frames/s34_a.jpg",
+   "frames/s34_m.jpg",
+   "frames/s34_z.jpg"
+  ],
+  "words": "foundation clinging to flaky areas. And vitamin E, nourishing your skin while you wear me. Not just covering it."
+ },
+ {
+  "shot": 35,
+  "start": 119.76,
+  "end": 121.16,
+  "dur": 1.4,
+  "frames": [
+   "frames/s35_a.jpg",
+   "frames/s35_m.jpg",
+   "frames/s35_z.jpg"
+  ],
+  "words": "Makeup and skin care."
+ },
+ {
+  "shot": 36,
+  "start": 121.16,
+  "end": 141.68,
+  "dur": 20.52,
+  "frames": [
+   "frames/s36_a.jpg",
+   "frames/s36_m.jpg",
+   "frames/s36_z.jpg"
+  ],
+  "words": "At the same time. Oh, an SPF 15 built in. Because the sun is quietly responsible for most of the dark spots and fine lines you're trying to cover in the first place. One less step. No greasy layer. Just protection. Built into your morning routine without you having to think about it. Here's what happens when you find me. First morning. No mask feeling. Just your skin. She keeps touching her face because"
+ },
+ {
+  "shot": 37,
+  "start": 141.68,
+  "end": 148.0,
+  "dur": 6.32,
+  "frames": [
+   "frames/s37_a.jpg",
+   "frames/s37_m.jpg",
+   "frames/s37_z.jpg"
+  ],
+  "words": "it feels like nothing is there. That's always the first sign. By the end of the first week, no orange tint by noon."
+ },
+ {
+  "shot": 38,
+  "start": 148.0,
+  "end": 151.64,
+  "dur": 3.64,
+  "frames": [
+   "frames/s38_a.jpg",
+   "frames/s38_m.jpg",
+   "frames/s38_z.jpg"
+  ],
+  "words": "No creasing by 3 p .m. She checks her mirror at the end of the day"
+ },
+ {
+  "shot": 39,
+  "start": 151.64,
+  "end": 153.56,
+  "dur": 1.92,
+  "frames": [
+   "frames/s39_a.jpg",
+   "frames/s39_m.jpg",
+   "frames/s39_z.jpg"
+  ],
+  "words": "expecting to see the usual disappointment."
+ },
+ {
+  "shot": 40,
+  "start": 153.56,
+  "end": 162.04,
+  "dur": 8.48,
+  "frames": [
+   "frames/s40_a.jpg",
+   "frames/s40_m.jpg",
+   "frames/s40_z.jpg"
+  ],
+  "words": "It still looks the same as when she left the house. She doesn't say anything yet. She wants to be sure. Week three. Someone at work asks if she's had a facial."
+ },
+ {
+  "shot": 41,
+  "start": 162.04,
+  "end": 164.76,
+  "dur": 2.72,
+  "frames": [
+   "frames/s41_a.jpg",
+   "frames/s41_m.jpg",
+   "frames/s41_z.jpg"
+  ],
+  "words": "Her husband looks at her getting ready and just says,"
+ },
+ {
+  "shot": 42,
+  "start": 164.76,
+  "end": 166.48,
+  "dur": 1.72,
+  "frames": [
+   "frames/s42_a.jpg",
+   "frames/s42_m.jpg",
+   "frames/s42_z.jpg"
+  ],
+  "words": "you look really good. She hasn't"
+ },
+ {
+  "shot": 43,
+  "start": 166.48,
+  "end": 174.92,
+  "dur": 8.44,
+  "frames": [
+   "frames/s43_a.jpg",
+   "frames/s43_m.jpg",
+   "frames/s43_z.jpg"
+  ],
+  "words": "changed anything else. Just me. Week six. Someone else notices before she has to say anything. That's my favorite moment. Every single time. She"
+ },
+ {
+  "shot": 44,
+  "start": 174.92,
+  "end": 181.8,
+  "dur": 6.88,
+  "frames": [
+   "frames/s44_a.jpg",
+   "frames/s44_m.jpg",
+   "frames/s44_z.jpg"
+  ],
+  "words": "spent years in front of that mirror feeling like she was losing something she couldn't name and couldn't stop. She tried foundation after foundation."
+ },
+ {
+  "shot": 45,
+  "start": 181.8,
+  "end": 188.36,
+  "dur": 6.56,
+  "frames": [
+   "frames/s45_a.jpg",
+   "frames/s45_m.jpg",
+   "frames/s45_z.jpg"
+  ],
+  "words": "Spent hundreds. Nothing worked. Not because she was doing something wrong. Because nothing she was using was designed for skin like hers."
+ },
+ {
+  "shot": 46,
+  "start": 188.36,
+  "end": 193.76,
+  "dur": 5.4,
+  "frames": [
+   "frames/s46_a.jpg",
+   "frames/s46_m.jpg",
+   "frames/s46_z.jpg"
+  ],
+  "words": "Two million tubes sold in Korea. Korean women who never questioned whether something better existed because"
+ },
+ {
+  "shot": 47,
+  "start": 193.76,
+  "end": 197.76,
+  "dur": 4.0,
+  "frames": [
+   "frames/s47_a.jpg",
+   "frames/s47_m.jpg",
+   "frames/s47_z.jpg"
+  ],
+  "words": "they already had me. Their mothers had me. Their daughters have me."
+ },
+ {
+  "shot": 48,
+  "start": 197.76,
+  "end": 200.92,
+  "dur": 3.16,
+  "frames": [
+   "frames/s48_a.jpg",
+   "frames/s48_m.jpg",
+   "frames/s48_z.jpg"
+  ],
+  "words": "Not at a beauty counter. Not at Sephora. At a pharmacy."
+ },
+ {
+  "shot": 49,
+  "start": 200.92,
+  "end": 204.64,
+  "dur": 3.72,
+  "frames": [
+   "frames/s49_a.jpg",
+   "frames/s49_m.jpg",
+   "frames/s49_z.jpg"
+  ],
+  "words": "Because in Korea, skin is treated like health, not like decoration. While"
+ },
+ {
+  "shot": 50,
+  "start": 204.64,
+  "end": 206.96,
+  "dur": 2.32,
+  "frames": [
+   "frames/s50_a.jpg",
+   "frames/s50_m.jpg",
+   "frames/s50_z.jpg"
+  ],
+  "words": "American brands were busy making prettier packaging and"
+ },
+ {
+  "shot": 51,
+  "start": 206.96,
+  "end": 208.4,
+  "dur": 1.44,
+  "frames": [
+   "frames/s51_a.jpg",
+   "frames/s51_m.jpg",
+   "frames/s51_z.jpg"
+  ],
+  "words": "hiring bigger celebrities,"
+ },
+ {
+  "shot": 52,
+  "start": 208.4,
+  "end": 211.08,
+  "dur": 2.68,
+  "frames": [
+   "frames/s52_a.jpg",
+   "frames/s52_m.jpg",
+   "frames/s52_z.jpg"
+  ],
+  "words": "Korean pharmacists were quietly making a better formula."
+ },
+ {
+  "shot": 53,
+  "start": 211.08,
+  "end": 212.04,
+  "dur": 0.96,
+  "frames": [
+   "frames/s53_a.jpg",
+   "frames/s53_m.jpg",
+   "frames/s53_z.jpg"
+  ],
+  "words": "That's the difference."
+ },
+ {
+  "shot": 54,
+  "start": 212.04,
+  "end": 214.16,
+  "dur": 2.12,
+  "frames": [
+   "frames/s54_a.jpg",
+   "frames/s54_m.jpg",
+   "frames/s54_z.jpg"
+  ],
+  "words": "And that's why you've been overspending on foundations that"
+ },
+ {
+  "shot": 55,
+  "start": 214.16,
+  "end": 215.68,
+  "dur": 1.52,
+  "frames": [
+   "frames/s55_a.jpg",
+   "frames/s55_m.jpg",
+   "frames/s55_z.jpg"
+  ],
+  "words": "were never going to work for you."
+ },
+ {
+  "shot": 56,
+  "start": 215.68,
+  "end": 224.33,
+  "dur": 8.65,
+  "frames": [
+   "frames/s56_a.jpg",
+   "frames/s56_m.jpg",
+   "frames/s56_z.jpg"
+  ],
+  "words": "I'm not cheap, but I'm at 60 % off right now with a 30 -day money -back guarantee. If it doesn't match your skin perfectly, you pay nothing. The link is below. Pick me up."
+ }
+]
