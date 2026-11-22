@@ -21,3 +21,7 @@ Status: copy breakdown drafted (2026-11-22); waiting for price/offer/guarantee, 
 ## 2026-11-22 Batch result
 - b02-b10 done (lines all correct by transcript; character consistent). Rough cut b01-v2+b02-b10 = 94 s: final/MS1-roughcut-bottle-b01-b10.mp4 (stitch.sh preview).
 - b11-b24 NOT made: fal returned "User is locked. Reason: Exhausted balance" (top up at fal.ai/dashboard/billing). Re-run: batch.py skips finished clips.
+
+## 2026-11-22 Tight cut
+- edit.json: each clip trimmed to its words (0.12 s lead, ~0.4-0.5 s tail), inner pauses >0.5 s cut out; b01-tight = drawer pictures (0.8-3.0 s) + vanity, under the audio 3.98-9.78 s. 93 s -> 72 s, assemble.py PASS. Transcript wordcheck: all 190 words present.
+- assemble.py "speech still running" WARNs are false alarms from the Wan music bed (wordcheck confirms no cut words).

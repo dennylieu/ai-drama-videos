@@ -1,0 +1,96 @@
+{
+ "code": "MS1-bottle-tight",
+ "loudness": -14,
+ "hooks": {
+  "A": [
+   {
+    "clip": "clips/raw/b01-tight.mp4"
+   },
+   {
+    "clip": "clips/raw/b02.mp4",
+    "in": 3.34,
+    "out": 8.75
+   },
+   {
+    "clip": "clips/raw/b02.mp4",
+    "in": 9.02,
+    "out": 10.03
+   },
+   {
+    "clip": "clips/raw/b03.mp4",
+    "in": 3.58,
+    "out": 10.03
+   },
+   {
+    "clip": "clips/raw/b04.mp4",
+    "in": 2.82,
+    "out": 6.54
+   },
+   {
+    "clip": "clips/raw/b05.mp4",
+    "in": 0.0,
+    "out": 6.96
+   },
+   {
+    "clip": "clips/raw/b06.mp4",
+    "in": 0.0,
+    "out": 2.27
+   },
+   {
+    "clip": "clips/raw/b06.mp4",
+    "in": 2.58,
+    "out": 3.31
+   },
+   {
+    "clip": "clips/raw/b06.mp4",
+    "in": 3.74,
+    "out": 7.38
+   },
+   {
+    "clip": "clips/raw/b07.mp4",
+    "in": 0.0,
+    "out": 3.85
+   },
+   {
+    "clip": "clips/raw/b07.mp4",
+    "in": 4.1,
+    "out": 6.25
+   },
+   {
+    "clip": "clips/raw/b07.mp4",
+    "in": 6.48,
+    "out": 8.7
+   },
+   {
+    "clip": "clips/raw/b08.mp4",
+    "in": 0.0,
+    "out": 4.98
+   },
+   {
+    "clip": "clips/raw/b09.mp4",
+    "in": 0.0,
+    "out": 11.48
+   },
+   {
+    "clip": "clips/raw/b10.mp4",
+    "in": 0.0,
+    "out": 3.49
+   },
+   {
+    "clip": "clips/raw/b10.mp4",
+    "in": 3.66,
+    "out": 6.69
+   },
+   {
+    "clip": "clips/raw/b10.mp4",
+    "in": 6.98,
+    "out": 9.11
+   },
+   {
+    "clip": "clips/raw/b10.mp4",
+    "in": 9.34,
+    "out": 11.86
+   }
+  ]
+ }
+}
