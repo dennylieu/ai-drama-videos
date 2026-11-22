@@ -13,3 +13,7 @@ Status: copy breakdown drafted (2026-11-22); waiting for price/offer/guarantee, 
 ## 2026-11-22 Test clip b01 hook (fal)
 - Start frame: GPT Image 2 edit (stills/hook-start_1.png). Video: fal-ai/wan-3/image-to-video, 10 s, 720p, 9:16, native audio, seed 1253765864, 178 s render.
 - Transcript word-perfect vs script. Face drifts mid-clip to a more feminine face (lashes, lipstick) vs the locked sheet; label stays readable. Accent: user to judge by ear.
+
+## 2026-11-22 Hook v2 + bottle batch
+- b01-hook-v2: fal-ai/wan-3/reference-to-video, 10 s 720p 9:16, refs = drawer frame + 6 character poses + product photo; face locked (no lashes/lipstick), seed 2146600078, 251 s. Wan cut drawer -> vanity mid-clip.
+- Batch b02-b24 (23 clips, 246 s) from prompts/bottle-clips.json: the bottle speaks every line; woman/lab b-roll goes over its audio in the edit.
