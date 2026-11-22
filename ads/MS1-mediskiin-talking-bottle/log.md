@@ -17,3 +17,7 @@ Status: copy breakdown drafted (2026-11-22); waiting for price/offer/guarantee, 
 ## 2026-11-22 Hook v2 + bottle batch
 - b01-hook-v2: fal-ai/wan-3/reference-to-video, 10 s 720p 9:16, refs = drawer frame + 6 character poses + product photo; face locked (no lashes/lipstick), seed 2146600078, 251 s. Wan cut drawer -> vanity mid-clip.
 - Batch b02-b24 (23 clips, 246 s) from prompts/bottle-clips.json: the bottle speaks every line; woman/lab b-roll goes over its audio in the edit.
+
+## 2026-11-22 Batch result
+- b02-b10 done (lines all correct by transcript; character consistent). Rough cut b01-v2+b02-b10 = 94 s: final/MS1-roughcut-bottle-b01-b10.mp4 (stitch.sh preview).
+- b11-b24 NOT made: fal returned "User is locked. Reason: Exhausted balance" (top up at fal.ai/dashboard/billing). Re-run: batch.py skips finished clips.
