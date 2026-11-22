@@ -11,7 +11,13 @@ Read before every creative task. Source: `research/neck-reddit-voc-2026-11-13.md
   "EGF NAD FIRMING SERUM", pills "EGF | NAD" and "Collagen Extract", "30 ml / 1.01 fl. oz." (product shot from the
   user, 2026-11-22). Box: MISSING. Product images also live in the Mediskiin Meta ad account (2162200411383853)
   image library.
-- **Price and offer:** MISSING
+- **Price and offer (mediskiin.com, 2026-11-22):** Buy 1 get 1 free: 2 bottles $33.99 (was $90). Buy 2 get 2 free
+  (most popular): 4 bottles $65.99 (was $180), free mystery gift. Buy 3 get 3 free: 6 bottles $99.99 (was $270) + draw
+  for a Korean wellness vacation. Free shipping (normally $6.99). 90-day money-back guarantee. Site banner: "Hurry! 95%
+  Sold Out" (verify before using). Routine: 2-3 drops morning and night, face and neck; 1 bottle ≈ 30 days. Site
+  timeline: softer from the first drop, lines look smoother within 2 weeks, firmness builds by bottle 2-3. Site
+  claims to check before ads: "clinically tested", "microneedle results without the needle", 4.9 from 21,817 reviews.
+  Same serum sold for crepey upper arms too.
 - **Who buys it:** women about 35-65 in the USA, self-conscious about neck wrinkles, tech neck or turkey neck.
   Sub-avatars, strongest first:
   1. Face-neck contrast: told she looks 20s-30s in the face; the neck gives her away. "Facially I could pass for 20s."
