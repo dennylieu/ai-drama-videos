@@ -16,8 +16,8 @@ the Vegas transcript (timestamps mm:ss) and the creative's product shots. Privat
 | 2 | Product | NAD+ EGF Firming Serum, 30 ml / 1.01 fl oz, red serum in red glass, dropper | |
 | 3 | Ingredients | Label: "EGF \| NAD", "Collagen Extract" | Full INCI list UNKNOWN. ⚠️ The label lists collagen extract, so do NOT run the research hook "Collagen in a jar can't get in": the bottle would contradict the ad |
 | 4 | Attributes | "Formulated by Korean skin experts", the red goes on and disappears (visible absorption), morning and night | Lab or testing claims, origin, ml per dose, how long a bottle lasts: UNKNOWN |
-| 5 | Price ladder | Black Friday copy: "Up to 70% OFF, Buy 2 Get 2 FREE + Gifts" | Unit prices UNKNOWN (needed for the price-per-day anchor) |
-| 6 | Guarantee | — | UNKNOWN. This is the risk-reversal element; without it Sale 4 is half-empty |
+| 5 | Price ladder | B1G1 2 for $40 · B2G2 4 for $80 + free shipping + gift · B3G3 6 for $120 + gift + Korea trip entry; 60% off, up to 70% with email | $20 a bottle, 30 days each ≈ 67¢ a day |
+| 6 | Guarantee | 90-day money-back | Frame it as "three full bottles" |
 | 7 | Gain by buying now | Buy 2 Get 2 Free + gifts (if still live) | Gift contents? Free shipping? Ship speed? |
 | 8 | Lose by waiting | Black Friday ends | End date? Stock limit? Restock wait? (only if true) |
 

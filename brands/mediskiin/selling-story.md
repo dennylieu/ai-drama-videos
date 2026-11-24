@@ -6,12 +6,30 @@ We sell the story, then hope, then value, then urgency. Customer language comes 
 `research/neck-reddit-voc-2026-11-13.md` (VOC #n).
 `[BRACKETS]` = a fact only the brand can confirm. Fill these before launch; never invent them.
 
+## The offer (from mediskiin.com, checked 2026-11-24)
+| Bundle | Bottles | Price (was) | Per bottle | Extras |
+|---|---|---|---|---|
+| Buy 1 Get 1 Free | 2 | $40 ($99.99) | $20 | shipping $6.99 |
+| **Buy 2 Get 2 Free** (Most Popular) | 4 | $80 ($199.99) | $20 | **free shipping + free mystery gift** |
+| Buy 3 Get 3 Free (Best Value) | 6 | $120 ($299.99) | $20 | free shipping + mystery gift + entry to win a Korea trip |
+
+- **Discount:** 60% off; **up to 70% off** with the extra discount for entering an email.
+- **Per day:** one 30 ml bottle lasts about 30 days (2–3 drops, twice daily) → $20 a bottle ≈ **67¢ a day**.
+- **Guarantee:** 90-day money-back ("love what you see in the mirror, or get a full refund").
+- **Timeline (site + reviews):** softer, hydrated skin from week 1; fine lines softer by about week 2; "around four weeks my neck
+  started looking tighter" (review); "biggest transformation by the second and third bottle". This is why the 2- and 3-bottle
+  bundles and the 90-day guarantee fit together.
+- ⚠️ **Subscription:** the FAQ says "your fresh bottle arrives every 30 days". Recurring billing must be clearly disclosed in the
+  ad flow and at checkout (FTC negative-option rules, Meta policy). Confirm which bundles subscribe.
+- ⚠️ **Claims on the site** ("clinically proven", "erases deep lines", "years younger", "95% sold out", 21,817 reviews): use in ads
+  only what is documented and true. Our ad copy stays cosmetic.
+
 ---
 
 ## The one-sentence version
 **Her face still looks like her, but her neck gives her away. Everything she tried sat on top of the skin. Mediskiin is
 the red Korean serum that sinks in (you can watch it disappear) and helps her neck look firmer and smoother in a few
-weeks, with no needles and no surgery, at less than [PRICE/DAY] a day.**
+weeks, with no needles and no surgery, at about 67¢ a day a day.**
 
 ## Who we're selling to
 - **Market:** anti-aging, entered through the neck (turkey neck, crepey skin, neck bands).
@@ -70,13 +88,14 @@ She's been burned. We don't argue with her; we **prove she was right** and show 
   - *Money:* "6 grand here, 2k on lasers there" (VOC #38); a neck lift costs thousands; a shelf of $50–$100 jars that did nothing.
   - *Emotion:* years of hiding in photos and avoiding mirrors.
   - *Time:* "It's just going to get worse." (VOC #47)
-  - *The line:* "About [PRICE/DAY] a day. Less than one of the jars on your shelf, and a fraction of one laser session."
+  - *The line:* "About 67 cents a day. Less than one of the jars on your shelf, and a fraction of one laser session."
 
 ## Sale 4: Impulse (make now the safe choice)
-- **Risk reversal:** "Try it for [GUARANTEE] days. That's longer than it takes to see the change in the mirror. If you don't,
-  you get your money back." Frame it against the real timeline.
-- **Gain now:** [OFFER, e.g. Buy 2 Get 2 Free + gifts], [free shipping], [ship speed]. Explain it bundle by bundle.
-- **Lose by waiting:** [the deadline the price ends], [stock, if true]. Never fake scarcity.
+- **Risk reversal:** "You've got 90 days. That's three full bottles, exactly how long most women need for the biggest change. If you
+  don't love what you see in the mirror, you get every cent back." Framed against the real timeline (week 1 → bottle 3).
+- **Gain now:** Buy 1 Get 1 Free → 2 bottles for $40. **Buy 2 Get 2 Free → 4 bottles for $80, free shipping + a free mystery gift.**
+  Buy 3 Get 3 Free → 6 bottles, plus a chance to win a trip to Korea. Up to 70% off when she enters her email.
+- **Lose by waiting:** Black Friday pricing ends [DATE: confirm]; stock claims only if true. Never fake scarcity.
 
 ---
 
@@ -86,7 +105,7 @@ She's been burned. We don't argue with her; we **prove she was right** and show 
 |---|---|---|---|---|
 | Video (drama) | ✅ cold open + story | ✅ the friend's questions, explainer, red-disappears demo | ⚠️ effort + dream in dialogue | ➕ 3 s close card |
 | Primary text | hook line | point of contact + mechanism | anchor | guarantee + offer + deadline |
-| Headline | — | — | — | **the offer** ("Buy 2 Get 2 Free Today Only") |
+| Headline | — | — | — | **the offer** ("Buy 2 Get 2 FREE + Free Gift") |
 | Carousel cards | — | — | product card ("sinks in, red disappears") | offer / bundle card |
 | Landing page | story recap | mechanism + Conditions | features, reviews, price per day | guarantee, bundles, deadline |
 
@@ -95,8 +114,8 @@ She's been burned. We don't argue with her; we **prove she was right** and show 
 | She thinks | We answer with |
 |---|---|
 | "Creams don't work on necks." | Agree: most sit on top. This one sinks in, and you can watch it go. |
-| "Only surgery works." | No needles, no two weeks sleeping upright; a few drops twice a day, for less than [PRICE/DAY]. |
-| "Sounds like every other miracle cream." | No miracle: "over a few weeks", with the reason, plus [GUARANTEE]. |
+| "Only surgery works." | No needles, no two weeks sleeping upright; a few drops twice a day, for about 67¢ a day. |
+| "Sounds like every other miracle cream." | No miracle: "over a few weeks", with the reason, plus a 90-day money-back guarantee. |
 | "I've wasted so much money." | The guarantee: the only risk is keeping the shelf of jars. |
 | "Is this for my age?" | Characters who are her (Denise, 50s) and who she wants to be (Vivian, 61). |
 
@@ -107,6 +126,39 @@ She's been burned. We don't argue with her; we **prove she was right** and show 
   documented), before/after photos, "years younger" numbers. *Note: the label lists collagen extract, so never attack
   "collagen creams".*
 
-## Before launch: brand facts to fill
-[OFFER] · [PRICE per bottle → PRICE/DAY] · [GUARANTEE days and terms] · [deadline date] · [stock or restock facts] ·
-[full ingredient list] · [any lab or test claims] · [the Conditions explanation]
+## Still to confirm with the brand
+[Black Friday end date] · [subscription terms per bundle] · [stock facts, if any] · [documentation for "clinically tested"] ·
+[the Conditions explanation: why EGF + NAD+ work in this light serum form]
+
+---
+
+## Ready-to-run copy (Vegas Divorce)
+
+**Headlines (test 3):**
+1. Buy 2 Get 2 FREE + Free Gift 🎁
+2. She's 61. He Thought She Was 34.
+3. Up to 70% Off: Black Friday
+
+**Primary text, long (4 sales):**
+He married her in Vegas thinking she was 34.
+Three weeks later he saw her passport. She's 61. 😳
+
+If you've ever tilted your chin up for a photo, or kept your scarf on all summer, you know that feeling.
+It's not you. Most neck creams sit on top of your skin and wipe off on your collar.
+
+MediSkiin NAD+ EGF is a light red serum made by Korean skin experts to sink in. EGF signals tired skin to renew,
+NAD+ recharges it, and over a few weeks your neck looks firmer and smoother.
+You'll see it work: the red disappears into your skin in seconds.
+
+No needles. No downtime. About 67¢ a day.
+
+You've got 90 days to see it in the mirror, or get every cent back.
+🎁 Black Friday: Buy 2 Get 2 FREE + free shipping + a free gift. Up to 70% off.
+
+**Primary text, short:**
+She's 61. He thought she was 34. 👀 Everything else sat on top, this sinks in.
+Buy 2 Get 2 FREE + free gift 🎁 · 90-day money-back guarantee.
+
+**Close card (end of video, 3–4 s):**
+BUY 2 GET 2 FREE · FREE GIFT + FREE SHIPPING
+Up to 70% off · 90-day money-back guarantee
