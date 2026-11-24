@@ -10,3 +10,7 @@ ads/**/plates/
 *.jpg
 .env
 __pycache__/
+
+# local secrets (never commit)
+.env.local
+.env
