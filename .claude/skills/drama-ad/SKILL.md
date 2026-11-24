@@ -63,6 +63,10 @@ generation, make one approved still per character (and per product, from real ph
 image on every generation that supports it. Track them in `plates.json` and run `tools/plate_check.py`. A person
 re-drawn from text alone is a new person.
 
+### 3b. Continuity check
+Run the script through `reference/continuity.md`: bridge every scene change, no unexplained people, no oracle answers,
+believable and consistent timelines, props that make sense where they are.
+
 ### 4. Build the prompt
 One paragraph in this order (full template in `reference/prompts.md`): opener -> look line -> location -> cast block
 -> "Real human photorealism." -> "Spoken dialogue with synced lips, <voice>, natural pace." -> numbered shots with
