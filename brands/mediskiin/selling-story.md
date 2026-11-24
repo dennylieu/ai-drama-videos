@@ -20,7 +20,7 @@ We sell the story, then hope, then value, then urgency. Customer language comes 
   started looking tighter" (review); "biggest transformation by the second and third bottle". This is why the 2- and 3-bottle
   bundles and the 90-day guarantee fit together.
 - ⚠️ **Subscription:** the FAQ says "your fresh bottle arrives every 30 days". Recurring billing must be clearly disclosed in the
-  ad flow and at checkout (FTC negative-option rules, Meta policy). Confirm which bundles subscribe.
+  ad flow and at checkout (FTC negative-option rules, Meta policy). Deferred by the brand for now (2026-11-24).
 - ⚠️ **Claims on the site** ("clinically proven", "erases deep lines", "years younger", "95% sold out", 21,817 reviews): use in ads
   only what is documented and true. Our ad copy stays cosmetic.
 
@@ -127,7 +127,7 @@ She's been burned. We don't argue with her; we **prove she was right** and show 
   "collagen creams".*
 
 ## Still to confirm with the brand
-[Black Friday end date] · [subscription terms per bundle] · [stock facts, if any] · [documentation for "clinically tested"] ·
+[Black Friday end date] · [stock facts, if any] · [documentation for "clinically tested"] ·
 [the Conditions explanation: why EGF + NAD+ work in this light serum form]
 
 ---
