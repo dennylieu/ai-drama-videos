@@ -1,0 +1,11 @@
+{
+  "_note": "Character locks rebuilt 2026-11-24 from 1080p frames of the finished Vegas film (fal-ai/nano-banana-pro/edit, 2K, 9:16). Image files are gitignored; they live in plates/. Set approved=true only after the user approves each one.",
+  "plates": {
+    "vivian": {"kind": "character", "label": "the woman about 61 who looks mid-30s, dark brown low bun, cream white blazer over a champagne silk blouse, thin gold necklace", "file": "plates/vivian.png", "source_frames": ["film 05:58 courtroom", "film 03:42 bathroom"], "approved": false},
+    "denise": {"kind": "character", "label": "the woman in her late 50s, short ash-brown bob, tortoiseshell glasses on her head, charcoal grey ribbed turtleneck", "file": "plates/denise.png", "source_frames": ["film 03:33 bathroom", "film 03:48 neck close-up"], "approved": false},
+    "marcus": {"kind": "character", "label": "the man in his 50s, short black hair grey at the temples, trimmed salt-and-pepper beard, charcoal three-piece suit, burgundy tie", "file": "plates/marcus.png", "source_frames": ["film 00:26 courthouse steps"], "approved": false},
+    "tyler": {"kind": "character", "label": "the man about 30, short light-brown hair, stubble, navy blazer over an open white shirt, green wristband", "file": "plates/tyler.png", "source_frames": ["film 07:12 courtroom", "film 01:10 Vegas"], "approved": false},
+    "brianna": {"kind": "character", "label": "the woman in her late 20s, blonde ponytail, pale pink blazer over a white top", "file": "plates/brianna.png", "source_frames": ["film 03:06 courtroom"], "approved": false}
+  },
+  "stills": {}
+}
