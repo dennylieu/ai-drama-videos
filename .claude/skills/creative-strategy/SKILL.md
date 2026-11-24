@@ -9,6 +9,8 @@ Prompts adapted from ecombreaker's "Top 20 Grok Bot Prompts for DTC Creative Str
 this repo: outputs land in files so they compound, and every script ends in the `drama-ad` pipeline. Full prompt
 library: `prompts.md` (numbers match the original article).
 
+Audit and brief every cold ad with the 4-sales / 17-element psychology in `brazilify.md`.
+
 ## Ground rules (every task)
 - Read `brands/<brand>/context.md` first (template: `templates/product-context.md`). Missing pieces: ask once, save
   the answer there.
