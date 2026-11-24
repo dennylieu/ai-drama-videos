@@ -1,0 +1,13 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "6-second vertical live-action cutaway in a courtroom during testimony. Image 1 is the woman about 61 who looks mid-30s (keep her face, dark brown low bun, cream white blazer over a champagne silk blouse, thin gold necklace exactly). Image 2 is the woman in her late 50s (keep her face, short ash-brown bob, tortoiseshell glasses pushed up on her head, charcoal grey ribbed turtleneck exactly; her neck shows real lines and soft skin). Image 3 is the location: a wood-panelled courtroom with tall windows, brass pendant lights and blue public benches; keep it exactly. Naturalistic drama look: camera on a tripod at eye level, long lens, shallow depth of field, motivated light only, slightly under-exposed, lifted blacks, true skin tones. Underplayed acting, small reactions before each reply. Warm window daylight. Quiet courtroom room tone only, a lawyer's voice murmuring indistinctly off camera, no music, nobody speaks clearly. Shot 1, medium shot of the woman from image 2 seated two rows back on the public benches, watching the front of the room intently; out of focus in the foreground, the back of the woman from image 1 at the defence table. Shot 2, close-up of the woman from image 2: without looking away, she slowly pulls the collar of her turtleneck a little higher up her neck, self-conscious. Hold. No on-screen text, no captions, no logos, no music, no change of identities, hair or wardrobe.",
+ "duration": 6,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/vivian.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/denise.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/refs/courtroom.png"
+ ]
+}

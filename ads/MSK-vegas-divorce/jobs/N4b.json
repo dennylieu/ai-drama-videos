@@ -1,0 +1,14 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "15-second vertical live-action scene, continuous moment in the same restroom, two plain, ordinary-looking women, everyday faces, not glamorous. Image 1 is the woman about 61 who looks mid-30s (keep her face, dark brown low bun, cream white blazer over a champagne silk blouse, thin gold necklace exactly). Image 2 is the woman in her late 50s (keep her face, short ash-brown bob, tortoiseshell glasses pushed up on her head, charcoal grey ribbed turtleneck exactly; her neck shows real lines and soft skin). Image 3 is the location: a courthouse public restroom with grey stall doors, marble sinks, a long mirror and flat fluorescent ceiling light; keep it exactly. Muted grey, cream and charcoal palette. Dry close location sound: restroom echo, a dripping tap, distant hallway footsteps, no music. Image 4 shows the small red glass dropper bottle of serum; same bottle. Naturalistic drama look: camera on a tripod at eye level, long lens, shallow depth of field, motivated light only, slightly under-exposed, lifted blacks, true skin tones. Underplayed acting, small reactions before each reply. Spoken dialogue in American English with synced lips, quiet natural voices, natural pace; each line said once, exactly as written. Shot 1, wide: a firm knock on the restroom's wooden exit door; a man's voice from outside, off screen: 'Five minutes, Mrs. Ashford.' Shot 2, medium close-up of the woman from image 2, fast: 'What if it doesn't work on me?' Shot 3, the woman from image 1 drops the red bottle into her black clutch and picks it up: 'Ninety days. They refund you.' Shot 4, the woman from image 2: 'What's it called?' Shot 5, the woman from image 1 at the restroom's exit door (a plain wooden door with a push plate beside the sinks, not a stall door), one hand on it, half turning back: 'MED-ee-skin. Two I's.' Shot 6, she walks out through the exit door into the hallway; the exit door swings shut. Shot 7, the woman from image 2 alone by the sinks, the fluorescent light humming, held. No on-screen text, no captions, no logos, no readable label, no music, no laughing, no change of identities, hair or wardrobe.",
+ "duration": 15,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/vivian.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/denise.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/refs/bathroom.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/refs/product_in_hand.png"
+ ]
+}

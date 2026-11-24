@@ -1,0 +1,13 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "5-second vertical live-action bridge shot in a courthouse hallway. Image 1 is the woman about 61 who looks mid-30s (keep her face, dark brown low bun, cream white blazer over a champagne silk blouse, thin gold necklace exactly). Image 2 is the woman in her late 50s (keep her face, short ash-brown bob, tortoiseshell glasses pushed up on her head, charcoal grey ribbed turtleneck exactly; her neck shows real lines and soft skin). Image 3 is the location: a courthouse corridor with a polished terrazzo floor, stone walls, ceiling lights and a lit vending machine; keep it exactly. Naturalistic drama look: camera on a tripod at eye level, long lens, shallow depth of field, motivated light only, slightly under-exposed, lifted blacks, true skin tones. Underplayed acting, small reactions before each reply. Hallway sound: footsteps echoing, distant voices, no music, no dialogue. Shot 1, medium-wide: the woman from image 1 walks briskly down the corridor holding a small black clutch and pushes through a plain wooden restroom door marked only with a simple pictogram, no words. Shot 2, the woman from image 2 follows a few steps behind with her handbag, hesitates at the door for a beat, then pushes it open and goes in. Hold on the door swinging shut. No on-screen text, no captions, no logos, no readable signs, no music, no change of identities, hair or wardrobe.",
+ "duration": 5,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/vivian.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/denise.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/refs/hallway.png"
+ ]
+}

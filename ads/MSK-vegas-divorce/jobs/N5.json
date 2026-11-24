@@ -1,0 +1,12 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "10-second vertical live-action scene, one plain, ordinary-looking woman alone, everyday face, not glamorous. Image 1 is the woman in her late 50s (keep her face, short ash-brown bob, tortoiseshell glasses pushed up on her head, charcoal grey ribbed turtleneck exactly; her neck shows real lines, soft skin and horizontal bands). Image 2 is the location: a courthouse public restroom with grey stall doors, marble sinks, a long mirror and flat fluorescent ceiling light; keep it exactly. Naturalistic drama look: camera on a tripod at eye level, long lens, shallow depth of field, motivated light only, slightly under-exposed, lifted blacks, true skin tones. Underplayed acting, small reactions before each reply. Dry close location sound: fluorescent buzz, a dripping tap, no music. Spoken line in American English with synced lips, barely aloud, said once exactly as written. Shot 1, medium shot in the mirror: she slowly folds the collar of her turtleneck down with both hands. Shot 2, close-up in the mirror: she looks at her own neck for a long moment, eyes glassy, no tears falling. Shot 3, close-up: barely aloud: 'Nine years. I thought it was just me.' Hold on her face. No on-screen text, no captions, no logos, no music, no change of identity, hair or wardrobe, nobody else in the room.",
+ "duration": 10,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/plates/denise.png",
+  "/home/user/ai-drama-videos/ads/MSK-vegas-divorce/refs/bathroom.png"
+ ]
+}
