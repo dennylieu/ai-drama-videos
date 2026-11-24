@@ -35,10 +35,11 @@
    "label": "the very tall, heavily muscled man about 30 (about 6'5\", huge shoulders and thick neck), short light-brown hair, stubble, deep navy blazer over an open white shirt, green wristband",
    "file": "plates/tyler.png",
    "source_frames": [
-    "film 07:12 courtroom",
-    "film 01:10 Vegas"
+    "film 02:15 witness stand",
+    "film 06:44 courtroom close-up"
    ],
-   "approved": false
+   "approved": true,
+   "made_with": "Higgsfield gpt_image_2_5 (job bf83cfaa-182f-4f4b-9000-5187b5971eaf)"
   },
   "brianna": {
    "kind": "character",
