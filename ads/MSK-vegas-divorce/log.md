@@ -18,3 +18,14 @@ Job files: `jobs/<X>.json`. Refs: vivian/denise plates + refs/courtroom.png (G1)
 | N5 | 01a20f3e-e2a0-7f37-8ace-ac3532b35ef0 | 10 | $1.18 | PASS: collar down in mirror → neck close → line 8/8 words |
 
 Total this batch $9.53 (81 s). Rule candidate: write brand names phonetically in the spoken line (MED-ee-skin); and say "exit door, not a stall door" in restrooms.
+
+## 2026-11-25 — SeedVR2 upscale + Vegas v2 assembly
+- Upscale: fal `fal-ai/seedvr/upscale/video` (target 1080p, quality high, noise 0.1, seed 20261120), $0.001/MP ≈ $4.30 for 7 clips.
+  Output is 1088x1936 and drops 2–5 frames at the END only (checked by frame alignment): cropped to 1080x1920 and
+  the raw audio cut to picture length (`clips/up/<X>/final.mp4`). N4b's download was reset; collected by request id.
+- Edit: `edit.json` (source `clips/src/marry.mp4` + new clips + cards), ASSEMBLE_FPS=30. 5:29.5, sync +14.7 ms, 25 joins,
+  speech spread 0.7 dB. The one FAIL is the black "THAT MORNING" card (intended).
+- Bridges added after continuity check: Vegas wedding ("How old are you?"… "I do") and "Nothing further. Mr. Hale."
+  Cut Vivian's unprompted product naming from restroom part 1 so the name lands once, in N4.
+- Captions: `captions-v2.ass` (TikTok Sans 80, 3–4 words, cut-aware). Chunked Whisper + per-piece re-transcription
+  for unpunctuated stretches; setup lines reused from the approved v1 captions.

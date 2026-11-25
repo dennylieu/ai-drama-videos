@@ -1,0 +1,229 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,TikTok Sans,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,5,2,80,150,670,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.89,Cap,,0,0,0,,Exhibit 15
+Dialogue: 0,0:00:01.96,0:00:03.69,Cap,,0,0,0,,born June 2nd 1965
+Dialogue: 0,0:00:03.70,0:00:04.41,Cap,,0,0,0,,She's 61
+Dialogue: 0,0:00:04.47,0:00:05.98,Cap,,0,0,0,,Look at her neck!
+Dialogue: 0,0:00:06.21,0:00:07.11,Cap,,0,0,0,,There's not a single
+Dialogue: 0,0:00:07.11,0:00:07.73,Cap,,0,0,0,,line on it!
+Dialogue: 0,0:00:09.14,0:00:09.97,Cap,,0,0,0,,34
+Dialogue: 0,0:00:10.40,0:00:11.67,Cap,,0,0,0,,You said 34
+Dialogue: 0,0:00:13.16,0:00:14.02,Cap,,0,0,0,,I never said
+Dialogue: 0,0:00:14.02,0:00:14.58,Cap,,0,0,0,,a number
+Dialogue: 0,0:00:14.58,0:00:15.21,Cap,,0,0,0,,You nodded
+Dialogue: 0,0:00:15.66,0:00:17.21,Cap,,0,0,0,,Tyler stop talking
+Dialogue: 0,0:00:20.10,0:00:21.27,Cap,,0,0,0,,Let him talk
+Dialogue: 0,0:00:21.56,0:00:22.41,Cap,,0,0,0,,It's free discovery
+Dialogue: 0,0:00:22.68,0:00:23.87,Cap,,0,0,0,,She hid her age
+Dialogue: 0,0:00:24.96,0:00:25.84,Cap,,0,0,0,,He didn't ask
+Dialogue: 0,0:00:27.54,0:00:28.99,Cap,,0,0,0,,I said old enough
+Dialogue: 0,0:00:29.42,0:00:30.07,Cap,,0,0,0,,I was
+Dialogue: 0,0:00:30.30,0:00:31.35,Cap,,0,0,0,,No prenup Marcus
+Dialogue: 0,0:00:31.48,0:00:32.26,Cap,,0,0,0,,Half of everything
+Dialogue: 0,0:00:32.26,0:00:33.28,Cap,,0,0,0,,Two hotels a jet
+Dialogue: 0,0:00:33.28,0:00:33.91,Cap,,0,0,0,,and the boat
+Dialogue: 0,0:00:34.18,0:00:35.30,Cap,,0,0,0,,Settle or the whole
+Dialogue: 0,0:00:35.30,0:00:36.67,Cap,,0,0,0,,city hears her age
+Dialogue: 0,0:00:37.18,0:00:38.09,Cap,,0,0,0,,Tell them
+Dialogue: 0,0:00:42.70,0:00:43.85,Cap,,0,0,0,,Inside Gary
+Dialogue: 0,0:00:44.50,0:00:46.07,Cap,,0,0,0,,Brooks versus Ashford
+Dialogue: 0,0:00:46.16,0:00:47.45,Cap,,0,0,0,,annulment fraud
+Dialogue: 0,0:00:47.60,0:00:48.47,Cap,,0,0,0,,Mr Priet
+Dialogue: 0,0:00:49.04,0:00:49.98,Cap,,0,0,0,,Your honor my client
+Dialogue: 0,0:00:49.98,0:00:51.37,Cap,,0,0,0,,was was deceived
+Dialogue: 0,0:00:53.16,0:00:54.60,Cap,,0,0,0,,Mrs Ashford is very
+Dialogue: 0,0:00:54.60,0:00:55.66,Cap,,0,0,0,,rich she took
+Dialogue: 0,0:00:55.66,0:00:56.72,Cap,,0,0,0,,advantage of a young
+Dialogue: 0,0:00:56.72,0:00:57.38,Cap,,0,0,0,,man in a
+Dialogue: 0,0:00:57.38,0:00:58.55,Cap,,0,0,0,,vulnerable state
+Dialogue: 0,0:00:58.84,0:01:00.19,Cap,,0,0,0,,What vulnerable state?
+Dialogue: 0,0:01:00.40,0:01:00.93,Cap,,0,0,0,,Vegas
+Dialogue: 0,0:01:01.36,0:01:02.89,Cap,,0,0,0,,How old are you?
+Dialogue: 0,0:01:03.56,0:01:04.30,Cap,,0,0,0,,Old enough to
+Dialogue: 0,0:01:04.30,0:01:05.91,Cap,,0,0,0,,that table?
+Dialogue: 0,0:01:06.56,0:01:07.41,Cap,,0,0,0,,Marry me!
+Dialogue: 0,0:01:08.36,0:01:08.97,Cap,,0,0,0,,Okay
+Dialogue: 0,0:01:09.98,0:01:11.73,Cap,,0,0,0,,Do you
+Dialogue: 0,0:01:12.40,0:01:12.99,Cap,,0,0,0,,Tyler?
+Dialogue: 0,0:01:14.98,0:01:15.75,Cap,,0,0,0,,I I do
+Dialogue: 0,0:01:16.18,0:01:17.03,Cap,,0,0,0,,I do
+Dialogue: 0,0:01:18.04,0:01:18.48,Cap,,0,0,0,,When did you
+Dialogue: 0,0:01:18.48,0:01:19.40,Cap,,0,0,0,,learn the truth?
+Dialogue: 0,0:01:20.18,0:01:21.27,Cap,,0,0,0,,Three weeks in
+Dialogue: 0,0:01:21.40,0:01:22.24,Cap,,0,0,0,,Her board sings her
+Dialogue: 0,0:01:22.24,0:01:22.96,Cap,,0,0,0,,happy birthday and
+Dialogue: 0,0:01:22.96,0:01:24.21,Cap,,0,0,0,,says hard to believe
+Dialogue: 0,0:01:24.54,0:01:25.13,Cap,,0,0,0,,Believe what?
+Dialogue: 0,0:01:27.52,0:01:28.25,Cap,,0,0,0,,And?
+Dialogue: 0,0:01:30.28,0:01:31.49,Cap,,0,0,0,,Her passport
+Dialogue: 0,0:01:31.84,0:01:32.26,Cap,,0,0,0,,I thought it
+Dialogue: 0,0:01:32.26,0:01:33.47,Cap,,0,0,0,,was a typo
+Dialogue: 0,0:01:34.62,0:01:35.28,Cap,,0,0,0,,He thought she was
+Dialogue: 0,0:01:35.28,0:01:36.24,Cap,,0,0,0,,in her 30s
+Dialogue: 0,0:01:36.24,0:01:36.80,Cap,,0,0,0,,He'd never have
+Dialogue: 0,0:01:36.80,0:01:37.70,Cap,,0,0,0,,married her
+Dialogue: 0,0:01:37.70,0:01:39.03,Cap,,0,0,0,,We want half
+Dialogue: 0,0:01:39.32,0:01:39.93,Cap,,0,0,0,,Half
+Dialogue: 0,0:01:40.00,0:01:41.25,Cap,,0,0,0,,No prenup
+Dialogue: 0,0:01:43.10,0:01:43.80,Cap,,0,0,0,,Nothing further
+Dialogue: 0,0:01:44.00,0:01:44.67,Cap,,0,0,0,,Mr Hale?
+Dialogue: 0,0:01:44.82,0:01:45.16,Cap,,0,0,0,,You said you
+Dialogue: 0,0:01:45.16,0:01:45.66,Cap,,0,0,0,,thought she was
+Dialogue: 0,0:01:45.66,0:01:46.67,Cap,,0,0,0,,in her thirties
+Dialogue: 0,0:01:46.86,0:01:47.26,Cap,,0,0,0,,You woke up
+Dialogue: 0,0:01:47.26,0:01:47.70,Cap,,0,0,0,,next to that
+Dialogue: 0,0:01:47.70,0:01:48.48,Cap,,0,0,0,,face every morning
+Dialogue: 0,0:01:48.48,0:01:50.85,Cap,,0,0,0,,Let's look at it
+Dialogue: 0,0:01:54.78,0:01:55.43,Cap,,0,0,0,,Daylight
+Dialogue: 0,0:01:55.82,0:01:56.65,Cap,,0,0,0,,No makeup
+Dialogue: 0,0:01:57.04,0:01:58.03,Cap,,0,0,0,,Looking down
+Dialogue: 0,0:02:00.96,0:02:01.50,Cap,,0,0,0,,She doesn't have
+Dialogue: 0,0:02:01.50,0:02:02.21,Cap,,0,0,0,,a good side
+Dialogue: 0,0:02:02.52,0:02:03.04,Cap,,0,0,0,,Objection!
+Dialogue: 0,0:02:03.04,0:02:04.07,Cap,,0,0,0,,Every side is what?
+Dialogue: 0,0:02:04.74,0:02:05.68,Cap,,0,0,0,,Allowed Good!
+Dialogue: 0,0:02:05.68,0:02:06.95,Cap,,0,0,0,,Every side is good!
+Dialogue: 0,0:02:09.12,0:02:10.05,Cap,,0,0,0,,No scarf
+Dialogue: 0,0:02:10.36,0:02:11.33,Cap,,0,0,0,,no high collar
+Dialogue: 0,0:02:11.60,0:02:12.89,Cap,,0,0,0,,never a chin-up selfie
+Dialogue: 0,0:02:13.42,0:02:14.20,Cap,,0,0,0,,Every angle
+Dialogue: 0,0:02:14.22,0:02:14.99,Cap,,0,0,0,,every light
+Dialogue: 0,0:02:15.48,0:02:16.47,Cap,,0,0,0,,She hid nothing
+Dialogue: 0,0:02:17.34,0:02:18.30,Cap,,0,0,0,,Exhibit 15
+Dialogue: 0,0:02:18.30,0:02:20.06,Cap,,0,0,0,,Born June 2nd 1965
+Dialogue: 0,0:02:20.06,0:02:20.93,Cap,,0,0,0,,She's 61
+Dialogue: 0,0:02:23.14,0:02:24.55,Cap,,0,0,0,,Who took exhibit 14?
+Dialogue: 0,0:02:25.26,0:02:25.77,Cap,,0,0,0,,Brianna
+Dialogue: 0,0:02:26.94,0:02:27.96,Cap,,0,0,0,,Her assistant sitting
+Dialogue: 0,0:02:27.96,0:02:28.50,Cap,,0,0,0,,behind you
+Dialogue: 0,0:02:28.50,0:02:29.55,Cap,,0,0,0,,Recess Your Honor!
+Dialogue: 0,0:02:30.00,0:02:31.33,Cap,,0,0,0,,15 minutes
+Dialogue: 0,0:02:38.94,0:02:40.47,Cap,,0,0,0,,Mrs Ashford 61
+Dialogue: 0,0:02:41.20,0:02:42.01,Cap,,0,0,0,,In June
+Dialogue: 0,0:02:43.28,0:02:44.15,Cap,,0,0,0,,Neck creams
+Dialogue: 0,0:02:44.76,0:02:45.83,Cap,,0,0,0,,retinol A
+Dialogue: 0,0:02:46.04,0:02:46.89,Cap,,0,0,0,,red light
+Dialogue: 0,0:02:47.10,0:02:47.99,Cap,,0,0,0,,microneedling
+Dialogue: 0,0:02:48.12,0:02:49.50,Cap,,0,0,0,,Ultherapy jars that
+Dialogue: 0,0:02:49.50,0:02:50.32,Cap,,0,0,0,,cost more than a
+Dialogue: 0,0:02:50.32,0:02:51.37,Cap,,0,0,0,,weekend at the Wynn
+Dialogue: 0,0:02:51.86,0:02:52.43,Cap,,0,0,0,,And?
+Dialogue: 0,0:02:54.28,0:02:55.00,Cap,,0,0,0,,And every
+Dialogue: 0,0:02:55.00,0:02:55.89,Cap,,0,0,0,,Every morning
+Dialogue: 0,0:02:56.16,0:02:56.76,Cap,,0,0,0,,the bands are
+Dialogue: 0,0:02:56.76,0:02:57.73,Cap,,0,0,0,,still there
+Dialogue: 0,0:02:58.14,0:02:58.64,Cap,,0,0,0,,By the noon
+Dialogue: 0,0:02:58.64,0:02:59.74,Cap,,0,0,0,,zoom I'm sticking
+Dialogue: 0,0:02:59.74,0:03:00.93,Cap,,0,0,0,,my chin out
+Dialogue: 0,0:03:01.26,0:03:02.12,Cap,,0,0,0,,By night it's all
+Dialogue: 0,0:03:02.12,0:03:03.30,Cap,,0,0,0,,I can see
+Dialogue: 0,0:03:04.92,0:03:05.84,Cap,,0,0,0,,You understand why I
+Dialogue: 0,0:03:05.84,0:03:06.30,Cap,,0,0,0,,need to know what
+Dialogue: 0,0:03:06.30,0:03:06.86,Cap,,0,0,0,,you've done
+Dialogue: 0,0:03:06.86,0:03:07.32,Cap,,0,0,0,,You think I had
+Dialogue: 0,0:03:07.32,0:03:08.69,Cap,,0,0,0,,a lift or filler?
+Dialogue: 0,0:03:08.74,0:03:09.54,Cap,,0,0,0,,I didn't
+Dialogue: 0,0:03:09.54,0:03:10.63,Cap,,0,0,0,,I had your list
+Dialogue: 0,0:03:10.84,0:03:11.57,Cap,,0,0,0,,Every jar
+Dialogue: 0,0:03:12.68,0:03:13.87,Cap,,0,0,0,,I've tried neck creams
+Dialogue: 0,0:03:14.34,0:03:15.03,Cap,,0,0,0,,So had I
+Dialogue: 0,0:03:15.38,0:03:16.67,Cap,,0,0,0,,Expensive neck creams
+Dialogue: 0,0:03:16.74,0:03:18.11,Cap,,0,0,0,,So had I
+Dialogue: 0,0:03:18.64,0:03:19.60,Cap,,0,0,0,,Retinol A?
+Dialogue: 0,0:03:20.46,0:03:21.33,Cap,,0,0,0,,Too much
+Dialogue: 0,0:03:21.80,0:03:22.36,Cap,,0,0,0,,My serum has
+Dialogue: 0,0:03:22.36,0:03:23.27,Cap,,0,0,0,,EGF too
+Dialogue: 0,0:03:23.68,0:03:24.33,Cap,,0,0,0,,In a cream?
+Dialogue: 0,0:03:25.50,0:03:26.17,Cap,,0,0,0,,Yes
+Dialogue: 0,0:03:26.52,0:03:26.94,Cap,,0,0,0,,Then it sat
+Dialogue: 0,0:03:26.94,0:03:27.71,Cap,,0,0,0,,on top
+Dialogue: 0,0:03:27.78,0:03:28.77,Cap,,0,0,0,,Give me your hand
+Dialogue: 0,0:03:33.54,0:03:34.70,Cap,,0,0,0,,Where did it go?
+Dialogue: 0,0:03:35.58,0:03:36.21,Cap,,0,0,0,,In
+Dialogue: 0,0:03:36.80,0:03:37.38,Cap,,0,0,0,,Then why didn't
+Dialogue: 0,0:03:37.38,0:03:38.03,Cap,,0,0,0,,mine work?
+Dialogue: 0,0:03:38.38,0:03:39.50,Cap,,0,0,0,,It sat on top
+Dialogue: 0,0:03:39.50,0:03:40.12,Cap,,0,0,0,,Most of it ended
+Dialogue: 0,0:03:40.12,0:03:40.99,Cap,,0,0,0,,up in here
+Dialogue: 0,0:03:42.54,0:03:43.04,Cap,,0,0,0,,I didn't believe
+Dialogue: 0,0:03:43.04,0:03:43.69,Cap,,0,0,0,,it either
+Dialogue: 0,0:03:43.80,0:03:44.44,Cap,,0,0,0,,First night nothing
+Dialogue: 0,0:03:44.44,0:03:45.00,Cap,,0,0,0,,on my pillow
+Dialogue: 0,0:03:45.00,0:03:46.32,Cap,,0,0,0,,How long have you
+Dialogue: 0,0:03:46.32,0:03:47.29,Cap,,0,0,0,,been on it?
+Dialogue: 0,0:03:47.34,0:03:48.49,Cap,,0,0,0,,Since before Vegas
+Dialogue: 0,0:03:48.72,0:03:49.46,Cap,,0,0,0,,The bands went soft
+Dialogue: 0,0:03:49.46,0:03:50.39,Cap,,0,0,0,,in four weeks
+Dialogue: 0,0:03:51.68,0:03:52.40,Cap,,0,0,0,,I have a consult
+Dialogue: 0,0:03:52.40,0:03:53.57,Cap,,0,0,0,,for a neck lift
+Dialogue: 0,0:03:53.62,0:03:54.17,Cap,,0,0,0,,March
+Dialogue: 0,0:03:54.68,0:03:55.36,Cap,,0,0,0,,Two weeks sleeping
+Dialogue: 0,0:03:55.36,0:03:56.30,Cap,,0,0,0,,sitting up in
+Dialogue: 0,0:03:56.30,0:03:57.20,Cap,,0,0,0,,a compression wrap
+Dialogue: 0,0:03:57.74,0:03:58.04,Cap,,0,0,0,,And a
+Dialogue: 0,0:03:58.04,0:03:58.83,Cap,,0,0,0,,serum's different?
+Dialogue: 0,0:03:59.18,0:04:00.20,Cap,,0,0,0,,Creams sit on top
+Dialogue: 0,0:04:00.20,0:04:01.20,Cap,,0,0,0,,This goes in
+Dialogue: 0,0:04:01.56,0:04:02.40,Cap,,0,0,0,,What does it cost?
+Dialogue: 0,0:04:02.76,0:04:03.71,Cap,,0,0,0,,Twenty a bottle
+Dialogue: 0,0:04:07.14,0:04:07.82,Cap,,0,0,0,,Five minutes
+Dialogue: 0,0:04:07.82,0:04:08.67,Cap,,0,0,0,,Mrs Ashford
+Dialogue: 0,0:04:09.06,0:04:09.48,Cap,,0,0,0,,What if it
+Dialogue: 0,0:04:09.48,0:04:10.23,Cap,,0,0,0,,doesn't work on
+Dialogue: 0,0:04:11.22,0:04:12.48,Cap,,0,0,0,,90 days they
+Dialogue: 0,0:04:12.48,0:04:13.51,Cap,,0,0,0,,refund you
+Dialogue: 0,0:04:13.54,0:04:14.27,Cap,,0,0,0,,What's it called?
+Dialogue: 0,0:04:15.28,0:04:16.90,Cap,,0,0,0,,Mediskiin. Two I's
+Dialogue: 0,0:04:28.00,0:04:28.91,Cap,,0,0,0,,Nine years
+Dialogue: 0,0:04:29.32,0:04:29.84,Cap,,0,0,0,,I thought it
+Dialogue: 0,0:04:29.84,0:04:30.93,Cap,,0,0,0,,was just me
+Dialogue: 0,0:04:33.96,0:04:35.17,Cap,,0,0,0,,Back in session
+Dialogue: 0,0:04:35.68,0:04:37.26,Cap,,0,0,0,,A $5 million life
+Dialogue: 0,0:04:37.26,0:04:38.30,Cap,,0,0,0,,insurance policy on my
+Dialogue: 0,0:04:38.30,0:04:39.24,Cap,,0,0,0,,client taken out nine
+Dialogue: 0,0:04:39.24,0:04:40.39,Cap,,0,0,0,,days after the wedding
+Dialogue: 0,0:04:40.48,0:04:41.32,Cap,,0,0,0,,Beneficiary Tyler
+Dialogue: 0,0:04:41.32,0:04:41.63,Cap,,0,0,0,,Brooks
+Dialogue: 0,0:04:41.73,0:04:43.28,Cap,,0,0,0,,Who drives the boat?
+Dialogue: 0,0:04:43.91,0:04:44.62,Cap,,0,0,0,,I do
+Dialogue: 0,0:04:45.03,0:04:45.37,Cap,,0,0,0,,Who poured
+Dialogue: 0,0:04:45.37,0:04:46.20,Cap,,0,0,0,,the champagne?
+Dialogue: 0,0:04:46.65,0:04:47.37,Cap,,0,0,0,,I did
+Dialogue: 0,0:04:47.63,0:04:48.05,Cap,,0,0,0,,Who switched
+Dialogue: 0,0:04:48.05,0:04:48.82,Cap,,0,0,0,,the glasses?
+Dialogue: 0,0:04:49.31,0:04:49.70,Cap,,0,0,0,,She did
+Dialogue: 0,0:04:50.50,0:04:51.60,Cap,,0,0,0,,Why kill a woman
+Dialogue: 0,0:04:51.60,0:04:52.95,Cap,,0,0,0,,you thought was 34?
+Dialogue: 0,0:04:54.08,0:04:54.67,Cap,,0,0,0,,Why?
+Dialogue: 0,0:04:54.88,0:04:55.91,Cap,,0,0,0,,Look at her neck!
+Dialogue: 0,0:04:56.12,0:04:57.02,Cap,,0,0,0,,There's not a single
+Dialogue: 0,0:04:57.02,0:04:57.99,Cap,,0,0,0,,line on it!
+Dialogue: 0,0:04:58.00,0:04:59.62,Cap,,0,0,0,,She's 61 and she's
+Dialogue: 0,0:04:59.62,0:05:00.69,Cap,,0,0,0,,gonna live forever!
+Dialogue: 0,0:05:01.74,0:05:03.09,Cap,,0,0,0,,So you always knew
+Dialogue: 0,0:05:04.66,0:05:05.18,Cap,,0,0,0,,You just got
+Dialogue: 0,0:05:05.18,0:05:06.15,Cap,,0,0,0,,tired of waiting
+Dialogue: 0,0:05:07.18,0:05:08.07,Cap,,0,0,0,,Tyler Brooks
+Dialogue: 0,0:05:08.42,0:05:09.07,Cap,,0,0,0,,FBI
+Dialogue: 0,0:05:11.10,0:05:11.70,Cap,,0,0,0,,You're under arrest
+Dialogue: 0,0:05:11.70,0:05:12.28,Cap,,0,0,0,,for the attempted
+Dialogue: 0,0:05:12.28,0:05:12.70,Cap,,0,0,0,,murder of
+Dialogue: 0,0:05:12.70,0:05:13.73,Cap,,0,0,0,,Vivian Ashford
+Dialogue: 0,0:05:15.10,0:05:16.43,Cap,,0,0,0,,Brianna Cole you too
+Dialogue: 0,0:05:17.02,0:05:18.07,Cap,,0,0,0,,But I flipped
+Dialogue: 0,0:05:18.38,0:05:19.15,Cap,,0,0,0,,Tell the U.S
+Dialogue: 0,0:05:19.26,0:05:19.56,Cap,,0,0,0,,Attorney
+Dialogue: 0,0:05:20.28,0:05:20.82,Cap,,0,0,0,,You were supposed
+Dialogue: 0,0:05:20.82,0:05:21.63,Cap,,0,0,0,,to be old
+Dialogue: 0,0:05:22.36,0:05:23.17,Cap,,0,0,0,,I am
