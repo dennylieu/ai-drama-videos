@@ -29,3 +29,5 @@ Total this batch $9.53 (81 s). Rule candidate: write brand names phonetically in
   Cut Vivian's unprompted product naming from restroom part 1 so the name lands once, in N4.
 - Captions: `captions-v2.ass` (TikTok Sans 80, 3–4 words, cut-aware). Chunked Whisper + per-piece re-transcription
   for unpunctuated stretches; setup lines reused from the approved v1 captions.
+- 2026-11-25 v2b: restored "Your honor, we're countersuing" (src 235.13–239.22) and "this is what we call a murder-for-profit
+  scheme" (policy piece out 252.95 → 256.38). 5:37, sync +12.0 ms, 26 joins; captions merged and shifted +7.53 s after 4:35.
