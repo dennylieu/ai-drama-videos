@@ -1,0 +1,13 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "6-second vertical live-action scene, one continuous moment at night on Christmas Eve, a plain ordinary family, everyday faces. Image 1 is the woman (keep her face exactly: she is 63 but looks mid-30s; long wavy brown hair with blonde highlights, burgundy V-neck sweater, a white towel over one shoulder). Image 2 is the boy about 10 (keep his face exactly: tousled light-brown hair, green, red and cream Fair Isle sweater). Image 3 is the location: the upstairs hallway of a warm family home with framed photos, a runner rug and a white banister, the bathroom door open at the side; keep it exactly. Naturalistic family-comedy look: eye-level camera, shallow depth of field, warm lamp light only, true skin tones, burgundy, cream and green palette. Sound: a muffled thump and a man grumbling downstairs, quiet house, no music. Spoken dialogue in American English with synced lips, each line said once exactly as written. Shot 1, medium two-shot in the hallway: the boy from image 2, whispering, urgent, glancing toward the stairs: 'We need something slippery for the stairs.' Shot 2, close-up of the woman from image 1: a beat, then she turns her head slowly and looks at the open bathroom door, a small knowing smile: 'I have twenty-three somethings.' Hold on her face. No on-screen text, no captions, no logos, no music, no change of identities, hair or wardrobe, nobody else in frame.",
+ "duration": 6,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/evy.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/noah.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/refs/hallway.png"
+ ]
+}

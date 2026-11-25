@@ -1,0 +1,13 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "5-second vertical live-action scene, one continuous moment at night on Christmas Eve, plain ordinary people, everyday faces. Image 1 is the boy about 10 (keep his face exactly: tousled light-brown hair, green, red and cream Fair Isle sweater). Image 2 is (keep her face exactly: about 60 and looks her age, shoulder-length ash-blonde hair, cream knit turtleneck sweater, red plaid scarf wrapped high around her neck; real lines on her neck and jaw). Image 3 is the location: the dark front door of a family home, open onto a snowy porch with Christmas lights; keep it exactly. Naturalistic family-comedy look: eye-level camera, shallow depth of field, warm lamp and firelight only, true skin tones, burgundy, cream and green palette. Sound: wind, snow, distant carolers, no music. Spoken dialogue in American English with synced lips, natural pace, each line said once exactly as written. Shot 1, from inside the hallway: the boy from image 1 pulls the front door open, delighted: 'Aunt Carol!' Shot 2, medium shot on the snowy porch: the woman from image 2 holding a lattice-top pie in both hands, snow on her shoulders, warm smile: 'Merry Christmas, kiddo.' Hold. No on-screen text, no captions, no logos, no readable label, no music, no change of identities, hair or wardrobe.",
+ "duration": 5,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/noah.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/carol.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/refs/front_door.png"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "6-second vertical live-action scene, one continuous moment at night on Christmas Eve, two plain ordinary sisters, everyday faces. Image 1 is the woman from image 1 (keep her face exactly: she is 63 but looks mid-30s; long wavy brown hair with blonde highlights, burgundy V-neck sweater, a white towel over one shoulder). Image 2 is the woman from image 2 (keep her face exactly: about 60 and looks her age, shoulder-length ash-blonde hair, cream knit turtleneck sweater, red plaid scarf wrapped high around her neck; real lines on her neck and jaw). Image 3 is the location: a cozy living room couch at night with a lit fireplace and Christmas garlands behind, a coffee table with two dough bowls and a basket of bread rolls; keep it exactly. Naturalistic family-comedy look: eye-level camera, shallow depth of field, warm lamp and firelight only, true skin tones, burgundy, cream and green palette. Sound: crackling fire, quiet room, no music. Spoken dialogue in American English with synced lips, natural pace, each line said once exactly as written. Shot 1, close-up of the woman from image 2 on the couch, curious, quiet: 'How long did it take, sis?' Shot 2, close-up of the woman from image 1 beside her, simply: 'Started in October. Eight weeks.' Shot 3, close-up of the woman from image 2 touching the scarf at her neck, thinking. Hold. No on-screen text, no captions, no logos, no readable label, no music, no change of identities, hair or wardrobe.",
+ "duration": 6,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/evy.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/carol.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/refs/couch.png"
+ ]
+}

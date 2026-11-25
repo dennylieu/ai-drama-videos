@@ -44,7 +44,7 @@ Cast (plates are pulled from v8 frames before generating):
 2. EVY: "It took me eight weeks. You get ninety days."
 3. EVY: "Love the mirror, or send it back."
 4. CAROL, pulling the scarf off: "This year, I'm in the picture."
-5. EVY: "It's made in small batches. Tap the link."
+5. EVY: "It's made in small batches and sells out instantly. Tap the link."
 6. Hold on both, smiling.
 
 ## Bridge check

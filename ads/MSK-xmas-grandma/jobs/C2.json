@@ -1,0 +1,14 @@
+{
+ "model": "bytedance/seedance-2.5/reference-to-video",
+ "prompt": "15-second vertical live-action scene, one continuous moment at night on Christmas Eve, two plain ordinary sisters on a couch, everyday faces. Image 1 is the woman from image 1 (keep her face exactly: she is 63 but looks mid-30s; long wavy brown hair with blonde highlights, burgundy V-neck sweater, a white towel over one shoulder). Image 2 is the woman from image 2 (keep her face exactly: about 60 and looks her age, shoulder-length ash-blonde hair, cream knit turtleneck sweater, red plaid scarf wrapped high around her neck; real lines on her neck and jaw). Image 3 is the location: a cozy living room couch at night with a lit fireplace and Christmas garlands behind, a coffee table with two dough bowls and a basket of bread rolls; keep it exactly. Image 4 shows the small red glass dropper bottle of serum; same bottle, label turned away from camera. Naturalistic family-comedy look: eye-level camera, shallow depth of field, warm lamp and firelight only, true skin tones, burgundy, cream and green palette. Sound: crackling fire, no music. Spoken dialogue in American English with synced lips, natural pace, each line said once exactly as written. Shot 1, medium shot: the woman from image 1 holding the red bottle from image 4, to camera: 'Two or three drops, morning and night. No needles.' Shot 2, close-up, to camera: 'It took me eight weeks. You get ninety days.' Shot 3, close-up, to camera: 'Love the mirror, or send it back.' Shot 4, the woman from image 2 unwinds the plaid scarf from her neck and drops it on the couch, smiling at the camera: 'This year, I'm in the picture.' Shot 5, the woman from image 1, to camera: 'It's made in small batches and sells out instantly. Tap the link.' Shot 6, two-shot, both smiling at the camera, held. No on-screen text, no captions, no logos, no readable label, no music, no change of identities, hair or wardrobe.",
+ "duration": 15,
+ "aspect_ratio": "9:16",
+ "draft": true,
+ "generate_audio": true,
+ "images": [
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/evy.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/plates/carol.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/refs/couch.png",
+  "/home/user/ai-drama-videos/ads/MSK-xmas-grandma/refs/product.png"
+ ]
+}
