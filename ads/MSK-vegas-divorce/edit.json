@@ -1,0 +1,156 @@
+{
+ "code": "VEGAS-v2",
+ "loudness": -14,
+ "hooks": {
+  "A": [
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 173.3,
+    "out": 177.77,
+    "_": "HOOK: Exhibit 15. Born June 2nd 1965. She's 61."
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 322.8,
+    "out": 326.07,
+    "_": "HOOK: Look at her neck. There's not a single line on it."
+   },
+   {
+    "image": "stills/card_that_morning.png",
+    "dur": 1.4,
+    "push": false,
+    "_": "bridge card"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 0.0,
+    "out": 24.77,
+    "_": "setup: 34! You said 34! ... and the boat"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 28.83,
+    "out": 55.93,
+    "_": "setup: settle or the whole city hears her age / Inside, Gary / court intro ... Vegas"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 81.17,
+    "out": 97.3,
+    "_": "BRIDGE: Vegas wedding - how old are you? old enough... marry me... I do"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 97.3,
+    "out": 124.62,
+    "_": "testimony ... no prenup / Nothing further. Mr. Hale."
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 139.63,
+    "out": 163.6,
+    "_": "cross: you woke up next to that face ... every side is good"
+   },
+   {
+    "clip": "clips/edit/G1_over.mp4",
+    "level": true,
+    "_": "G1 picture over source audio 163.60-169.64 (No scarf. No high collar...)"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 169.433,
+    "out": 171.7,
+    "_": "cross: ...she hid nothing"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 173.3,
+    "out": 177.77,
+    "_": "Exhibit 15 (pays off the cold open)"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 181.3,
+    "out": 191.13,
+    "_": "Who took exhibit 14? Brianna ... Recess, 15 minutes"
+   },
+   {
+    "clip": "clips/up/G2/final.mp4",
+    "trim_end": 0.05,
+    "_": "hallway bridge into restroom"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 357.2,
+    "out": 392.8,
+    "_": "restroom part 1: 61 in June ... I had your list. Every jar. (name line cut)"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 400.5,
+    "out": 410.57,
+    "_": "restroom part 1: I've tried neck creams ... Retinol. Too much."
+   },
+   {
+    "clip": "clips/up/N1/final.mp4",
+    "trim_end": 0.05,
+    "_": "N1 demo"
+   },
+   {
+    "clip": "clips/up/N2/final.mp4",
+    "trim_end": 0.05,
+    "_": "N2"
+   },
+   {
+    "clip": "clips/up/N3/final.mp4",
+    "trim_end": 0.05,
+    "_": "N3"
+   },
+   {
+    "clip": "clips/up/N4b/final.mp4",
+    "trim_end": 0.05,
+    "_": "N4 name + guarantee"
+   },
+   {
+    "clip": "clips/up/N5/final.mp4",
+    "trim_end": 0.05,
+    "_": "N5 emotional close"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 227.47,
+    "out": 232.13,
+    "_": "Back in session"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 246.9,
+    "out": 252.95,
+    "_": "insurance policy, beneficiary Tyler Brooks"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 305.03,
+    "out": 313.1,
+    "_": "Who drives the boat? ... who switched the glasses? She did."
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 318.13,
+    "out": 329.17,
+    "_": "Why kill a woman you thought was 34? Look at her neck ... live forever"
+   },
+   {
+    "clip": "clips/src/marry.mp4",
+    "in": 334.43,
+    "out": 357.2,
+    "_": "FBI arrest ... you were supposed to be old. I am."
+   },
+   {
+    "image": "stills/offer_card.png",
+    "dur": 6.0,
+    "_": "offer card"
+   }
+  ]
+ }
+}
