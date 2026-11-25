@@ -1,0 +1,86 @@
+{
+ "code": "XMAS-v8b",
+ "loudness": -14,
+ "hooks": {
+  "A": [
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 24.25,
+    "out": 40.62,
+    "_": "COLD OPEN: Grandma? ... no way you're his grandmother ... Sixty-three. How old are your manners?"
+   },
+   {
+    "image": "stills/card_ten_minutes_earlier.png",
+    "dur": 1.4,
+    "push": false,
+    "_": "card"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 0.0,
+    "out": 24.25,
+    "_": "doorbell, cheese, Handsome Bandit news"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 40.62,
+    "out": 131.208,
+    "_": "Sixty-three? Stop flirting ... traps ... You weren't in last year's picture"
+   },
+   {
+    "clip": "clips/edit/P4_last_christmas.mp4",
+    "_": "flashback with LAST CHRISTMAS overlay ... Easier than being in it"
+   },
+   {
+    "clip": "clips/edit/X1_cap.mp4",
+    "_": "BRIDGE: something slippery / twenty-three somethings"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 145.62,
+    "out": 225.62,
+    "_": "cabinet ... bows ... make an effort"
+   },
+   {
+    "clip": "clips/edit/X2_cap.mp4",
+    "_": "BRIDGE: Aunt Carol! / Merry Christmas, kiddo"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 225.62,
+    "out": 352.12,
+    "_": "I know I'm early ... Not your fault."
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 361.35,
+    "out": 424.08,
+    "_": "menopause 30% ... dough/yeast ... big ones can't keep up"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 428.12,
+    "out": 460.42,
+    "_": "Mediskiin EGF + NAD ... trial ... Amazon ... replaced the whole shelf"
+   },
+   {
+    "clip": "clips/edit/X3_cap.mp4",
+    "_": "TIMELINE: How long did it take, sis? / Eight weeks"
+   },
+   {
+    "clip": "clips/src/v8.mp4",
+    "in": 470.167,
+    "out": 527.8,
+    "_": "People noticed ... price ... police ... family picture ... card"
+   },
+   {
+    "clip": "clips/edit/C1_cap.mp4",
+    "_": "CLOSE 1"
+   },
+   {
+    "clip": "clips/edit/C2_cap.mp4",
+    "_": "CLOSE 2"
+   }
+  ]
+ }
+}

@@ -14,3 +14,11 @@ Decisions 2026-11-25: trial line stays (brand has the study); no offer card or o
 | C2 | 01a2111b-7c1d-742a-be2e-72c04bd59054 | 15 | $1.77 | PASS: all lines; Carol unwinds scarf on "This year, I'm in the picture" |
 
 Generation total $5.55 (47 s), no re-rolls.
+
+## 2026-11-25 upscale + assembly (v8b)
+- SeedVR2 (fal, same settings as Vegas) on X1–C2: 47 s ≈ $2.30. Dropped tail frames padded with the last frame (tpad clone) so no audio is trimmed.
+- New-clip captions matched to v8's burned-in style: TikTok Sans 110, bottom edge y=1400 (`clips/edit/cap_*.ass`).
+- `edit.json`: cold open (24.25–40.62) → "TEN MINUTES EARLIER" → 0–24.25 → … → LAST CHRISTMAS overlay (131.2) → X1 → … → X2 →
+  … → cut "signal and fuel" (352.12–361.35) → cut "crew / power" (424.08–428.12) → X3 → cut stranger inserts (460.42–470.17)
+  → old close cut at 527.80 → C1 → C2. Result 9:13, sync +9.7 ms, 14 joins clean by transcript, speech spread 0.0 dB.
+- Known leftover: the existing 7:08 line still says "Metiskeine" (old footage); the new close says it right and spells it.
