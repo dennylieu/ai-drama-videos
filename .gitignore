@@ -14,3 +14,4 @@ __pycache__/
 # local secrets (never commit)
 .env.local
 .env
+ads/**/work_assemble/
