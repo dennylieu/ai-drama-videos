@@ -31,3 +31,4 @@ Total this batch $9.53 (81 s). Rule candidate: write brand names phonetically in
   for unpunctuated stretches; setup lines reused from the approved v1 captions.
 - 2026-11-25 v2b: restored "Your honor, we're countersuing" (src 235.13–239.22) and "this is what we call a murder-for-profit
   scheme" (policy piece out 252.95 → 256.38). 5:37, sync +12.0 ms, 26 joins; captions merged and shifted +7.53 s after 4:35.
+- 2026-11-25 v2c: offer card removed at the user's request (5:31, sync +17.3 ms).
