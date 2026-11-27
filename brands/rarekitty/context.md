@@ -22,3 +22,17 @@ gitignored as media).
 - Whether "1M+ sold" and the Nancy K. review are substantiated (needed before we repeat them in ads).
 - Never-claim list (e.g. no "plumping", no long-wear hours, no "works for everyone").
 - Inventory status before spending.
+
+## Owner's Brazilify brief (2026-11-27): `brazilify.md`
+Source of truth for mechanism and claims: "The Paint Creep" (lipstick is paint, a film that cracks and creeps into lip
+lines) → "Dual-Reactive pH + Thermochromic Color Shift" (goes on clear, reacts with lip pH and warmth → your own rose;
+"it stains, it doesn't paint"). One analogy: paint vs stain on old wood. Close: "Stop painting your lips."
+Truth rules: no "natural / dye-free / clean / hypoallergenic"; no clinical or invented stats; proof = on-camera demo +
+guarantee; Amazon quotes are another seller's customers (research only). Offer per brief: Buy 2 Get 1 Free, Buy 3 Get 2
+Free, free shipping + keychain bag on 2+, 30-day full refund; price placeholder $24.99 (Shopify live: $28.99).
+
+### Conflicts to resolve
+- Price: brief $24.99 (placeholder) vs Shopify $28.99.
+- The live PDP shows "1M+ sold", "Developed by Korean Beauty Experts" and a 5-star "Nancy K." review; the brief says there
+  are no verified stats, no verified origin and no own reviews yet. Don't use any of these in ads until verified.
+- Lose-by-waiting (#17) has no real reason yet.
