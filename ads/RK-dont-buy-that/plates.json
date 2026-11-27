@@ -1,0 +1,8 @@
+{
+ "_note": "Cast plates generated 2026-11-27 with fal-ai/nano-banana-pro (2K, 9:16), candid unretouched phone-photo style. Images gitignored (plates/). approved=true only after the user approves.",
+ "plates": {
+  "ruth_before": {"label": "RUTH, 61, plain face, shoulder-length dark-blonde hair going grey, oatmeal cardigan over navy top, silver watch; red lipstick feathered into lip lines, liner ring, cracked centre", "file": "plates/ruth_before.png", "source": "nano-banana-pro option A", "approved": false},
+  "ruth_after":  {"label": "same RUTH, soft sheer rose stain, clean edges, warmer light", "file": "plates/ruth_after.png", "source": "nano-banana-pro/edit of ruth_before, option B", "approved": false},
+  "june":        {"label": "JUNE, 71, short silver hair, lined warm face, small gold hoops, camel wool coat over cream sweater, brown leather bag; soft natural rose lips with crisp edges", "file": "plates/june.png", "source": "nano-banana-pro option A", "approved": false}
+ }
+}
