@@ -36,3 +36,17 @@ Free, free shipping + keychain bag on 2+, 30-day full refund; price placeholder 
 - The live PDP shows "1M+ sold", "Developed by Korean Beauty Experts" and a 5-star "Nancy K." review; the brief says there
   are no verified stats, no verified origin and no own reviews yet. Don't use any of these in ads until verified.
 - Lose-by-waiting (#17) has no real reason yet.
+
+## Live offer on rarekitty.com (checked 2026-11-27; supersedes the brief's placeholders)
+| Offer | Price | Per tube | Extras |
+|---|---|---|---|
+| Buy 1 | $28.99 (was $39.99, "save 27%") | $28.99 | none |
+| Buy 2, Get 1 Free (Most popular) | $57.98 for 3 (was $119.97) | $19.32 | free shipping, keychain travel bag |
+| Buy 3, Get 2 Free (Best value) | $86.97 for 5 (was $199.95) | $17.39 | free shipping, keychain travel bag |
+| Subscribe & save | extra 25% off, delivered monthly, skip or cancel anytime | single: $21.74 | Shopify selling plan "Deliver every month, 25% off" |
+If the 25% stacks on the bundles (the page shows it under the bundle picker; confirm at checkout): Buy 2 Get 1 ≈ $43.49
+($14.50/tube); Buy 3 Get 2 ≈ $65.23 ($13.05/tube).
+- **Guarantee: 90-day money-back** (the brief said 30; the site says 90; use 90).
+- Shipping: ships in 1–2 business days, US delivery usually 10–15 business days. Never promise "in time for Christmas".
+- Other claims on the page to verify before ad use: "Over 3M Views on Facebook"; an email pop-up game "UP TO 70% OFF"
+  (doesn't match the 27–56% ladder).
