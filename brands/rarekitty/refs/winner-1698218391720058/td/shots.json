@@ -1,0 +1,1214 @@
+[
+ {
+  "shot": 1,
+  "start": 0.0,
+  "end": 0.9,
+  "dur": 0.9,
+  "frames": [
+   "frames/s01_a.jpg",
+   "frames/s01_m.jpg",
+   "frames/s01_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 2,
+  "start": 0.9,
+  "end": 1.63,
+  "dur": 0.73,
+  "frames": [
+   "frames/s02_a.jpg",
+   "frames/s02_m.jpg",
+   "frames/s02_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 3,
+  "start": 1.63,
+  "end": 4.43,
+  "dur": 2.8,
+  "frames": [
+   "frames/s03_a.jpg",
+   "frames/s03_m.jpg",
+   "frames/s03_z.jpg"
+  ],
+  "words": "Excuse me, ma'am. Don't buy that."
+ },
+ {
+  "shot": 4,
+  "start": 4.43,
+  "end": 5.83,
+  "dur": 1.4,
+  "frames": [
+   "frames/s04_a.jpg",
+   "frames/s04_m.jpg",
+   "frames/s04_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 5,
+  "start": 5.83,
+  "end": 7.37,
+  "dur": 1.53,
+  "frames": [
+   "frames/s05_a.jpg",
+   "frames/s05_m.jpg",
+   "frames/s05_z.jpg"
+  ],
+  "words": "I'm sorry."
+ },
+ {
+  "shot": 6,
+  "start": 7.37,
+  "end": 9.33,
+  "dur": 1.97,
+  "frames": [
+   "frames/s06_a.jpg",
+   "frames/s06_m.jpg",
+   "frames/s06_z.jpg"
+  ],
+  "words": "Please don't waste your money on that."
+ },
+ {
+  "shot": 7,
+  "start": 9.33,
+  "end": 12.57,
+  "dur": 3.23,
+  "frames": [
+   "frames/s07_a.jpg",
+   "frames/s07_m.jpg",
+   "frames/s07_z.jpg"
+  ],
+  "words": "This is what I use. I've been using it for six months."
+ },
+ {
+  "shot": 8,
+  "start": 12.57,
+  "end": 15.53,
+  "dur": 2.97,
+  "frames": [
+   "frames/s08_a.jpg",
+   "frames/s08_m.jpg",
+   "frames/s08_z.jpg"
+  ],
+  "words": "Six months? And has anything changed?"
+ },
+ {
+  "shot": 9,
+  "start": 15.53,
+  "end": 17.43,
+  "dur": 1.9,
+  "frames": [
+   "frames/s09_a.jpg",
+   "frames/s09_m.jpg",
+   "frames/s09_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 10,
+  "start": 17.43,
+  "end": 22.33,
+  "dur": 4.9,
+  "frames": [
+   "frames/s10_a.jpg",
+   "frames/s10_m.jpg",
+   "frames/s10_z.jpg"
+  ],
+  "words": "Sorry. That was rude. I didn't mean it like that."
+ },
+ {
+  "shot": 11,
+  "start": 22.33,
+  "end": 26.57,
+  "dur": 4.23,
+  "frames": [
+   "frames/s11_a.jpg",
+   "frames/s11_m.jpg",
+   "frames/s11_z.jpg"
+  ],
+  "words": "Can I ask what you use? Your skin is beautiful. How old are you? 45? 65."
+ },
+ {
+  "shot": 12,
+  "start": 26.57,
+  "end": 29.3,
+  "dur": 2.73,
+  "frames": [
+   "frames/s12_a.jpg",
+   "frames/s12_m.jpg",
+   "frames/s12_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 13,
+  "start": 29.3,
+  "end": 32.43,
+  "dur": 3.13,
+  "frames": [
+   "frames/s13_a.jpg",
+   "frames/s13_m.jpg",
+   "frames/s13_z.jpg"
+  ],
+  "words": "I'm sorry?"
+ },
+ {
+  "shot": 14,
+  "start": 32.43,
+  "end": 34.2,
+  "dur": 1.77,
+  "frames": [
+   "frames/s14_a.jpg",
+   "frames/s14_m.jpg",
+   "frames/s14_z.jpg"
+  ],
+  "words": "65."
+ },
+ {
+  "shot": 15,
+  "start": 34.2,
+  "end": 52.63,
+  "dur": 18.43,
+  "frames": [
+   "frames/s15_a.jpg",
+   "frames/s15_m.jpg",
+   "frames/s15_z.jpg"
+  ],
+  "words": "Wow. Honestly, I've been using that one. An eye cream, a vitamin C serum, and an $89 night cream for five years, and nothing has changed. Not one thing. Nothing in this shop is made from mature skin. So what am I supposed to buy?"
+ },
+ {
+  "shot": 16,
+  "start": 52.63,
+  "end": 54.4,
+  "dur": 1.77,
+  "frames": [
+   "frames/s16_a.jpg",
+   "frames/s16_m.jpg",
+   "frames/s16_z.jpg"
+  ],
+  "words": "Not here."
+ },
+ {
+  "shot": 17,
+  "start": 54.4,
+  "end": 57.27,
+  "dur": 2.87,
+  "frames": [
+   "frames/s17_a.jpg",
+   "frames/s17_m.jpg",
+   "frames/s17_z.jpg"
+  ],
+  "words": "Take"
+ },
+ {
+  "shot": 18,
+  "start": 57.27,
+  "end": 59.4,
+  "dur": 2.13,
+  "frames": [
+   "frames/s18_a.jpg",
+   "frames/s18_m.jpg",
+   "frames/s18_z.jpg"
+  ],
+  "words": "this one. We all use it in Korea."
+ },
+ {
+  "shot": 19,
+  "start": 59.4,
+  "end": 62.47,
+  "dur": 3.07,
+  "frames": [
+   "frames/s19_a.jpg",
+   "frames/s19_m.jpg",
+   "frames/s19_z.jpg"
+  ],
+  "words": "It's thin like water, two drops, morning and night. That's all."
+ },
+ {
+  "shot": 20,
+  "start": 62.47,
+  "end": 64.77,
+  "dur": 2.3,
+  "frames": [
+   "frames/s20_a.jpg",
+   "frames/s20_m.jpg",
+   "frames/s20_z.jpg"
+  ],
+  "words": "I can't take yours."
+ },
+ {
+  "shot": 21,
+  "start": 64.77,
+  "end": 66.07,
+  "dur": 1.3,
+  "frames": [
+   "frames/s21_a.jpg",
+   "frames/s21_m.jpg",
+   "frames/s21_z.jpg"
+  ],
+  "words": "I have three at home."
+ },
+ {
+  "shot": 22,
+  "start": 66.07,
+  "end": 70.3,
+  "dur": 4.23,
+  "frames": [
+   "frames/s22_a.jpg",
+   "frames/s22_m.jpg",
+   "frames/s22_z.jpg"
+  ],
+  "words": "So I just stop using everything?"
+ },
+ {
+  "shot": 23,
+  "start": 70.3,
+  "end": 72.03,
+  "dur": 1.73,
+  "frames": [
+   "frames/s23_a.jpg",
+   "frames/s23_m.jpg",
+   "frames/s23_z.jpg"
+  ],
+  "words": "For two weeks, yes."
+ },
+ {
+  "shot": 24,
+  "start": 72.03,
+  "end": 74.83,
+  "dur": 2.8,
+  "frames": [
+   "frames/s24_a.jpg",
+   "frames/s24_m.jpg",
+   "frames/s24_z.jpg"
+  ],
+  "words": "And how do I know it's the bottle and not something else?"
+ },
+ {
+  "shot": 25,
+  "start": 74.83,
+  "end": 80.63,
+  "dur": 5.8,
+  "frames": [
+   "frames/s25_a.jpg",
+   "frames/s25_m.jpg",
+   "frames/s25_z.jpg"
+  ],
+  "words": "Because you already ran the test. Five years on those four, you just told me nothing changed. You don't need to prove that"
+ },
+ {
+  "shot": 26,
+  "start": 80.63,
+  "end": 84.97,
+  "dur": 4.33,
+  "frames": [
+   "frames/s26_a.jpg",
+   "frames/s26_m.jpg",
+   "frames/s26_z.jpg"
+  ],
+  "words": "one again. Two drops, morning and night."
+ },
+ {
+  "shot": 27,
+  "start": 84.97,
+  "end": 88.03,
+  "dur": 3.07,
+  "frames": [
+   "frames/s27_a.jpg",
+   "frames/s27_m.jpg",
+   "frames/s27_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 28,
+  "start": 88.03,
+  "end": 89.37,
+  "dur": 1.33,
+  "frames": [
+   "frames/s28_a.jpg",
+   "frames/s28_m.jpg",
+   "frames/s28_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 29,
+  "start": 89.37,
+  "end": 94.53,
+  "dur": 5.17,
+  "frames": [
+   "frames/s29_a.jpg",
+   "frames/s29_m.jpg",
+   "frames/s29_z.jpg"
+  ],
+  "words": "And call me in two weeks, because you're going to want to."
+ },
+ {
+  "shot": 30,
+  "start": 94.53,
+  "end": 100.7,
+  "dur": 6.17,
+  "frames": [
+   "frames/s30_a.jpg",
+   "frames/s30_m.jpg",
+   "frames/s30_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 31,
+  "start": 100.7,
+  "end": 102.73,
+  "dur": 2.03,
+  "frames": [
+   "frames/s31_a.jpg",
+   "frames/s31_m.jpg",
+   "frames/s31_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 32,
+  "start": 102.73,
+  "end": 109.07,
+  "dur": 6.33,
+  "frames": [
+   "frames/s32_a.jpg",
+   "frames/s32_m.jpg",
+   "frames/s32_z.jpg"
+  ],
+  "words": "Ole Regenerist. Six months on this jar and nine years on the line before it."
+ },
+ {
+  "shot": 33,
+  "start": 109.07,
+  "end": 114.03,
+  "dur": 4.97,
+  "frames": [
+   "frames/s33_a.jpg",
+   "frames/s33_m.jpg",
+   "frames/s33_z.jpg"
+  ],
+  "words": "It feels lovely for about an hour, and then it's like I never put anything on."
+ },
+ {
+  "shot": 34,
+  "start": 114.03,
+  "end": 116.53,
+  "dur": 2.5,
+  "frames": [
+   "frames/s34_a.jpg",
+   "frames/s34_m.jpg",
+   "frames/s34_z.jpg"
+  ],
+  "words": "The eye cream, $44."
+ },
+ {
+  "shot": 35,
+  "start": 116.53,
+  "end": 122.77,
+  "dur": 6.23,
+  "frames": [
+   "frames/s35_a.jpg",
+   "frames/s35_m.jpg",
+   "frames/s35_z.jpg"
+  ],
+  "words": "Three years of patting that under my eyes every single night, and the shadows are darker now than when I started."
+ },
+ {
+  "shot": 36,
+  "start": 122.77,
+  "end": 123.53,
+  "dur": 0.77,
+  "frames": [
+   "frames/s36_a.jpg",
+   "frames/s36_m.jpg",
+   "frames/s36_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 37,
+  "start": 123.53,
+  "end": 129.77,
+  "dur": 6.23,
+  "frames": [
+   "frames/s37_a.jpg",
+   "frames/s37_m.jpg",
+   "frames/s37_z.jpg"
+  ],
+  "words": "The vitamin C, it tingles. I always assumed that meant it was doing something."
+ },
+ {
+  "shot": 38,
+  "start": 129.77,
+  "end": 131.17,
+  "dur": 1.4,
+  "frames": [
+   "frames/s38_a.jpg",
+   "frames/s38_m.jpg",
+   "frames/s38_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 39,
+  "start": 131.17,
+  "end": 133.87,
+  "dur": 2.7,
+  "frames": [
+   "frames/s39_a.jpg",
+   "frames/s39_m.jpg",
+   "frames/s39_z.jpg"
+  ],
+  "words": "The night cream, $89."
+ },
+ {
+  "shot": 40,
+  "start": 133.87,
+  "end": 141.3,
+  "dur": 7.43,
+  "frames": [
+   "frames/s40_a.jpg",
+   "frames/s40_m.jpg",
+   "frames/s40_z.jpg"
+  ],
+  "words": "Beautiful jar, smells expensive. Did exactly what the $20 one did."
+ },
+ {
+  "shot": 41,
+  "start": 141.3,
+  "end": 141.93,
+  "dur": 0.63,
+  "frames": [
+   "frames/s41_a.jpg",
+   "frames/s41_m.jpg",
+   "frames/s41_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 42,
+  "start": 141.93,
+  "end": 143.2,
+  "dur": 1.27,
+  "frames": [
+   "frames/s42_a.jpg",
+   "frames/s42_m.jpg",
+   "frames/s42_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 43,
+  "start": 143.2,
+  "end": 145.47,
+  "dur": 2.27,
+  "frames": [
+   "frames/s43_a.jpg",
+   "frames/s43_m.jpg",
+   "frames/s43_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 44,
+  "start": 145.47,
+  "end": 148.03,
+  "dur": 2.57,
+  "frames": [
+   "frames/s44_a.jpg",
+   "frames/s44_m.jpg",
+   "frames/s44_z.jpg"
+  ],
+  "words": "Two weeks."
+ },
+ {
+  "shot": 45,
+  "start": 148.03,
+  "end": 150.63,
+  "dur": 2.6,
+  "frames": [
+   "frames/s45_a.jpg",
+   "frames/s45_m.jpg",
+   "frames/s45_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 46,
+  "start": 150.63,
+  "end": 154.2,
+  "dur": 3.57,
+  "frames": [
+   "frames/s46_a.jpg",
+   "frames/s46_m.jpg",
+   "frames/s46_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 47,
+  "start": 154.2,
+  "end": 163.93,
+  "dur": 9.73,
+  "frames": [
+   "frames/s47_a.jpg",
+   "frames/s47_m.jpg",
+   "frames/s47_z.jpg"
+  ],
+  "words": "Where did it go? There was nothing on my hands."
+ },
+ {
+  "shot": 48,
+  "start": 163.93,
+  "end": 166.83,
+  "dur": 2.9,
+  "frames": [
+   "frames/s48_a.jpg",
+   "frames/s48_m.jpg",
+   "frames/s48_z.jpg"
+  ],
+  "words": "And in the morning, there was nothing on the pillow, which"
+ },
+ {
+  "shot": 49,
+  "start": 166.83,
+  "end": 176.43,
+  "dur": 9.6,
+  "frames": [
+   "frames/s49_a.jpg",
+   "frames/s49_m.jpg",
+   "frames/s49_z.jpg"
+  ],
+  "words": "after five years of that night cream was the first thing I noticed. Day one, soft all day, not tight by the afternoon for the first time in years."
+ },
+ {
+  "shot": 50,
+  "start": 176.43,
+  "end": 181.47,
+  "dur": 5.03,
+  "frames": [
+   "frames/s50_a.jpg",
+   "frames/s50_m.jpg",
+   "frames/s50_z.jpg"
+  ],
+  "words": "Week one, the deep lines across my forehead started to go quiet."
+ },
+ {
+  "shot": 51,
+  "start": 181.47,
+  "end": 188.4,
+  "dur": 6.93,
+  "frames": [
+   "frames/s51_a.jpg",
+   "frames/s51_m.jpg",
+   "frames/s51_z.jpg"
+  ],
+  "words": "Week two, the hollows under my eyes slowly started filling in. Ah, two weeks."
+ },
+ {
+  "shot": 52,
+  "start": 188.4,
+  "end": 190.57,
+  "dur": 2.17,
+  "frames": [
+   "frames/s52_a.jpg",
+   "frames/s52_m.jpg",
+   "frames/s52_z.jpg"
+  ],
+  "words": "Two weeks."
+ },
+ {
+  "shot": 53,
+  "start": 190.57,
+  "end": 193.03,
+  "dur": 2.47,
+  "frames": [
+   "frames/s53_a.jpg",
+   "frames/s53_m.jpg",
+   "frames/s53_z.jpg"
+  ],
+  "words": "Turn toward the window, let me see your forehead."
+ },
+ {
+  "shot": 54,
+  "start": 193.03,
+  "end": 195.13,
+  "dur": 2.1,
+  "frames": [
+   "frames/s54_a.jpg",
+   "frames/s54_m.jpg",
+   "frames/s54_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 55,
+  "start": 195.13,
+  "end": 197.27,
+  "dur": 2.13,
+  "frames": [
+   "frames/s55_a.jpg",
+   "frames/s55_m.jpg",
+   "frames/s55_z.jpg"
+  ],
+  "words": "Mmm, there it is."
+ },
+ {
+  "shot": 56,
+  "start": 197.27,
+  "end": 199.67,
+  "dur": 2.4,
+  "frames": [
+   "frames/s56_a.jpg",
+   "frames/s56_m.jpg",
+   "frames/s56_z.jpg"
+  ],
+  "words": "I'm quite angry with you."
+ },
+ {
+  "shot": 57,
+  "start": 199.67,
+  "end": 200.63,
+  "dur": 0.97,
+  "frames": [
+   "frames/s57_a.jpg",
+   "frames/s57_m.jpg",
+   "frames/s57_z.jpg"
+  ],
+  "words": "Why?"
+ },
+ {
+  "shot": 58,
+  "start": 200.63,
+  "end": 209.17,
+  "dur": 8.53,
+  "frames": [
+   "frames/s58_a.jpg",
+   "frames/s58_m.jpg",
+   "frames/s58_z.jpg"
+  ],
+  "words": "Because I'm 57 and I spent five years and I don't know how much money, and a stranger in a queue sorted in two weeks. Why does nobody know about this?"
+ },
+ {
+  "shot": 59,
+  "start": 209.17,
+  "end": 211.93,
+  "dur": 2.77,
+  "frames": [
+   "frames/s59_a.jpg",
+   "frames/s59_m.jpg",
+   "frames/s59_z.jpg"
+  ],
+  "words": "Because nobody in that shop sells it."
+ },
+ {
+  "shot": 60,
+  "start": 211.93,
+  "end": 217.07,
+  "dur": 5.13,
+  "frames": [
+   "frames/s60_a.jpg",
+   "frames/s60_m.jpg",
+   "frames/s60_z.jpg"
+  ],
+  "words": "Explain it to me properly because I need to understand what has been going on in my bathroom."
+ },
+ {
+  "shot": 61,
+  "start": 217.07,
+  "end": 219.07,
+  "dur": 2.0,
+  "frames": [
+   "frames/s61_a.jpg",
+   "frames/s61_m.jpg",
+   "frames/s61_z.jpg"
+  ],
+  "words": "Okay, it's two things."
+ },
+ {
+  "shot": 62,
+  "start": 219.07,
+  "end": 225.07,
+  "dur": 6.0,
+  "frames": [
+   "frames/s62_a.jpg",
+   "frames/s62_m.jpg",
+   "frames/s62_z.jpg"
+  ],
+  "words": "The first one is what you've lost. Collagen holds your face up. Elastim is what makes your skin snap back."
+ },
+ {
+  "shot": 63,
+  "start": 225.07,
+  "end": 229.9,
+  "dur": 4.83,
+  "frames": [
+   "frames/s63_a.jpg",
+   "frames/s63_m.jpg",
+   "frames/s63_z.jpg"
+  ],
+  "words": "After 40 you barely make either one, so there's nothing underneath holding anything in place."
+ },
+ {
+  "shot": 64,
+  "start": 229.9,
+  "end": 232.57,
+  "dur": 2.67,
+  "frames": [
+   "frames/s64_a.jpg",
+   "frames/s64_m.jpg",
+   "frames/s64_z.jpg"
+  ],
+  "words": "That's your lines, that's your hollows, that's your jaw."
+ },
+ {
+  "shot": 65,
+  "start": 232.57,
+  "end": 235.63,
+  "dur": 3.07,
+  "frames": [
+   "frames/s65_a.jpg",
+   "frames/s65_m.jpg",
+   "frames/s65_z.jpg"
+  ],
+  "words": "It was never your age and it was never dryness."
+ },
+ {
+  "shot": 66,
+  "start": 235.63,
+  "end": 238.5,
+  "dur": 2.87,
+  "frames": [
+   "frames/s66_a.jpg",
+   "frames/s66_m.jpg",
+   "frames/s66_z.jpg"
+  ],
+  "words": "So I should have been buying a collagen cream."
+ },
+ {
+  "shot": 67,
+  "start": 238.5,
+  "end": 245.8,
+  "dur": 7.3,
+  "frames": [
+   "frames/s67_a.jpg",
+   "frames/s67_m.jpg",
+   "frames/s67_z.jpg"
+  ],
+  "words": "You'd have wasted more money, that's the second thing. The collagen in those jaws is far too big to get into your skin. Your skin keeps things out, that is its"
+ },
+ {
+  "shot": 68,
+  "start": 245.8,
+  "end": 251.17,
+  "dur": 5.37,
+  "frames": [
+   "frames/s68_a.jpg",
+   "frames/s68_m.jpg",
+   "frames/s68_z.jpg"
+  ],
+  "words": "entire job and it's very good at it. Five years of that. And"
+ },
+ {
+  "shot": 69,
+  "start": 251.17,
+  "end": 252.73,
+  "dur": 1.57,
+  "frames": [
+   "frames/s69_a.jpg",
+   "frames/s69_m.jpg",
+   "frames/s69_z.jpg"
+  ],
+  "words": "this one gets in? It's"
+ },
+ {
+  "shot": 70,
+  "start": 252.73,
+  "end": 256.33,
+  "dur": 3.6,
+  "frames": [
+   "frames/s70_a.jpg",
+   "frames/s70_m.jpg",
+   "frames/s70_z.jpg"
+  ],
+  "words": "made at body temperature. The same warmth your skin already is."
+ },
+ {
+  "shot": 71,
+  "start": 256.33,
+  "end": 260.57,
+  "dur": 4.23,
+  "frames": [
+   "frames/s71_a.jpg",
+   "frames/s71_m.jpg",
+   "frames/s71_z.jpg"
+  ],
+  "words": "So your skin reads it as its own and takes it in instead of pushing it off."
+ },
+ {
+  "shot": 72,
+  "start": 260.57,
+  "end": 265.9,
+  "dur": 5.33,
+  "frames": [
+   "frames/s72_a.jpg",
+   "frames/s72_m.jpg",
+   "frames/s72_z.jpg"
+  ],
+  "words": "Nearly 8 % collagen in eight forms, elastin, and nine forms of hyaluronic acid."
+ },
+ {
+  "shot": 73,
+  "start": 265.9,
+  "end": 267.13,
+  "dur": 1.23,
+  "frames": [
+   "frames/s73_a.jpg",
+   "frames/s73_m.jpg",
+   "frames/s73_z.jpg"
+  ],
+  "words": "That's it?"
+ },
+ {
+  "shot": 74,
+  "start": 267.13,
+  "end": 272.07,
+  "dur": 4.93,
+  "frames": [
+   "frames/s74_a.jpg",
+   "frames/s74_m.jpg",
+   "frames/s74_z.jpg"
+  ],
+  "words": "That's it. There's nothing miraculous about it. Everything you were buying was working on the surface"
+ },
+ {
+  "shot": 75,
+  "start": 272.07,
+  "end": 276.03,
+  "dur": 3.97,
+  "frames": [
+   "frames/s75_a.jpg",
+   "frames/s75_m.jpg",
+   "frames/s75_z.jpg"
+  ],
+  "words": "and this one isn't. I want to be clear that I'm still angry."
+ },
+ {
+  "shot": 76,
+  "start": 276.03,
+  "end": 282.47,
+  "dur": 6.43,
+  "frames": [
+   "frames/s76_a.jpg",
+   "frames/s76_m.jpg",
+   "frames/s76_z.jpg"
+  ],
+  "words": "Understood. Week four, my skin was smooth and glowing and my jaw was firm again."
+ },
+ {
+  "shot": 77,
+  "start": 282.47,
+  "end": 283.77,
+  "dur": 1.3,
+  "frames": [
+   "frames/s77_a.jpg",
+   "frames/s77_m.jpg",
+   "frames/s77_z.jpg"
+  ],
+  "words": "Mrs. Jung."
+ },
+ {
+  "shot": 78,
+  "start": 283.77,
+  "end": 284.77,
+  "dur": 1.0,
+  "frames": [
+   "frames/s78_a.jpg",
+   "frames/s78_m.jpg",
+   "frames/s78_z.jpg"
+  ],
+  "words": "Hello?"
+ },
+ {
+  "shot": 79,
+  "start": 284.77,
+  "end": 289.13,
+  "dur": 4.37,
+  "frames": [
+   "frames/s79_a.jpg",
+   "frames/s79_m.jpg",
+   "frames/s79_z.jpg"
+  ],
+  "words": "No, look. Look at the light on it. Nothing on my face, nothing at all."
+ },
+ {
+  "shot": 80,
+  "start": 289.13,
+  "end": 293.17,
+  "dur": 4.03,
+  "frames": [
+   "frames/s80_a.jpg",
+   "frames/s80_m.jpg",
+   "frames/s80_z.jpg"
+  ],
+  "words": "There's the light sitting on your cheek again."
+ },
+ {
+  "shot": 81,
+  "start": 293.17,
+  "end": 300.9,
+  "dur": 7.73,
+  "frames": [
+   "frames/s81_a.jpg",
+   "frames/s81_m.jpg",
+   "frames/s81_z.jpg"
+  ],
+  "words": "It's been 30 days. 30. I have been trying to fix this since I was 48."
+ },
+ {
+  "shot": 82,
+  "start": 300.9,
+  "end": 303.03,
+  "dur": 2.13,
+  "frames": [
+   "frames/s82_a.jpg",
+   "frames/s82_m.jpg",
+   "frames/s82_z.jpg"
+  ],
+  "words": "I know."
+ },
+ {
+  "shot": 83,
+  "start": 303.03,
+  "end": 305.97,
+  "dur": 2.93,
+  "frames": [
+   "frames/s83_a.jpg",
+   "frames/s83_m.jpg",
+   "frames/s83_z.jpg"
+  ],
+  "words": "Sorry, can I ask you something? Sure."
+ },
+ {
+  "shot": 84,
+  "start": 305.97,
+  "end": 308.47,
+  "dur": 2.5,
+  "frames": [
+   "frames/s84_a.jpg",
+   "frames/s84_m.jpg",
+   "frames/s84_z.jpg"
+  ],
+  "words": "Are those all for you?"
+ },
+ {
+  "shot": 85,
+  "start": 308.47,
+  "end": 311.3,
+  "dur": 2.83,
+  "frames": [
+   "frames/s85_a.jpg",
+   "frames/s85_m.jpg",
+   "frames/s85_z.jpg"
+  ],
+  "words": "Yeah. Nothing works, so I'm going"
+ },
+ {
+  "shot": 86,
+  "start": 311.3,
+  "end": 312.47,
+  "dur": 1.17,
+  "frames": [
+   "frames/s86_a.jpg",
+   "frames/s86_m.jpg",
+   "frames/s86_z.jpg"
+  ],
+  "words": "to try all of them."
+ },
+ {
+  "shot": 87,
+  "start": 312.47,
+  "end": 313.4,
+  "dur": 0.93,
+  "frames": [
+   "frames/s87_a.jpg",
+   "frames/s87_m.jpg",
+   "frames/s87_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 88,
+  "start": 313.4,
+  "end": 316.47,
+  "dur": 3.07,
+  "frames": [
+   "frames/s88_a.jpg",
+   "frames/s88_m.jpg",
+   "frames/s88_z.jpg"
+  ],
+  "words": "You don't need to try all three. You've already done that test, haven't you?"
+ },
+ {
+  "shot": 89,
+  "start": 316.47,
+  "end": 317.63,
+  "dur": 1.17,
+  "frames": [
+   "frames/s89_a.jpg",
+   "frames/s89_m.jpg",
+   "frames/s89_z.jpg"
+  ],
+  "words": "Yeah."
+ },
+ {
+  "shot": 90,
+  "start": 317.63,
+  "end": 319.03,
+  "dur": 1.4,
+  "frames": [
+   "frames/s90_a.jpg",
+   "frames/s90_m.jpg",
+   "frames/s90_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 91,
+  "start": 319.03,
+  "end": 321.4,
+  "dur": 2.37,
+  "frames": [
+   "frames/s91_a.jpg",
+   "frames/s91_m.jpg",
+   "frames/s91_z.jpg"
+  ],
+  "words": "Two weeks on this one instead."
+ },
+ {
+  "shot": 92,
+  "start": 321.4,
+  "end": 327.93,
+  "dur": 6.53,
+  "frames": [
+   "frames/s92_a.jpg",
+   "frames/s92_m.jpg",
+   "frames/s92_z.jpg"
+  ],
+  "words": "A stranger tapped my elbow in a queue to tell me something"
+ },
+ {
+  "shot": 93,
+  "start": 327.93,
+  "end": 330.27,
+  "dur": 2.33,
+  "frames": [
+   "frames/s93_a.jpg",
+   "frames/s93_m.jpg",
+   "frames/s93_z.jpg"
+  ],
+  "words": "nobody in that shop was ever going to tell me."
+ },
+ {
+  "shot": 94,
+  "start": 330.27,
+  "end": 331.13,
+  "dur": 0.87,
+  "frames": [
+   "frames/s94_a.jpg",
+   "frames/s94_m.jpg",
+   "frames/s94_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 95,
+  "start": 331.13,
+  "end": 333.57,
+  "dur": 2.43,
+  "frames": [
+   "frames/s95_a.jpg",
+   "frames/s95_m.jpg",
+   "frames/s95_z.jpg"
+  ],
+  "words": "It was never my age."
+ },
+ {
+  "shot": 96,
+  "start": 333.57,
+  "end": 335.77,
+  "dur": 2.2,
+  "frames": [
+   "frames/s96_a.jpg",
+   "frames/s96_m.jpg",
+   "frames/s96_z.jpg"
+  ],
+  "words": "It was never my face."
+ },
+ {
+  "shot": 97,
+  "start": 335.77,
+  "end": 338.23,
+  "dur": 2.47,
+  "frames": [
+   "frames/s97_a.jpg",
+   "frames/s97_m.jpg",
+   "frames/s97_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 98,
+  "start": 338.23,
+  "end": 339.27,
+  "dur": 1.03,
+  "frames": [
+   "frames/s98_a.jpg",
+   "frames/s98_m.jpg",
+   "frames/s98_z.jpg"
+  ],
+  "words": ""
+ },
+ {
+  "shot": 99,
+  "start": 339.27,
+  "end": 342.03,
+  "dur": 2.77,
+  "frames": [
+   "frames/s99_a.jpg",
+   "frames/s99_m.jpg",
+   "frames/s99_z.jpg"
+  ],
+  "words": "Everything on those shelves was built for a woman who"
+ },
+ {
+  "shot": 100,
+  "start": 342.03,
+  "end": 344.67,
+  "dur": 2.63,
+  "frames": [
+   "frames/s100_a.jpg",
+   "frames/s100_m.jpg",
+   "frames/s100_z.jpg"
+  ],
+  "words": "still makes her own collagen."
+ },
+ {
+  "shot": 101,
+  "start": 344.67,
+  "end": 346.77,
+  "dur": 2.1,
+  "frames": [
+   "frames/s101_a.jpg",
+   "frames/s101_m.jpg",
+   "frames/s101_z.jpg"
+  ],
+  "words": ""
+ }
+]
